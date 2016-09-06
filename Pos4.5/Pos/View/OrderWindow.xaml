@@ -1,0 +1,164 @@
+﻿<local:BaseWindow 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.galasoft.ch/ignore"
+        xmlns:app="clr-namespace:Pos"
+        xmlns:local="clr-namespace:Pos.View"
+        xmlns:vm="clr-namespace:Pos.ViewModel"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
+        xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+        xmlns:Lib="clr-namespace:Lib;assembly=Utils" xmlns:Custom="http://www.galasoft.ch/mvvmlight" x:Class="Pos.View.OrderWindow"
+        mc:Ignorable="d ignore"
+        WindowStartupLocation="CenterScreen" Width="812.439" Height="520.725" Icon="/Resources/Logo.png" Style="{DynamicResource BlankWindow}" WindowState="Maximized" Loaded="Window_Loaded" WindowStyle="None" Background="White" >
+    <local:BaseWindow.Resources>
+        <app:App x:Key="app"/>
+        <vm:SelectedItemToListConverter x:Key="itemcvt"/>
+        <ItemsPanelTemplate x:Key="dishtypeItemsPanelTemplate">
+            <VirtualizingStackPanel IsItemsHost="True" Orientation="Horizontal"/>
+        </ItemsPanelTemplate>
+        <DataTemplate x:Key="DishTypeItemTemplate">
+                <Grid Height="34" Width="120">
+                    <TextBlock Text="{Binding DishType.Name, Mode=TwoWay, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True, ValidatesOnExceptions=True}"  Padding="0" IsEnabled="False" Style="{DynamicResource TextBlockCommonStyle}" FontSize="{DynamicResource FontMidel}" Height="Auto" Width="Auto" Background="{x:Null}" Margin="4" HorizontalAlignment="Center"  />
+                </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="OrderedDishItemTemplate">
+            <Border  Style="{DynamicResource CommonBorderStyle}" IsEnabled="True" BorderBrush="{x:Null}" BorderThickness="0" Margin="0" Background="{x:Null}" >
+                <Grid Height="50">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition Width="120"/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel>
+                        <TextBlock x:Name="dishname" Text="{Binding DishName}" Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" Width="Auto" TextTrimming="CharacterEllipsis" FontSize="{DynamicResource FontMidel}"/>
+                        <TextBlock x:Name="price" FontSize="{DynamicResource FontSmall}" Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" Width="Auto" VerticalAlignment="Bottom" Margin="0,4,0,0">
+                            <TextBlock.Text>
+                                <MultiBinding StringFormat="￥{0}/{1}">
+                                    <Binding Path="Price" />
+                                    <Binding Path="Unit" />
+                                </MultiBinding>
+                            </TextBlock.Text>
+                        </TextBlock>
+                     </StackPanel>
+                    <DockPanel Grid.Column="1" Margin="2,0,10,0">
+                        <Button x:Name="btnMinus" Width="30"  Content="&#xf068;" FontFamily="{StaticResource FontAwesome}"   Height="30" Style="{DynamicResource LittleRoundButtonStyle}" BorderThickness="0"  FontSize="{DynamicResource FontSmall}" DockPanel.Dock="Left" Command="{Binding DataContext.ModifyQtyCommand, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type local:OrderWindow}}}" CommandParameter="-1" Background="{x:Null}" Foreground="Red" />
+                        <Button x:Name="btnAdd" Content="&#xf067;" FontFamily="{StaticResource FontAwesome}" Width="30" Style="{DynamicResource LittleRoundButtonStyle}" DockPanel.Dock="Right" Height="30" BorderThickness="0"  Command="{Binding DataContext.ModifyQtyCommand, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type local:OrderWindow}}}" CommandParameter="1" Background="{x:Null}" FontSize="{DynamicResource FontSmall}" Foreground="Red"/>
+                        <TextBox x:Name="qty" TextWrapping="NoWrap"  Width="Auto"  IsReadOnly="True" Foreground="#FFF70303" BorderBrush="{x:Null}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"  Height="Auto" Padding="0" Background="{x:Null}" BorderThickness="0" Style="{DynamicResource TextBlockSameStyle}" FontSize="{DynamicResource FontLarge}" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding Quantity}">
+                        </TextBox>
+                    </DockPanel>
+                </Grid>
+            </Border>
+        </DataTemplate>
+        <DataTemplate x:Key="DishItemTemplate">
+            <Grid Height="80" Width="150">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <TextBlock TextWrapping="Wrap" Text="{Binding Name, NotifyOnValidationError=True, ValidatesOnDataErrors=True, ValidatesOnExceptions=True}" FontSize="{DynamicResource FontMidel}" Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" Width="Auto" VerticalAlignment="Stretch"/>
+                <TextBlock FontSize="{StaticResource FontSmall}" Grid.RowSpan="1" Grid.Row="1" VerticalAlignment="Bottom">
+                    <TextBlock.Text>
+                        <MultiBinding StringFormat="￥{0}/{1}">
+                            <Binding Path="Price" />
+                            <Binding Path="Unit" />
+                        </MultiBinding>
+                    </TextBlock.Text>
+                </TextBlock>
+            </Grid>
+        </DataTemplate>
+    </local:BaseWindow.Resources>
+    <local:BaseWindow.DataContext>
+        <Binding Mode="OneWay" Path="Order" Source="{StaticResource Locator}"/>
+    </local:BaseWindow.DataContext>
+    <Grid x:Name="root" Grid.IsSharedSizeScope="True"  >
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition/>
+            <RowDefinition Height="80"/>
+        </Grid.RowDefinitions>
+        <Border Style="{DynamicResource HeaderBorder}">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="1"/>
+                </Grid.ColumnDefinitions>
+                <DockPanel x:Name="header" LastChildFill="False">
+                    <Image x:Name="image" Width="62.205" Source="/Resources/Logo.png"/>
+                    <TextBlock x:Name="tbSoftWare" TextWrapping="Wrap" Text="点餐猫收银系统" Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" FontSize="36" Foreground="{DynamicResource HeaderForground}"/>
+                    <DockPanel Margin="10,25,10,0" >
+                        <TextBlock x:Name="textBlock_time" TextWrapping="Wrap" Text="2016-04-23 11:11:11"  Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" FontSize="{DynamicResource FontSmall}" Foreground="{DynamicResource HeaderForground}" Margin="0,17,0,16"/>
+                        <TextBlock x:Name="textBlock_Copy2" TextWrapping="Wrap" Text="收银员:"   Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" FontSize="{DynamicResource FontSmall}" Foreground="{DynamicResource HeaderForground}" Margin="10,18,0,17"/>
+                        <TextBlock x:Name="textBlock_Copy3" TextWrapping="Wrap" Text="{x:Static app:App.OperatorName}"   Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" FontSize="{DynamicResource FontSmall}" Foreground="{DynamicResource HeaderForground}" Margin="0,17,0,16" MinWidth="30"/>
+                        <TextBlock x:Name="textBlock_s" TextWrapping="Wrap" Text="商家:"   Style="{DynamicResource TextBlockCommonStyle}" Height="20" FontSize="{DynamicResource FontSmall}" Foreground="{DynamicResource HeaderForground}" Margin="20,18,0,17" />
+                        <TextBlock x:Name="textBlock_shop" TextWrapping="Wrap" Text="{x:Static app:App.ShopName}"   Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" FontSize="{DynamicResource FontSmall}" Foreground="{DynamicResource HeaderForground}" Margin="0,17,0,16" DockPanel.Dock="Left" HorizontalAlignment="Left" MinWidth="30" />
+
+                        <TextBlock x:Name="textBlock_v" TextWrapping="Wrap" Text="版本号:"   Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" FontSize="{DynamicResource FontSmall}" Foreground="{DynamicResource HeaderForground}" Margin="20,18,0,17" Visibility="Collapsed" />
+                        <TextBlock x:Name="textBlock_version" TextWrapping="Wrap" Text="{x:Static app:App.Version}"   Style="{DynamicResource TextBlockCommonStyle}" Height="Auto" FontSize="{DynamicResource FontSmall}" Foreground="{DynamicResource HeaderForground}" Margin="0,18,0,17" DockPanel.Dock="Left" HorizontalAlignment="Left" Visibility="Collapsed" />
+                    </DockPanel>
+                </DockPanel>
+                <Button x:Name="close" Content="&#xF00D;" FontFamily="{DynamicResource FontAwesome}" HorizontalContentAlignment="Center" Style="{DynamicResource LittleRoundButtonStyle}" Background="{x:Null}" BorderBrush="Black" FontSize="36" BorderThickness="0" Foreground="{DynamicResource HeaderForground}" Click="closeButton_Click" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,20,0"/>
+
+            </Grid>
+        </Border>
+        <Grid Grid.Row="1" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="300" MinWidth="250" SharedSizeGroup="moneyamount"/>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Border  Padding="4" BorderThickness="0,0,0,2" Style="{DynamicResource CommonBorderStyle}">
+                    <DockPanel LastChildFill="False">
+                        <Button x:Name="button" Content="清空" Height="auto" Style="{DynamicResource ButtonCommonStyle}" Command="{Binding ClearOrderedDishCommand, Mode=OneWay}" />
+                        <TextBlock x:Name="textBlock2"  Text="{Binding OrderedDishQty, Mode=OneWay,StringFormat=共 {0} 件}" Style="{DynamicResource TextBlockCommonStyle}" Height="auto" FontFamily="{DynamicResource FontFamilySt}" HorizontalAlignment="Center" VerticalAlignment="Center" DockPanel.Dock="Right" Width="80"/>
+                    </DockPanel>
+                </Border>
+                <ListBox  x:Name="orderedDishlistBox" ItemTemplate="{DynamicResource OrderedDishItemTemplate}" ItemsSource="{Binding CurorderDetailList}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" ScrollViewer.CanContentScroll="True" IsSynchronizedWithCurrentItem="False" Grid.Row="1" Background="{x:Null}" ItemContainerStyle="{DynamicResource BorderListBoxItemStyle}" ScrollViewer.HorizontalScrollBarVisibility="Disabled" Margin="0,1,0,0" SelectedIndex="{Binding OrderedDishSelectedIndex}" >
+                </ListBox>
+
+            </Grid>
+            <Grid Grid.Column="2" HorizontalAlignment="Stretch">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="50"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <StackPanel Orientation="Vertical" d:LayoutOverrides="Height">
+                    <Border d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin, LeftPosition, RightPosition" Height="50" Style="{DynamicResource CommonBorderStyle}" BorderThickness="0,0,0,2" >
+                        <ListBox x:Name="dishTypeListBox" ItemsPanel="{DynamicResource dishtypeItemsPanelTemplate}" ItemTemplate="{DynamicResource DishTypeItemTemplate}" ItemsSource="{Binding DishAndTypeList}" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ScrollViewer.VerticalScrollBarVisibility="Disabled" ItemContainerStyle="{DynamicResource DishTypeListBoxItemStyle}" Background="{x:Null}" >
+                            <i:Interaction.Triggers>
+                                <i:EventTrigger EventName="SelectionChanged">
+                                    <Custom:EventToCommand PassEventArgsToCommand="True" CommandParameter="{Binding SelectedIndex, ElementName=dishTypeListBox}" Command="{Binding DishTyeSelectionChangedCommand, Mode=OneWay}"/>
+                                </i:EventTrigger>
+                            </i:Interaction.Triggers>
+                        </ListBox>
+                    </Border>
+                </StackPanel>
+                <ListBox x:Name="dishlistBox" Grid.Row="1"  MinWidth="100" ItemTemplate="{DynamicResource DishItemTemplate}" ItemContainerStyle="{DynamicResource BorderListBoxItemStyle}" Style="{DynamicResource FillWrapListBoxStyle}" BorderThickness="0" ScrollViewer.HorizontalScrollBarVisibility="Disabled" ItemsSource="{Binding SelectedItem, Converter={StaticResource itemcvt}, ElementName=dishTypeListBox}" ScrollViewer.VerticalScrollBarVisibility="Auto" Background="{x:Null}" >
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="MouseLeftButtonUp">
+                            <Lib:RoutedEventCommand Command="{Binding DataContext.AddDishCommand, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type local:OrderWindow}}}"/>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </ListBox>
+            </Grid>
+            <GridSplitter x:Name="gridSplitter" Grid.Column="1" Background="#88888888" Width="2"/>
+        </Grid>
+        <Border Grid.Row="2" d:LayoutOverrides="LeftMargin, RightMargin, TopMargin, BottomMargin" BorderThickness="0,2,0,0" Style="{DynamicResource CommonBorderStyle}" >
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition SharedSizeGroup="moneyamount"/>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <TextBlock x:Name="textBlock3" TextWrapping="Wrap" FontSize="20" HorizontalAlignment="Center" VerticalAlignment="Center" Text="{Binding OrderedDishAmount, Mode=OneWay,StringFormat=合计金额￥{0}}"/>
+                <Button x:Name="button1" Grid.Column="1" Content="收款" Style="{DynamicResource ButtonCommonStyle}" Height="Auto" HorizontalAlignment="Right" Margin="0,4,4,4" Width="169.097" FontWeight="Bold" VerticalAlignment="Stretch" Command="{Binding CheckOutCommand, Mode=OneWay}" Background="#FFF50909" Foreground="White" />
+                <Button x:Name="button1_Copy" Grid.Column="1" Content="历史账单" Style="{DynamicResource ButtonCommonStyle}" Height="Auto" Margin="0,4,178.097,4" FontWeight="Bold" VerticalAlignment="Stretch" Background="#FFF50909" Foreground="White" Click="buttonHisorder_Click" HorizontalAlignment="Right" Width="169.097" />
+            </Grid>
+
+        </Border>
+    </Grid>
+</local:BaseWindow>

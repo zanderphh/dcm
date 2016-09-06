@@ -1,0 +1,116 @@
+﻿<local:BaseWindow x:Class="Pos.View.CheckOutWindow" 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.galasoft.ch/ignore"
+        xmlns:local="clr-namespace:Pos.View"
+        xmlns:vm="clr-namespace:Pos.ViewModel"
+        xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+        mc:Ignorable="d ignore"
+        Style="{StaticResource EmptyWindow}"
+        DataContext="{Binding CheckOut, Source={StaticResource Locator}}" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Width="800" Height="600" WindowStyle="None" Background="{x:Null}" Foreground="{x:Null}">
+    <Border BorderThickness="1" BorderBrush="#FFFF0303" Background="White" CornerRadius="{DynamicResource CornerRadius}">
+        <Grid x:Name="root"  >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="80"/>
+                <RowDefinition Height="80"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Border Style="{DynamicResource HeaderBorder}" Background="Red" CornerRadius="5,5,0,0" >
+                <Grid >
+                    <TextBlock x:Name="tblTitle" FontSize="48" FontWeight="Bold" TextAlignment="Center" Foreground="White" Padding="0,8,0,0"><Run Text="收款"/></TextBlock>
+                    <Button x:Name="close" Content="&#xF00D;" FontFamily="{DynamicResource FontAwesome}" HorizontalContentAlignment="Center" Style="{DynamicResource LittleRoundButtonStyle}" Background="{x:Null}" BorderBrush="Black" FontSize="36" BorderThickness="0" Foreground="White" Click="closeButton_Click" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0,0,20,0"/>
+                </Grid>
+            </Border>
+            <Grid Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="20"/>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <DockPanel  x:Name="leftGrid" Height="340.591" VerticalAlignment="Top" GotFocus="textBox_GotFocus" KeyDown="OnKeyDown">
+                    <StackPanel Height="{DynamicResource TouchHeight}" VerticalAlignment="Top" Width="378" d:LayoutOverrides="VerticalAlignment, Width, LeftPosition, RightPosition, TopPosition, BottomPosition" Margin="4" DockPanel.Dock="Top" >
+                        <DockPanel Height="{DynamicResource TouchHeight}" >
+                            <CheckBox x:Name="cbxMoney" Tag="1" Content="现金" Width="150" Height="{DynamicResource TouchHeight}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Style="{DynamicResource TouchCheckBoxStyle}" FontSize="{DynamicResource FontLarge}" BorderThickness="0" Background="{x:Null}" BorderBrush="{x:Null}" IsEnabled="False"/>
+                            <TextBox x:Name="tbxMoney" Tag="1" TextWrapping="Wrap" Style="{DynamicResource TextBoxCommonStyle}" Height="{DynamicResource TouchHeight}" Width="Auto"  TextChanged="tbxMoney_TextChanged" Text="{Binding PayCodeMoney}"/>
+                        </DockPanel>
+                    </StackPanel>
+                    <StackPanel Height="{DynamicResource TouchHeight}" VerticalAlignment="Top" Width="378" d:LayoutOverrides="VerticalAlignment, Width, LeftPosition, RightPosition" Margin="4" DockPanel.Dock="Top" >
+                        <DockPanel Height="{DynamicResource TouchHeight}" >
+                            <TextBox Width="150" Style="{DynamicResource TextBlockSameStyle}" FontSize="{DynamicResource FontLarge}" HorizontalContentAlignment="Right" Padding="0,0,8,0" Height="{DynamicResource TouchHeight}" FontFamily="{Binding FontFamily, ElementName=cbxMoney}" Text="找零"/>
+                            <TextBox x:Name="tbxZl" TextWrapping="Wrap" Style="{DynamicResource TextBoxCommonStyle}" Height="{DynamicResource TouchHeight}" Width="Auto" IsEnabled="False" Background="#FFEAEAEA"/>
+                        </DockPanel>
+                    </StackPanel>
+                    <StackPanel  Height="{DynamicResource TouchHeight}" VerticalAlignment="Top" Width="378" Margin="4" d:LayoutOverrides="Width, LeftPosition, RightPosition" DockPanel.Dock="Top" >
+                        <DockPanel Height="{DynamicResource TouchHeight}" >
+                            <CheckBox x:Name="cbxWx" Tag="2" Width="150" Height="{DynamicResource TouchHeight}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" RenderTransformOrigin="0.5,0.5" Style="{DynamicResource TouchCheckBoxStyle}" FontSize="{DynamicResource FontLarge}"  BorderThickness="0" Content="微信" IsEnabled="False"/>
+                            <TextBox x:Name="tbxWx" Tag="2" TextWrapping="Wrap" Style="{DynamicResource TextBoxCommonStyle}" Height="{DynamicResource TouchHeight}" Width="Auto" Text="{Binding PayCodeWx, Mode=TwoWay, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True, ValidatesOnExceptions=True}"/>
+                        </DockPanel>
+                    </StackPanel>
+                    <StackPanel Height="{DynamicResource TouchHeight}" VerticalAlignment="Top" Width="378" Margin="4" d:LayoutOverrides="Width, LeftPosition, RightPosition" DockPanel.Dock="Top" >
+                        <DockPanel Height="{DynamicResource TouchHeight}" >
+                            <CheckBox x:Name="cbxZfb" Tag="3" Content="支付宝" Width="150" Height="{DynamicResource TouchHeight}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" RenderTransformOrigin="0.5,0.5" Style="{DynamicResource TouchCheckBoxStyle}" FontSize="{DynamicResource FontLarge}"  BorderThickness="0" IsEnabled="False"/>
+                            <TextBox x:Name="tbxZfb" Tag="3" Text="{Binding PayCodeZfb, Mode=TwoWay, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True, ValidatesOnExceptions=True}" TextWrapping="Wrap" Style="{DynamicResource TextBoxCommonStyle}" Height="{DynamicResource TouchHeight}" Width="Auto" />
+                        </DockPanel>
+                    </StackPanel>
+                    <StackPanel Height="{DynamicResource TouchHeight}" VerticalAlignment="Top" Width="378" Margin="4" d:LayoutOverrides="Width, LeftPosition, RightPosition" DockPanel.Dock="Top" >
+                        <DockPanel Height="{DynamicResource TouchHeight}" >
+                            <CheckBox x:Name="cbxJf" Tag="4" Content="积分" Width="150" Height="{DynamicResource TouchHeight}" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" RenderTransformOrigin="0.5,0.5" Style="{DynamicResource TouchCheckBoxStyle}" FontSize="{DynamicResource FontLarge}"  BorderThickness="0" IsEnabled="False"/>
+                            <TextBox x:Name="tbxJf" Tag="4" Text="{Binding PayCodeJf, Mode=TwoWay, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True, ValidatesOnExceptions=True}" TextWrapping="Wrap" Style="{DynamicResource TextBoxCommonStyle}" Height="{DynamicResource TouchHeight}" Width="Auto"/>
+                        </DockPanel>
+                    </StackPanel>
+                </DockPanel>
+                <Grid x:Name="rightGrid" Grid.Column="2" Height="340.591" VerticalAlignment="Top" Margin="8,0" ButtonBase.Click="Grid_Click">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition />
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                        <RowDefinition />
+                    </Grid.RowDefinitions>
+                    <Button x:Name="button7"  Content="7" FontSize="{DynamicResource ResourceKey=FontLarge}" Margin="4"/>
+                    <Button x:Name="button8"  Content="8" Grid.Column="1" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button9"  Content="9" Grid.Column="2" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button4"  Content="4" Grid.Row="1" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button5"  Content="5" Grid.Column="1" Grid.Row="1" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button6"  Content="6" Grid.Column="2" Grid.Row="1" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button1"  Content="1" Grid.Row="2" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button2"  Content="2" Grid.Column="1" Grid.Row="2" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button3"  Content="3" Grid.Column="2" Grid.Row="2" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button0"  Content="0" Grid.Row="3" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="buttonBackspace"  Content="删" Grid.Column="1" Grid.Row="3" FontSize="{DynamicResource FontLarge}" Tag="backspace" Margin="4"/>
+                    <Button x:Name="buttonDel"  Content="清" Grid.Column="2" Grid.Row="3" FontSize="{DynamicResource FontLarge}" Tag="del" Margin="4"/>
+                    <Button x:Name="button10"  Content="10" Grid.Column="3" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button20"  Content="20" Grid.Column="3" Grid.Row="1" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button50"  Content="50" Grid.Column="3" Grid.Row="2" FontSize="{DynamicResource FontLarge}" Margin="4"/>
+                    <Button x:Name="button100"  Content="100" Grid.Column="3" Grid.Row="3" FontSize="{DynamicResource FontLarge}"  Margin="4"/>
+                    <Button x:Name="buttonOK" Tag="OK"  Content="确 定" Grid.Row="4" Grid.ColumnSpan="4" Margin="4" FontSize="36" FontWeight="Bold" Background="#FFFB0000" Foreground="White" Click="OK_Click" />
+                </Grid>
+            </Grid>
+            <TextBox x:Name="tb_shouldpay" Grid.Row="1" TextWrapping="Wrap" Style="{DynamicResource TextBlockSameStyle}" Height="Auto" Width="Auto" FontSize="{DynamicResource FontLarge}"/>
+            <Grid x:Name="grid_doing" Grid.RowSpan="3" Visibility="Collapsed">
+                <Grid.Background>
+                    <SolidColorBrush Color="White" Opacity="0"/>
+                </Grid.Background>
+                <StackPanel Orientation="Vertical" Margin="0,160,0,0" Background="White">
+                    <mui:ModernProgressRing IsActive="True" Width="100" Height="100" Margin="345,80,345,0" />
+                    <TextBlock FontSize="60" Foreground="#FF10B93E" HorizontalAlignment="Center" FontWeight="Bold" Text="支付中，请等待..." Margin="0,60,0,0"/>
+                </StackPanel>
+            </Grid>
+            <Grid Background="White" x:Name="grid_succ" Grid.Row="1" Grid.RowSpan="2" Visibility="Collapsed">
+                <StackPanel Orientation="Vertical" Margin="0,65.025,0,0">
+                    <Button x:Name="button11" Content="&#xF00C;" Style="{DynamicResource LittleRoundButtonStyle}" Background="{x:Null}" Foreground="#FF0BB00B" FontSize="250" FontFamily="{DynamicResource FontAwesome}" BorderBrush="#FF1CB81C" BorderThickness="20" Width="300" Height="300" Click="closeButton_Click"/>
+                    <TextBlock FontSize="60" Foreground="#FF10B93E" HorizontalAlignment="Center" FontWeight="Bold"><Run Text="收款完成"/></TextBlock>
+                </StackPanel>
+            </Grid>
+
+        </Grid>
+    </Border>
+</local:BaseWindow>

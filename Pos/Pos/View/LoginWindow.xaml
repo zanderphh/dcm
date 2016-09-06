@@ -1,0 +1,88 @@
+﻿<local:BaseWindow 
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:ignore="http://www.galasoft.ch/ignore"
+        xmlns:local="clr-namespace:Pos.View"
+        xmlns:vm="clr-namespace:Pos.ViewModel"
+        xmlns:mui="http://firstfloorsoftware.com/ModernUI"
+        xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:Custom="http://www.galasoft.ch/mvvmlight" x:Class="Pos.View.LoginWindow"
+        mc:Ignorable="d ignore"
+        Title="登录"
+        Style="{StaticResource BlankWindow}"
+        DataContext="{Binding Login, Source={StaticResource Locator}}" WindowStartupLocation="CenterScreen" ResizeMode="NoResize" Width="660" Height="472" WindowStyle="None" Background="{x:Null}" AllowsTransparency="True" Loaded="Window_Loaded">
+
+    <Border Background="White" BorderThickness="1" CornerRadius="10" BorderBrush="#FFFF0303">
+
+        <Grid x:Name="root"  >
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Border Style="{DynamicResource HeaderBorder}" Background="Red" CornerRadius="10,10,0,0">
+                <StackPanel >
+                    <TextBlock x:Name="tblTitle" Text="点餐猫收银系统" FontSize="36" FontWeight="Bold" TextAlignment="Center" Foreground="White"/>
+                    <TextBlock x:Name="tblSubTitle" Text="(快餐版)" FontSize="20" HorizontalAlignment="Center" Foreground="White" />
+                </StackPanel>
+            </Border>
+            <Grid Grid.Row="1" Margin="0,30,0,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <StackPanel Margin="20" >
+                    <DockPanel Height="60" Margin="0,20,0,0">
+                        <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="用户" Style="{DynamicResource TextBlockCommonStyle}" Width="60" Padding="0,10,0,0"/>
+                        <TextBox x:Name="tbxUser" Style="{DynamicResource TextBoxCommonStyle}" GotKeyboardFocus="textBox_GotKeyboardFocus" Text="{Binding OperatorId, Mode=TwoWay, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True, ValidatesOnExceptions=True}" />
+                    </DockPanel>
+                    <DockPanel Height="60" Margin="0,20,0,0">
+                        <TextBlock x:Name="textBlock1" TextWrapping="Wrap" Text="密码" MinWidth="60" Style="{DynamicResource TextBlockCommonStyle}" Width="60" Padding="0,10,0,0"  />
+                        <PasswordBox x:Name="tbxPwd" Style="{DynamicResource PasswordBoxCommonStyle}"  GotKeyboardFocus="textBox_GotKeyboardFocus" vm:PasswordBoxBindingHelper.IsPasswordBindingEnabled="True" KeyDown="tbxPwd_KeyDown"
+							vm:PasswordBoxBindingHelper.BindedPassword="{Binding OperatorPwd, Mode=TwoWay, NotifyOnValidationError=True, UpdateSourceTrigger=PropertyChanged, ValidatesOnDataErrors=True, ValidatesOnExceptions=True}" >
+                            <i:Interaction.Triggers>
+                                <i:EventTrigger EventName="KeyUp">
+                                    <Custom:EventToCommand PassEventArgsToCommand="True"
+                                            Command="{Binding KeyUpCommand}" />
+                                </i:EventTrigger>
+                            </i:Interaction.Triggers>
+                        </PasswordBox>
+                    </DockPanel>
+                    <Grid Margin="60,40,0,0" Height="60" HorizontalAlignment="Left" Width="{Binding ActualWidth, ElementName=tbxPwd}"  >
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition/>
+                            <ColumnDefinition/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="btnCancel" Content="取消" Style="{DynamicResource ButtonCommonStyle}"   Margin="0,0,2,0" Click="btnCancel_Click" />
+                        <Button x:Name="btnOk" Content="确定" Style="{DynamicResource ButtonCommonStyle}" Margin="2,0,0,0" Grid.Column="1" Command="{Binding LoginCommand}" CommandParameter="{Binding Mode=OneWay, RelativeSource={RelativeSource Self}}" />
+                    </Grid>
+                </StackPanel>
+                <Grid Grid.Column="1" Margin="0.001,36,10,0" Height="246" VerticalAlignment="Top" ButtonBase.Click="Grid_Click">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Button x:Name="button7" Content="7" FontSize="24" Margin="4"/>
+                    <Button x:Name="button8" Content="8" Grid.Column="1" FontSize="24" Margin="4"/>
+                    <Button x:Name="button9" Content="9" Grid.Column="2" FontSize="24" Margin="4"/>
+                    <Button x:Name="button4" Content="4" Grid.Row="1" FontSize="24" Margin="4"/>
+                    <Button x:Name="button5" Content="5" Grid.Column="1" Grid.Row="1" FontSize="24" Margin="4"/>
+                    <Button x:Name="button6" Content="6" Grid.Column="2" Grid.Row="1" FontSize="24" Margin="4"/>
+                    <Button x:Name="button1" Content="1" Grid.Row="2" FontSize="24" Margin="4"/>
+                    <Button x:Name="button2" Content="2" Grid.Column="1" Grid.Row="2" FontSize="24" Margin="4"/>
+                    <Button x:Name="button3" Content="3" Grid.Column="2" Grid.Row="2" FontSize="24" Margin="4"/>
+                    <Button x:Name="button0" Content="0" Grid.Row="3" FontSize="24" Margin="4"/>
+                    <Button x:Name="buttonBackspace" Content="删" Grid.Column="1" Grid.Row="3" FontSize="24" Margin="4" Tag="backspace"/>
+                    <Button x:Name="buttonDel" Content="清" Grid.Column="2" Grid.Row="3" FontSize="24" Margin="4" Tag="del"/>
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+</local:BaseWindow>
