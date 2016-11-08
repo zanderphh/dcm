@@ -1,0 +1,1 @@
+SELECT count(*)  FROM v_operator_function where operator_id =  '0001'and function_id = '113' 

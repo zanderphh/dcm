@@ -1,0 +1,108 @@
+2016-11-08 10:59:41
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={
+  "clientNo": "1207",
+  "version": "0.0.0",
+  "shopId": "62",
+  "account": "sccs",
+  "timestamp": "1478573976299",
+  "mac": "05889034361e5c7b272c16e1528b221c",
+  "serialNo": "ZD20161108105935584",
+  "userId": 0,
+  "giveIntegral": 0,
+  "tableId": 25669,
+  "tableName": "0003",
+  "shopAreaName": "快餐厅-0003",
+  "consumeTime": "2016-11-08 10:59:35",
+  "endTime": "2016-11-08 10:59:36",
+  "containOrderNos": "CRM20161108105935584",
+  "mealFee": 0,
+  "serviceFeeRatio": 0.00,
+  "roomFee": 0.0,
+  "serviceFee": 0.00,
+  "nonZero": 0.0,
+  "totalMoney": 12.00,
+  "offLinePayMoney": 0,
+  "isWholeBill": "0",
+  "ratePerson": 1.00,
+  "payState": "1",
+  "detail": [
+    {
+      "dishId": "30063",
+      "dishName": "小面",
+      "quantity": 1.0,
+      "price": 12.00,
+      "orderType": "2",
+      "unit": "个",
+      "orderDetailId": 0
+    }
+  ]
+}
+
+2016-11-08 10:59:41
+{"statusCode":1,"message":"OK","data":1432172,"succeed":true}
+
+2016-11-08 10:59:48
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={
+  "clientNo": "1207",
+  "version": "0.0.0",
+  "shopId": "62",
+  "account": "sccs",
+  "timestamp": "1478573988264",
+  "mac": "5d608524ebe759cd1d862e7cba1e6185",
+  "serialNo": "ZD20161108105948098",
+  "userId": 0,
+  "giveIntegral": 0,
+  "tableId": 25669,
+  "tableName": "0003",
+  "shopAreaName": "快餐厅-0003",
+  "consumeTime": "2016-11-08 10:59:48",
+  "endTime": "2016-11-08 10:59:48",
+  "containOrderNos": "CRM20161108105948098",
+  "mealFee": 0,
+  "serviceFeeRatio": 0.00,
+  "roomFee": 0.0,
+  "serviceFee": 0.00,
+  "nonZero": 0.0,
+  "totalMoney": 12.00,
+  "offLinePayMoney": 0,
+  "isWholeBill": "0",
+  "ratePerson": 1.00,
+  "payState": "0",
+  "detail": [
+    {
+      "dishId": "30063",
+      "dishName": "小面",
+      "quantity": 1.0,
+      "price": 12.00,
+      "orderType": "2",
+      "unit": "个",
+      "orderDetailId": 0
+    }
+  ]
+}
+
+2016-11-08 10:59:48
+{"statusCode":1,"message":"OK","data":1432173,"succeed":true}
+
+2016-11-08 10:59:48
+http://api.hme.cn/hpf-open-api/api/crm/micropay.api?jsonStr={
+  "clientNo": "1207",
+  "version": "0.0.0",
+  "shopId": "62",
+  "account": "sccs",
+  "timestamp": "1478573988641",
+  "orderNo": "CRM20161108105948098",
+  "channel": 1,
+  "authCode": "25",
+  "mac": "837ecc555f94b513f46a47ad67b89b77"
+}
+
+2016-11-08 10:59:49
+{"statusCode":-1,"message":"受理机构必须传入sub_mch_id","data":null,"succeed":false}
+
+2016-11-08 10:59:49
+http://log.hme.cn/hpf-log/v1/put_log??clientNo=1207&version=0.0.0&shopId=62&level=ERROR&content={"statusCode":-1,"message":"受理机构必须传入sub_mch_id","data":null,"succeed":false}&timestamp=1478573989800&mac=5f857ddfe296805718ffabf5c64babca
+
+2016-11-08 10:59:50
+<html><head><title>Apache Tomcat/6.0.44 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'clientNo' is not present</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'clientNo' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.44</h3></body></html>
+

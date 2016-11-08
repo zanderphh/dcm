@@ -1,0 +1,70 @@
+2015-09-11 15:04:06:
+Exectue the sql  UPDATE license Set company = '0',softname = '0', tel = '0' ,fax = '0', email = '0', http = '0', addr = '0'; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-09-11 15:04:06:
+error on: set option blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 15:04:06:
+error on: set option public.blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 15:04:06:
+error on: set option blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 15:04:06:
+error on: set option public.blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 15:05:25:
+Exectue the sql  UPDATE license Set company = '0',softname = '0', tel = '0' ,fax = '0', email = '0', http = '0', addr = '0'; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-09-11 16:16:02:
+Exectue the sql  UPDATE license Set company = '0',softname = '0', tel = '0' ,fax = '0', email = '0', http = '0', addr = '0'; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-09-11 16:16:02:
+error on: set option blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 16:16:02:
+error on: set option public.blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 16:16:02:
+error on: set option blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 16:16:02:
+error on: set option public.blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 16:36:47:
+Exectue the sql  UPDATE license Set company = '0',softname = '0', tel = '0' ,fax = '0', email = '0', http = '0', addr = '0'; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-09-11 16:36:47:
+error on: set option blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 16:36:47:
+error on: set option public.blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 16:36:47:
+error on: set option blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 16:36:47:
+error on: set option public.blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-03-28 14:06:32:
+数据存储语法出错:SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+select (select hme_id from dish where dish_id = hisorderdetail.dish_id) as hme_id,dish_id,dishname,quantity,price,ordertype,detailId,unit from hisorderdetail where
+

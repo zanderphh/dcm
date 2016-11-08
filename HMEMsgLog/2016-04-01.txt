@@ -1,0 +1,1570 @@
+2016-04-01 10:32:46:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:32:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:32:59:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:33:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:33:13:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:33:20:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:33:28:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:33:34:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:33:42:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:33:49:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:33:56:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:34:03:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:34:10:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:34:17:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:34:24:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:34:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:34:38:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:34:45:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:34:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:34:59:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:35:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:35:13:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:35:20:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:35:27:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:35:34:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:35:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:35:48:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:35:55:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:36:02:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:36:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:36:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:36:23:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:36:30:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:36:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:36:44:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:36:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:36:58:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:37:05:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:37:12:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:37:19:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:37:26:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:37:33:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:37:40:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:37:47:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:37:54:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:38:01:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:38:08:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:38:15:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:38:22:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:38:29:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:38:36:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:38:43:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:38:50:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:38:57:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:39:04:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:39:11:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:39:18:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:39:25:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:39:32:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:39:39:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:39:46:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:39:53:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:40:00:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:40:07:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:40:14:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:40:21:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:40:28:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:40:35:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:40:42:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:40:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:41:00:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:41:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:41:18:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:41:28:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:41:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:41:47:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:41:53:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:42:00:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:42:07:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:42:14:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:42:21:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:42:28:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:42:35:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:42:42:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:42:49:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:42:56:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:43:03:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:43:10:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:43:17:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:43:24:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:43:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:43:38:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:43:45:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:43:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:43:59:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:44:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:44:13:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:44:20:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:44:27:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:44:34:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:44:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:44:48:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:44:55:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:45:02:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:45:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:45:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:45:23:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:45:30:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:45:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:45:44:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:45:50:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:45:57:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:46:04:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:46:11:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:46:18:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:46:25:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:46:32:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:46:39:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:46:46:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:46:53:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:47:00:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:47:07:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:47:14:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:47:21:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:47:28:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:47:35:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:47:42:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:47:49:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:47:56:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:48:03:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:48:10:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:48:17:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:48:24:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:48:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:48:38:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:48:45:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:48:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:48:59:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:49:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:49:13:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:49:20:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:49:27:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:49:34:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:49:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:49:48:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:49:55:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:50:02:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:50:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:50:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:50:23:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:50:30:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:50:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:50:44:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:50:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:50:58:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:51:05:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:51:12:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:51:19:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:51:26:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:51:33:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:51:40:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:51:47:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:51:54:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:52:01:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:52:08:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:52:15:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:52:22:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:52:29:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:52:36:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:52:43:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:52:50:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:52:57:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:53:04:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:53:11:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:53:18:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:53:24:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:53:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:53:38:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:53:45:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:53:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:53:59:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:54:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:54:13:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:54:20:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:54:27:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:54:34:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:54:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:54:48:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:54:55:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:55:02:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:55:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:55:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:55:23:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:55:30:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:55:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:55:44:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:55:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:55:58:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:56:05:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:56:12:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:56:19:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:56:26:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:56:33:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:56:40:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:56:47:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:56:54:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:57:01:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:57:08:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:57:15:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:57:22:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:57:29:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:57:36:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:57:43:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:57:50:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:57:57:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:58:04:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:58:11:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:58:18:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:58:25:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:58:32:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:58:39:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:58:46:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:58:53:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:59:00:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:59:07:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:59:14:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:59:21:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:59:28:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:59:35:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:59:42:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:59:49:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 10:59:56:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:00:03:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:00:10:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:00:17:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:00:24:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:00:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:00:38:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:00:45:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:00:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:00:59:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:01:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:01:13:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:01:20:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:01:27:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:01:34:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:01:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:01:48:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:01:55:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:02:02:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:02:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:02:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:02:23:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:02:30:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:02:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:02:44:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:02:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:02:58:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:03:05:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:03:12:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:03:19:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:03:26:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:03:33:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:03:40:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:03:47:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:03:54:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:04:01:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:04:08:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:04:15:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:04:22:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:04:29:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:04:36:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:04:43:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:04:50:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:04:57:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:05:04:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:05:11:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:05:18:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:05:25:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:05:32:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:05:39:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:05:46:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:05:53:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:06:00:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:06:07:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:06:14:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:06:21:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:06:28:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:06:35:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:06:42:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:06:49:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:06:56:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:07:03:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:07:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:07:17:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:07:24:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:07:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:07:38:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:07:45:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:07:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:07:59:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:08:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:08:13:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:08:20:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:08:27:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:08:34:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:08:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:08:48:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:08:55:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:09:02:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:09:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:09:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:09:23:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:09:30:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:09:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:09:44:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:09:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:09:58:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:10:05:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:10:12:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:10:19:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:10:26:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:10:33:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:10:40:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:10:47:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:10:54:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:11:01:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:11:08:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:11:15:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:11:22:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:11:29:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:11:36:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:11:43:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:11:50:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:11:57:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:12:04:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:12:11:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:12:18:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:12:25:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:12:32:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:12:39:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:12:46:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:12:53:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:13:00:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:13:07:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:13:14:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:13:21:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:13:28:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:13:35:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:13:42:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:13:49:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:13:56:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:14:03:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:14:10:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:14:17:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:14:24:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:14:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:14:38:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:14:45:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:14:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:14:59:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:15:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:15:13:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:15:20:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:15:27:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:15:34:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:15:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:15:48:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:15:55:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:16:02:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:16:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:16:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:16:23:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:16:30:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:16:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:16:44:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:16:50:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:16:57:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:17:04:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:17:10:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:17:17:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:17:24:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:17:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:17:38:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:17:45:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 11:17:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-01 17:06:48:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.1","shopId":"62","timestamp":"1459530408703","mac":"0e6d4c4408778b62decdc04e10a26e83"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+2016-04-01 17:06:48:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.1&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.1","shopId":"62","timestamp":"1459530408703","mac":"0e6d4c4408778b62decdc04e10a26e83"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+&shopId=62&timestamp=1459530408719&mac=1009aaa41f30f32091e0e6ea7133ae55
+
+OK
+

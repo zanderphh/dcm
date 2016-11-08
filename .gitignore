@@ -1,0 +1,8 @@
+*.exe
+*.pbd
+*.db
+/CRM_Update
+/lib
+/hmeapp
+/logs
+/printhistory

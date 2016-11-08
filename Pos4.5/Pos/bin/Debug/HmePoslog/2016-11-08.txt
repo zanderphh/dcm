@@ -1,0 +1,26 @@
+2016-11-08 11:02:50
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.0.0",
+  "shopId": "62",
+  "timestamp": "1478574169998",
+  "mac": "afb0e5304f67e363f5c17b3a977632cb",
+  "system": "sccs"
+}
+
+2016-11-08 11:02:50
+{"statusCode":1,"message":"OK","data":{"title":"CRM","version":"1.6.1","comment":"<p>1、【修复】少部分商家偶尔出现金额不平结不了账的小BUG</p><p>2、【增加】预定单接待后商家可以取销就餐中订单功能，非接待的订单只能用户取消</p>","downloadUrl":"http://img.hme.cn/res/appsoft/2016/09/56537c972eaf433da550ec2e9f7e92ea.zip","isUpgrade":1,"checkCode":null},"succeed":true}
+
+2016-11-08 11:02:58
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.0.0",
+  "shopId": "62",
+  "timestamp": "1478574178271",
+  "mac": "2550d3075d54beab585f8baa05015a3f",
+  "system": "sccs"
+}
+
+2016-11-08 11:02:58
+{"statusCode":1,"message":"OK","data":{"title":"CRM","version":"1.6.1","comment":"<p>1、【修复】少部分商家偶尔出现金额不平结不了账的小BUG</p><p>2、【增加】预定单接待后商家可以取销就餐中订单功能，非接待的订单只能用户取消</p>","downloadUrl":"http://img.hme.cn/res/appsoft/2016/09/56537c972eaf433da550ec2e9f7e92ea.zip","isUpgrade":1,"checkCode":null},"succeed":true}
+

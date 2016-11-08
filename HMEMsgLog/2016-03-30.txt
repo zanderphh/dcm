@@ -1,0 +1,17 @@
+2016-03-30 16:39:12:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-03-30 16:39:19:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-03-31 00:11:25:
+请求服务器数据失败，错误代码:-6
+
+2016-03-31 10:20:38:
+请求服务器数据失败，错误代码:-6
+
+2016-03-31 11:22:55:
+Version 不能为空
+

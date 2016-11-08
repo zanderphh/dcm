@@ -1,0 +1,11 @@
+Save Format v3.0(19990112)
+@begin Projects
+ 0 "1&p_main_exe&main.pbl";
+ 1 "1&p_ws_sms&FINAC.PBL";
+ 2 "1&vipservice&VERS.pbl";
+ 3 "1&wxservice&VERS.pbl";
+@end;
+appname "main";
+applib "main.pbl";
+LibList "MAIN.pbl;VERS.pbl;SYSCONF.PBL;BACKSET.PBL;EXTEND.pbl;FINAC.PBL;FRONT.pbl;KICTH.PBL;MANAGER.PBL;PERSONAL.PBL;PFCAPSRV.PBL;PFCDWSRV.PBL;PFCMAIN.PBL;PFCWNSRV.PBL;PFEAPSRV.PBL;PFEDWSRV.PBL;PFEMAIN.PBL;PFEWNSRV.PBL;PFEXT.PBL;POSCAN.pbl;PUBCOMM.PBL;PUBSYS.PBL;PUBVISU.pbl;PURCH.PBL;REPORT.pbl;STORE.pbl;STROLD.PBL;SYNCRPT.pbl;SYSXSD.PBL;HME.pbl;pbsoapclient90.pbd";
+type "pb";

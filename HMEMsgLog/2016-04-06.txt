@@ -1,0 +1,180 @@
+2016-04-06 13:30:51:
+请求服务器数据失败，错误代码:-6
+
+2016-04-06 13:31:14:
+请求服务器数据失败，错误代码:-6
+
+2016-04-06 16:41:38:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:41:45:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:41:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:41:59:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:42:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:42:13:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:42:20:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:42:27:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:42:34:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:42:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:42:48:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:42:55:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:43:02:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:43:09:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:43:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:43:23:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:43:30:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:43:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:43:44:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:43:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:43:58:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:44:05:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:44:12:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:44:19:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:44:26:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:44:33:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:44:40:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-04-06 16:44:42:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.3.6","shopId":"2286","timestamp":"1459961082307","mac":"a93787e189255b5564321e98045d72b8"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|2286|CY20151013016143861007873948|||2286-1459932128270}#{1|2286|CY20151014028596571007501171|18323048682|Uxbridg先生}#{1|2286|CY20151020251280021007715081|18323048682|傻傻的啦先生}[CRM]","succeed":true}
+
+2016-04-06 16:44:42:
+{1|2286|CY20151013016143861007873948|||2286-1459932128270}
+
+2016-04-06 16:44:43:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.3.6","shopId":"2286","orderNo":"CY20151013016143861007873948","account":"hmyct","timestamp":"1459961082713","mac":"2d686c12ee947416e99459e2063263bf"}
+
+{"message":"应用程序错误","statusCode":7,"succeed":false}
+
+2016-04-06 16:44:43:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.3.6&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.3.6","shopId":"2286","orderNo":"CY20151013016143861007873948","account":"hmyct","timestamp":"1459961082713","mac":"2d686c12ee947416e99459e2063263bf"}
+
+{"message":"应用程序错误","statusCode":7,"succeed":false}&shopId=2286&timestamp=1459961083707&mac=14fb63d0facc1a56efd110d1afde6b1c
+
+OK
+
+2016-04-06 16:44:43:
+操作失败，错误代码：7
+应用程序错误
+
+2016-04-06 16:44:44:
+{1|2286|CY20151014028596571007501171|18323048682|Uxbridg先生}
+
+2016-04-06 16:44:45:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.3.6","shopId":"2286","orderNo":"CY20151014028596571007501171","account":"hmyct","timestamp":"1459961084315","mac":"dc80b4f5939a127ced6d78b04e1e76f4"}
+
+{"message":"应用程序错误","statusCode":7,"succeed":false}
+
+2016-04-06 16:44:45:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.3.6&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.3.6","shopId":"2286","orderNo":"CY20151014028596571007501171","account":"hmyct","timestamp":"1459961084315","mac":"dc80b4f5939a127ced6d78b04e1e76f4"}
+
+{"message":"应用程序错误","statusCode":7,"succeed":false}&shopId=2286&timestamp=1459961085332&mac=852602da371809b1bd01a7f863b9cc16
+
+OK
+
+2016-04-06 16:44:45:
+操作失败，错误代码：7
+应用程序错误
+
+2016-04-06 16:44:45:
+{1|2286|CY20151020251280021007715081|18323048682|傻傻的啦先生}
+
+2016-04-06 16:44:45:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.3.6","shopId":"2286","orderNo":"CY20151020251280021007715081","account":"hmyct","timestamp":"1459961085530","mac":"e2e0660035e51bfb379ec44e7e746560"}
+
+{"message":"应用程序错误","statusCode":7,"succeed":false}
+
+2016-04-06 16:44:46:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.3.6&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.3.6","shopId":"2286","orderNo":"CY20151020251280021007715081","account":"hmyct","timestamp":"1459961085530","mac":"e2e0660035e51bfb379ec44e7e746560"}
+
+{"message":"应用程序错误","statusCode":7,"succeed":false}&shopId=2286&timestamp=1459961086556&mac=fa2b8f084826542ba8a70e2b027b5c43
+
+OK
+
+2016-04-06 16:44:46:
+操作失败，错误代码：7
+应用程序错误
+
+2016-04-06 17:30:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+

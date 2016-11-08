@@ -1,0 +1,52 @@
+2016-03-30 15:31:07:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.3.8","shopId":"62","timestamp":"1459351866845","mac":"eef18fc740479864cba0f10507b426a5"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-03-30 15:31:07:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.3.8&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.3.8","shopId":"62","timestamp":"1459351866845","mac":"eef18fc740479864cba0f10507b426a5"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1459351867483&mac=7e1056ddb9416ac048c58c9a498f2aa3
+
+OK
+
+2016-03-30 15:31:09:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.3.8","shopId":"62","timestamp":"1459351869793","mac":"d63a70daaf4de30694b8f3a8944f32ef"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-03-30 15:31:09:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.3.8&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.3.8","shopId":"62","timestamp":"1459351869793","mac":"d63a70daaf4de30694b8f3a8944f32ef"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1459351869857&mac=31cb6d88533596e6755cba5aab6352af
+
+OK
+

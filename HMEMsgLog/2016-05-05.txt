@@ -1,0 +1,467 @@
+2016-05-05 10:56:44:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462445804076","mac":"0720a203df89ec54cb616dd941ce8748"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+2016-05-05 10:56:44:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462445804076","mac":"0720a203df89ec54cb616dd941ce8748"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+&shopId=62&timestamp=1462445804091&mac=ed0ff3892112e380992bd68180bf3264
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-05-05 10:56:45:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462445805077","mac":"fdab2ae647255c196de1407dc4200f49"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+2016-05-05 10:56:45:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462445805077","mac":"fdab2ae647255c196de1407dc4200f49"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+&shopId=62&timestamp=1462445805167&mac=55b03a980e249d16742c7b64b1c1d79f
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-05-05 11:18:52:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462447132873","mac":"16a866051ed305f1df2fe2f6f9e14685"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+2016-05-05 11:18:52:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462447132873","mac":"16a866051ed305f1df2fe2f6f9e14685"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+&shopId=62&timestamp=1462447132888&mac=93263bef2adc37bf22fd02be549ced41
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-05-05 11:18:53:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462447133899","mac":"d95c03f5e44b9d7df724e75f63b30b17"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+2016-05-05 11:18:53:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462447133899","mac":"d95c03f5e44b9d7df724e75f63b30b17"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+&shopId=62&timestamp=1462447133934&mac=26438df54457f5aab61922ed78f74700
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-05-05 13:02:56:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462453376905","mac":"c87ae630156fbbbc312a60d3f8f6da8c"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+2016-05-05 13:02:57:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462453376905","mac":"c87ae630156fbbbc312a60d3f8f6da8c"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+&shopId=62&timestamp=1462453376918&mac=0a032924acb044378c7ad3e75c6b6294
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-05-05 13:02:57:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462453377905","mac":"34bac9730d6c85fd07991d7be583c751"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+
+2016-05-05 13:02:57:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462453377905","mac":"34bac9730d6c85fd07991d7be583c751"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+&shopId=62&timestamp=1462453377918&mac=31f8c332fda7b42bbdcde61d14a46ab6
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-05-06 11:16:54:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533414671","mac":"8a346d8fb1f9f9d58494fa924a18dace"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504384348}[CRM]","succeed":true}
+
+2016-05-06 11:16:54:
+{3|62|461|CRM6220160505173921726|62-1462504384348}
+
+2016-05-06 11:17:19:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533439664","mac":"444f1347b0586d6794562ccf63e5608f"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504409341}[CRM]","succeed":true}
+
+2016-05-06 11:17:19:
+{3|62|461|CRM6220160505173921726|62-1462504409341}
+
+2016-05-06 11:17:21:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533441718","mac":"1edf31cc91f8776c994dda07c25cf1ae"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504411402}[CRM]","succeed":true}
+
+2016-05-06 11:17:21:
+{3|62|461|CRM6220160505173921726|62-1462504411402}
+
+2016-05-06 11:17:37:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533457640","mac":"90a599e668795c09011e60f2f793fde3"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504427317}[CRM]","succeed":true}
+
+2016-05-06 11:17:37:
+{3|62|461|CRM6220160505173921726|62-1462504427317}
+
+2016-05-06 11:17:42:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533462655","mac":"6c5ff000bde3e824fbf5385f2442bc6b"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504432340}[CRM]","succeed":true}
+
+2016-05-06 11:17:42:
+{3|62|461|CRM6220160505173921726|62-1462504432340}
+
+2016-05-06 11:17:43:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533463672","mac":"2f27a43483a252f14facbc6e1848c6de"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504433352}[CRM]","succeed":true}
+
+2016-05-06 11:17:43:
+{3|62|461|CRM6220160505173921726|62-1462504433352}
+
+2016-05-06 11:18:55:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533535682","mac":"a91ad378c1c3f42fc18fa7aac8c7eb9d"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504505363}[CRM]","succeed":true}
+
+2016-05-06 11:18:55:
+{3|62|461|CRM6220160505173921726|62-1462504505363}
+
+2016-05-06 11:18:58:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533538687","mac":"ec29cdf7449bccfab7509a84b62b6d42"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504508364}[CRM]","succeed":true}
+
+2016-05-06 11:18:58:
+{3|62|461|CRM6220160505173921726|62-1462504508364}
+
+2016-05-06 11:18:59:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533539657","mac":"598989dba22aa16f7165c33293c34e41"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504509334}[CRM]","succeed":true}
+
+2016-05-06 11:18:59:
+{3|62|461|CRM6220160505173921726|62-1462504509334}
+
+2016-05-06 11:19:22:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462533562676","mac":"f0168df4db5bc76471a07b941ac44cd7"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462504532353}[CRM]","succeed":true}
+
+2016-05-06 11:19:22:
+{3|62|461|CRM6220160505173921726|62-1462504532353}
+
+2016-05-06 11:47:10:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462535230714","mac":"6aecfbbc71fc5995879aa155adb24363"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462506200398}[CRM]","succeed":true}
+
+2016-05-06 11:47:10:
+{3|62|461|CRM6220160505173921726|62-1462506200398}
+
+2016-05-06 11:50:38:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462535438710","mac":"dac85b6409c7ff12cb51b32d21e98bb8"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462506408400}[CRM]","succeed":true}
+
+2016-05-06 11:50:38:
+{3|62|461|CRM6220160505173921726|62-1462506408400}
+
+2016-05-06 11:52:44:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462535564729","mac":"19f92d5bff9522bb07328d4047e7b7d7"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462506534416}[CRM]","succeed":true}
+
+2016-05-06 11:52:44:
+{3|62|461|CRM6220160505173921726|62-1462506534416}
+
+2016-05-06 11:56:25:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462535785771","mac":"9e881d4d6ee59fe58f01e3a2b206865d"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462506755446}[CRM]","succeed":true}
+
+2016-05-06 11:56:25:
+{3|62|461|CRM6220160505173921726|62-1462506755446}
+
+2016-05-06 12:02:35:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462536155756","mac":"bfda932cc8fded4f1e1dff686cf93fa1"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462507125435}[CRM]","succeed":true}
+
+2016-05-06 12:02:35:
+{3|62|461|CRM6220160505173921726|62-1462507125435}
+
+2016-05-06 12:02:53:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462536173757","mac":"79b6a88ff302e54406f2cc6267889dc8"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462507143445}[CRM]","succeed":true}
+
+2016-05-06 12:02:53:
+{3|62|461|CRM6220160505173921726|62-1462507143445}
+
+2016-05-06 12:03:05:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462536185772","mac":"d88cd0c271027d00578a04c29a3ce3db"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462507155448}[CRM]","succeed":true}
+
+2016-05-06 12:03:05:
+{3|62|461|CRM6220160505173921726|62-1462507155448}
+
+2016-05-06 12:03:09:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462536189847","mac":"727e44d77624f2588455c49cc28ed179"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462507159522}[CRM]","succeed":true}
+
+2016-05-06 12:03:09:
+{3|62|461|CRM6220160505173921726|62-1462507159522}
+
+2016-05-06 14:27:39:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462544859182","mac":"4afbc14a26d1c11081cd006cb6842176"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{6|62|CRM6220160505173921726|461|62-1462515828854}[CRM]","succeed":true}
+
+2016-05-06 14:27:39:
+{6|62|CRM6220160505173921726|461|62-1462515828854}
+
+2016-05-06 14:27:39:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","orderNo":"CRM6220160505173921726","account":"sccs","timestamp":"1462544859244","mac":"132c37b4710bfb674c4778f45987ee51"}
+
+{"data":{"detail":[{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7197,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7198,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1207","appraiseState":0,"bookedNumber":0,"bookedNumberSecond":9,"cashAmmout":0.00,"cashPayType":0,"confirmTime":"2016-05-05 17:35:38","consumeState":1,"createTime":"2016-05-05 17:35:35","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","openTime":"2016-05-05 17:35:38","orderId":1712,"orderNo":"CRM6220160505173921726","orderState":5,"orderType":4,"payTimes":0,"payType":0,"peopleNumber":1,"prepayAmount":0.00,"prepayAmountSecond":92.03,"refundApplyState":0,"shopAreaName":"好觅会场-103陈龙","shopId":62,"shopLogoUrl":"http://192.168.0.16/res/shop/a/2015/5/239a0820453147d2802ad2024abc7339_3.jpg","shopName":"市场部公用测试账户","shopPhone":"18516096615","showState":0,"tableId":461,"userId":0},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-06 14:55:00:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462546500156","mac":"35c16ff48ac3fd630dd5306330288d26"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{6|62|CRM6220160505173921726|461|62-1462517469827}[CRM]","succeed":true}
+
+2016-05-06 14:55:00:
+{6|62|CRM6220160505173921726|461|62-1462517469827}
+
+2016-05-06 14:55:00:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","orderNo":"CRM6220160505173921726","account":"sccs","timestamp":"1462546500210","mac":"3ecd84e9eb95f1c87a775b691fec8264"}
+
+{"data":{"detail":[{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7197,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7198,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:08","detailId":7199,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1207","appraiseState":0,"bookedNumber":0,"bookedNumberSecond":9,"cashAmmout":0.00,"cashPayType":0,"confirmTime":"2016-05-05 17:35:38","consumeState":1,"createTime":"2016-05-05 17:35:35","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","openTime":"2016-05-05 17:35:38","orderId":1712,"orderNo":"CRM6220160505173921726","orderState":5,"orderType":4,"payTimes":0,"payType":0,"peopleNumber":1,"prepayAmount":0.00,"prepayAmountSecond":92.03,"refundApplyState":0,"shopAreaName":"好觅会场-103陈龙","shopId":62,"shopLogoUrl":"http://192.168.0.16/res/shop/a/2015/5/239a0820453147d2802ad2024abc7339_3.jpg","shopName":"市场部公用测试账户","shopPhone":"18516096615","showState":0,"tableId":461,"userId":0},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-06 14:55:16:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462546516193","mac":"57efb027ab070d07507d65d6b78cd016"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{6|62|CRM6220160505173921726|461|62-1462517485859}[CRM]","succeed":true}
+
+2016-05-06 14:55:16:
+{6|62|CRM6220160505173921726|461|62-1462517485859}
+
+2016-05-06 14:55:16:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","orderNo":"CRM6220160505173921726","account":"sccs","timestamp":"1462546516293","mac":"c55503e63dc3a7e799a64917bd5561f6"}
+
+{"data":{"detail":[{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7197,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7198,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:08","detailId":7199,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:23","detailId":7200,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1207","appraiseState":0,"bookedNumber":0,"bookedNumberSecond":9,"cashAmmout":0.00,"cashPayType":0,"confirmTime":"2016-05-05 17:35:38","consumeState":1,"createTime":"2016-05-05 17:35:35","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","openTime":"2016-05-05 17:35:38","orderId":1712,"orderNo":"CRM6220160505173921726","orderState":5,"orderType":4,"payTimes":0,"payType":0,"peopleNumber":1,"prepayAmount":0.00,"prepayAmountSecond":92.03,"refundApplyState":0,"shopAreaName":"好觅会场-103陈龙","shopId":62,"shopLogoUrl":"http://192.168.0.16/res/shop/a/2015/5/239a0820453147d2802ad2024abc7339_3.jpg","shopName":"市场部公用测试账户","shopPhone":"18516096615","showState":0,"tableId":461,"userId":0},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-06 14:56:25:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462546585185","mac":"2de96056758929d6d963188cfaa7686e"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{6|62|CRM6220160505173921726|461|62-1462517554855}[CRM]","succeed":true}
+
+2016-05-06 14:56:25:
+{6|62|CRM6220160505173921726|461|62-1462517554855}
+
+2016-05-06 14:56:25:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","orderNo":"CRM6220160505173921726","account":"sccs","timestamp":"1462546585269","mac":"a408c80bd9752a79866ba5d774a2d879"}
+
+{"data":{"detail":[{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7197,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7198,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:08","detailId":7199,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:23","detailId":7200,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:52:32","detailId":7201,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1207","appraiseState":0,"bookedNumber":0,"bookedNumberSecond":9,"cashAmmout":0.00,"cashPayType":0,"confirmTime":"2016-05-05 17:35:38","consumeState":1,"createTime":"2016-05-05 17:35:35","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","openTime":"2016-05-05 17:35:38","orderId":1712,"orderNo":"CRM6220160505173921726","orderState":5,"orderType":4,"payTimes":0,"payType":0,"peopleNumber":1,"prepayAmount":0.00,"prepayAmountSecond":92.03,"refundApplyState":0,"shopAreaName":"好觅会场-103陈龙","shopId":62,"shopLogoUrl":"http://192.168.0.16/res/shop/a/2015/5/239a0820453147d2802ad2024abc7339_3.jpg","shopName":"市场部公用测试账户","shopPhone":"18516096615","showState":0,"tableId":461,"userId":0},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-06 14:57:02:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462546622203","mac":"c12d0c8d58fd3f4d9a6849066a43c598"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{6|62|CRM6220160505173921726|461|62-1462517591870}[CRM]","succeed":true}
+
+2016-05-06 14:57:02:
+{6|62|CRM6220160505173921726|461|62-1462517591870}
+
+2016-05-06 14:57:02:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","orderNo":"CRM6220160505173921726","account":"sccs","timestamp":"1462546622269","mac":"9a8ddc74294d1e8625a8fa2d83f1a2e9"}
+
+{"data":{"detail":[{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7197,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7198,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:08","detailId":7199,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:23","detailId":7200,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:52:32","detailId":7201,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:53:09","detailId":7202,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1207","appraiseState":0,"bookedNumber":0,"bookedNumberSecond":9,"cashAmmout":0.00,"cashPayType":0,"confirmTime":"2016-05-05 17:35:38","consumeState":1,"createTime":"2016-05-05 17:35:35","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","openTime":"2016-05-05 17:35:38","orderId":1712,"orderNo":"CRM6220160505173921726","orderState":5,"orderType":4,"payTimes":0,"payType":0,"peopleNumber":1,"prepayAmount":0.00,"prepayAmountSecond":92.03,"refundApplyState":0,"shopAreaName":"好觅会场-103陈龙","shopId":62,"shopLogoUrl":"http://192.168.0.16/res/shop/a/2015/5/239a0820453147d2802ad2024abc7339_3.jpg","shopName":"市场部公用测试账户","shopPhone":"18516096615","showState":0,"tableId":461,"userId":0},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-06 15:14:01:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462547641222","mac":"28f8e6f468ac8fe9e10a90b7e9ed5776"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{6|62|CRM6220160505173921726|461|62-1462518610890}[CRM]","succeed":true}
+
+2016-05-06 15:14:01:
+{6|62|CRM6220160505173921726|461|62-1462518610890}
+
+2016-05-06 15:14:01:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","orderNo":"CRM6220160505173921726","account":"sccs","timestamp":"1462547641306","mac":"15b439972a3b6f010c34d5aee43e3e1a"}
+
+{"data":{"detail":[{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7197,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7198,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:08","detailId":7199,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:23","detailId":7200,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:52:32","detailId":7201,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:53:09","detailId":7202,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:10:09","detailId":7203,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1207","appraiseState":0,"bookedNumber":0,"bookedNumberSecond":9,"cashAmmout":0.00,"cashPayType":0,"confirmTime":"2016-05-05 17:35:38","consumeState":1,"createTime":"2016-05-05 17:35:35","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","openTime":"2016-05-05 17:35:38","orderId":1712,"orderNo":"CRM6220160505173921726","orderState":5,"orderType":4,"payTimes":0,"payType":0,"peopleNumber":1,"prepayAmount":0.00,"prepayAmountSecond":92.03,"refundApplyState":0,"shopAreaName":"好觅会场-103陈龙","shopId":62,"shopLogoUrl":"http://192.168.0.16/res/shop/a/2015/5/239a0820453147d2802ad2024abc7339_3.jpg","shopName":"市场部公用测试账户","shopPhone":"18516096615","showState":0,"tableId":461,"userId":0},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-06 15:14:34:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462547674232","mac":"76537a6ddf1b1ba7e3fa347228f6ea33"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{6|62|CRM6220160505173921726|461|62-1462518643900}[CRM]","succeed":true}
+
+2016-05-06 15:14:34:
+{6|62|CRM6220160505173921726|461|62-1462518643900}
+
+2016-05-06 15:14:34:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","orderNo":"CRM6220160505173921726","account":"sccs","timestamp":"1462547674301","mac":"efb721940757b87e9ef23b3419bbce45"}
+
+{"data":{"detail":[{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7197,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7198,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:08","detailId":7199,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:23","detailId":7200,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:52:32","detailId":7201,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:53:09","detailId":7202,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:10:09","detailId":7203,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:10:42","detailId":7204,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1207","appraiseState":0,"bookedNumber":0,"bookedNumberSecond":9,"cashAmmout":0.00,"cashPayType":0,"confirmTime":"2016-05-05 17:35:38","consumeState":1,"createTime":"2016-05-05 17:35:35","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","openTime":"2016-05-05 17:35:38","orderId":1712,"orderNo":"CRM6220160505173921726","orderState":5,"orderType":4,"payTimes":0,"payType":0,"peopleNumber":1,"prepayAmount":0.00,"prepayAmountSecond":92.03,"refundApplyState":0,"shopAreaName":"好觅会场-103陈龙","shopId":62,"shopLogoUrl":"http://192.168.0.16/res/shop/a/2015/5/239a0820453147d2802ad2024abc7339_3.jpg","shopName":"市场部公用测试账户","shopPhone":"18516096615","showState":0,"tableId":461,"userId":0},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-06 15:15:15:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462547715245","mac":"acdc22e8b6be29320258358aeb90f40b"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{6|62|CRM6220160505173921726|461|62-1462518684911}[CRM]","succeed":true}
+
+2016-05-06 15:15:15:
+{6|62|CRM6220160505173921726|461|62-1462518684911}
+
+2016-05-06 15:15:15:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","orderNo":"CRM6220160505173921726","account":"sccs","timestamp":"1462547715345","mac":"86cc4502edf5c6befed5301bdc977bfa"}
+
+{"data":{"detail":[{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7197,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7198,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:08","detailId":7199,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:23","detailId":7200,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:52:32","detailId":7201,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:53:09","detailId":7202,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:10:09","detailId":7203,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:10:42","detailId":7204,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":0.02,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:11:22","detailId":7213,"dishDesc":"","dishId":89,"dishName":"搓椒南瓜丝","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1207","appraiseState":0,"bookedNumber":0,"bookedNumberSecond":17,"cashAmmout":0.00,"cashPayType":0,"confirmTime":"2016-05-05 17:35:38","consumeState":1,"createTime":"2016-05-05 17:35:35","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","openTime":"2016-05-05 17:35:38","orderId":1712,"orderNo":"CRM6220160505173921726","orderState":5,"orderType":4,"payTimes":0,"payType":0,"peopleNumber":1,"prepayAmount":0.00,"prepayAmountSecond":188.03,"refundApplyState":0,"shopAreaName":"好觅会场-103陈龙","shopId":62,"shopLogoUrl":"http://192.168.0.16/res/shop/a/2015/5/239a0820453147d2802ad2024abc7339_3.jpg","shopName":"市场部公用测试账户","shopPhone":"18516096615","showState":0,"tableId":461,"userId":0},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-06 15:15:30:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462547730259","mac":"0d3ce718cba9df129033d8932a092937"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{6|62|CRM6220160505173921726|461|62-1462518699914}[CRM]","succeed":true}
+
+2016-05-06 15:15:30:
+{6|62|CRM6220160505173921726|461|62-1462518699914}
+
+2016-05-06 15:15:30:
+http://192.168.0.10/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","orderNo":"CRM6220160505173921726","account":"sccs","timestamp":"1462547730312","mac":"6b62702839d29eb9180577d5b5277e77"}
+
+{"data":{"detail":[{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7197,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:23:46","detailId":7198,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:08","detailId":7199,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:51:23","detailId":7200,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":28.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:52:32","detailId":7201,"dishDesc":"","dishId":135,"dishName":"热拌苕尖","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":14.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 14:53:09","detailId":7202,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:10:09","detailId":7203,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":20.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:10:42","detailId":7204,"dishDesc":"","dishId":124,"dishName":"毛肚","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":10.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":0.02,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:11:22","detailId":7213,"dishDesc":"","dishId":89,"dishName":"搓椒南瓜丝","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0},{"basePoints":34.00,"cancleQuantity":0.000,"clientNo":"1007","createTime":"2016-05-06 15:11:38","detailId":7215,"dishDesc":"","dishId":93,"dishName":"烧椒小皮旦","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":1712,"price":17.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35126,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1207","appraiseState":0,"bookedNumber":0,"bookedNumberSecond":18,"cashAmmout":0.00,"cashPayType":0,"confirmTime":"2016-05-05 17:35:38","consumeState":1,"createTime":"2016-05-05 17:35:35","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","openTime":"2016-05-05 17:35:38","orderId":1712,"orderNo":"CRM6220160505173921726","orderState":5,"orderType":4,"payTimes":0,"payType":0,"peopleNumber":1,"prepayAmount":0.00,"prepayAmountSecond":188.04,"refundApplyState":0,"shopAreaName":"好觅会场-103陈龙","shopId":62,"shopLogoUrl":"http://192.168.0.16/res/shop/a/2015/5/239a0820453147d2802ad2024abc7339_3.jpg","shopName":"市场部公用测试账户","shopPhone":"18516096615","showState":0,"tableId":461,"userId":0},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-06 15:17:10:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","timestamp":"1462547830227","mac":"5fc5463bac9b6956e27b104e389d1577"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|461|CRM6220160505173921726|62-1462518799894}[CRM]","succeed":true}
+
+2016-05-06 15:17:10:
+{3|62|461|CRM6220160505173921726|62-1462518799894}
+

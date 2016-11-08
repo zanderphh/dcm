@@ -1,0 +1,430 @@
+2016-06-14 16:15:34
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "timestamp": "1465892134504",
+  "mac": "e1be99ceb4f9c242b8966c4bae164e4e",
+  "system": "hmyct"
+}
+
+2016-06-14 16:15:34
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-06-14 16:15:34
+http://log.hme.cn/hpf-log/v1/put_log??=clientNo=1207&version=1.5.4&shopId=2286&level=ERROR&content={"statusCode":22,"message":"无升级版本","data":null,"succeed":false}&timestamp=1465892134879&mac=d4eca7b559f50f6ae409beb590148781
+
+2016-06-14 16:15:35
+<html><head><title>Apache Tomcat/6.0.44 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'clientNo' is not present</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'clientNo' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.44</h3></body></html>
+
+2016-06-14 16:15:45
+http://api.hme.cn/hpf-open-api/api/crm/user-login.api?jsonStr={
+  "clientNo": "1207",
+  "timestamp": "1465892145570",
+  "mac": "c7cf71316e9d9bb5b89ad4830c2e9078",
+  "version": "1.5.4",
+  "account": "hmyct",
+  "password": "hme123456",
+  "shopId": "2286",
+  "macAddr": "5C-F9-DD-63-27-E1"
+}
+
+2016-06-14 16:15:45
+{"statusCode":3,"message":"您使用的授权店铺已经绑定MAC地址，请重新输入或电话联系400-992-9339解除绑定！","data":null,"succeed":false}
+
+2016-06-14 16:15:45
+http://log.hme.cn/hpf-log/v1/put_log??=clientNo=1207&version=1.5.4&shopId=2286&level=ERROR&content={"statusCode":3,"message":"您使用的授权店铺已经绑定MAC地址，请重新输入或电话联系400-992-9339解除绑定！","data":null,"succeed":false}&timestamp=1465892145898&mac=f58a36add947d8e30173f3b3732e1a90
+
+2016-06-14 16:15:45
+<html><head><title>Apache Tomcat/6.0.44 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'clientNo' is not present</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'clientNo' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.44</h3></body></html>
+
+2016-06-14 16:15:57
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892157535",
+  "mac": "36f0c5b77b79e5945459fcfbd0952696",
+  "serialNo": "ZD20160614161557383",
+  "userId": 0,
+  "giveIntegral": 0,
+  "tableId": 84,
+  "tableName": "101周勇",
+  "shopAreaName": "快餐厅-101周勇",
+  "consumeTime": "2016-06-14 16:15:57",
+  "endTime": "2016-06-14 16:15:57",
+  "containOrderNos": "CRM20160614161557383",
+  "mealFee": 0,
+  "serviceFeeRatio": 0.00,
+  "roomFee": 0.0,
+  "serviceFee": 0.00,
+  "nonZero": 0.0,
+  "totalMoney": 22.00,
+  "offLinePayMoney": 0,
+  "isWholeBill": "0",
+  "ratePerson": 1.00,
+  "payState": "0",
+  "detail": [
+    {
+      "dishId": "50670",
+      "dishName": "酥肉粉丝汤",
+      "quantity": 1.0,
+      "price": 22.00,
+      "orderType": "2",
+      "unit": "份",
+      "orderDetailId": 0
+    }
+  ]
+}
+
+2016-06-14 16:15:58
+{"statusCode":1,"message":"OK","data":283599,"succeed":true}
+
+2016-06-14 16:15:59
+http://api.hme.cn/hpf-open-api/api/crm/micropay.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892159022",
+  "orderNo": "CRM20160614161557383",
+  "channel": 3,
+  "authCode": "1",
+  "mac": "9f790dd98e9297d337144369a36a0d35"
+}
+
+2016-06-14 16:16:00
+{"statusCode":-1,"message":"授权码过期","data":null,"succeed":false}
+
+2016-06-14 16:16:00
+http://log.hme.cn/hpf-log/v1/put_log??=clientNo=1207&version=1.5.4&shopId=2286&level=ERROR&content={"statusCode":-1,"message":"授权码过期","data":null,"succeed":false}&timestamp=1465892160872&mac=513041c70abc5d17c2bd84c2dd456ab8
+
+2016-06-14 16:16:01
+<html><head><title>Apache Tomcat/6.0.44 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'clientNo' is not present</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'clientNo' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.44</h3></body></html>
+
+2016-06-14 16:16:07
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892167647",
+  "mac": "05b2a751e8064e1f8df64cbaac2cf99d",
+  "serialNo": "ZD20160614161607545",
+  "userId": 0,
+  "giveIntegral": 0,
+  "tableId": 84,
+  "tableName": "101周勇",
+  "shopAreaName": "快餐厅-101周勇",
+  "consumeTime": "2016-06-14 16:16:07",
+  "endTime": "2016-06-14 16:16:07",
+  "containOrderNos": "CRM20160614161607545",
+  "mealFee": 0,
+  "serviceFeeRatio": 0.00,
+  "roomFee": 0.0,
+  "serviceFee": 0.00,
+  "nonZero": 0.0,
+  "totalMoney": 22.00,
+  "offLinePayMoney": 0,
+  "isWholeBill": "0",
+  "ratePerson": 1.00,
+  "payState": "0",
+  "detail": [
+    {
+      "dishId": "50670",
+      "dishName": "酥肉粉丝汤",
+      "quantity": 1.0,
+      "price": 22.00,
+      "orderType": "2",
+      "unit": "份",
+      "orderDetailId": 0
+    }
+  ]
+}
+
+2016-06-14 16:16:08
+{"statusCode":1,"message":"OK","data":283600,"succeed":true}
+
+2016-06-14 16:16:09
+http://api.hme.cn/hpf-open-api/api/crm/micropay.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892169066",
+  "orderNo": "CRM20160614161607545",
+  "channel": 3,
+  "authCode": "1",
+  "mac": "a59d12be7032c5bfa3247ef71f324006"
+}
+
+2016-06-14 16:16:10
+{"statusCode":-1,"message":"授权码过期","data":null,"succeed":false}
+
+2016-06-14 16:16:10
+http://log.hme.cn/hpf-log/v1/put_log??=clientNo=1207&version=1.5.4&shopId=2286&level=ERROR&content={"statusCode":-1,"message":"授权码过期","data":null,"succeed":false}&timestamp=1465892170957&mac=4dbe36eaa83a5ef76545c28846075fea
+
+2016-06-14 16:16:11
+<html><head><title>Apache Tomcat/6.0.44 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'clientNo' is not present</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'clientNo' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.44</h3></body></html>
+
+2016-06-14 16:17:33
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892253356",
+  "mac": "d71f336c644cf375caf40ab56d6950a9",
+  "serialNo": "ZD20160614161733248",
+  "userId": 0,
+  "giveIntegral": 0,
+  "tableId": 84,
+  "tableName": "101周勇",
+  "shopAreaName": "快餐厅-101周勇",
+  "consumeTime": "2016-06-14 16:17:33",
+  "endTime": "2016-06-14 16:17:33",
+  "containOrderNos": "CRM20160614161733248",
+  "mealFee": 0,
+  "serviceFeeRatio": 0.00,
+  "roomFee": 0.0,
+  "serviceFee": 0.00,
+  "nonZero": 0.0,
+  "totalMoney": 22.00,
+  "offLinePayMoney": 0,
+  "isWholeBill": "0",
+  "ratePerson": 1.00,
+  "payState": "0",
+  "detail": [
+    {
+      "dishId": "50670",
+      "dishName": "酥肉粉丝汤",
+      "quantity": 1.0,
+      "price": 22.00,
+      "orderType": "2",
+      "unit": "份",
+      "orderDetailId": 0
+    }
+  ]
+}
+
+2016-06-14 16:17:34
+{"statusCode":1,"message":"OK","data":283602,"succeed":true}
+
+2016-06-14 16:17:34
+http://api.hme.cn/hpf-open-api/api/crm/micropay.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892254909",
+  "orderNo": "CRM20160614161733248",
+  "channel": 1,
+  "authCode": "12",
+  "mac": "583ff5e4ab50ea3fbb034feea2c65986"
+}
+
+2016-06-14 16:17:37
+{"statusCode":-1,"message":"请扫描微信支付被扫条码/二维码","data":null,"succeed":false}
+
+2016-06-14 16:17:37
+http://log.hme.cn/hpf-log/v1/put_log??=clientNo=1207&version=1.5.4&shopId=2286&level=ERROR&content={"statusCode":-1,"message":"请扫描微信支付被扫条码/二维码","data":null,"succeed":false}&timestamp=1465892257508&mac=b87536df82c92319dc0a38dcfe51b6d4
+
+2016-06-14 16:17:37
+<html><head><title>Apache Tomcat/6.0.44 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'clientNo' is not present</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'clientNo' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.44</h3></body></html>
+
+2016-06-14 16:17:44
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892264398",
+  "mac": "15b2b33188da89f33eb79ca2f64364fa",
+  "serialNo": "ZD20160614161744289",
+  "userId": 0,
+  "giveIntegral": 0,
+  "tableId": 84,
+  "tableName": "101周勇",
+  "shopAreaName": "快餐厅-101周勇",
+  "consumeTime": "2016-06-14 16:17:44",
+  "endTime": "2016-06-14 16:17:44",
+  "containOrderNos": "CRM20160614161744289",
+  "mealFee": 0,
+  "serviceFeeRatio": 0.00,
+  "roomFee": 0.0,
+  "serviceFee": 0.00,
+  "nonZero": 0.0,
+  "totalMoney": 22.00,
+  "offLinePayMoney": 0,
+  "isWholeBill": "0",
+  "ratePerson": 1.00,
+  "payState": "0",
+  "detail": [
+    {
+      "dishId": "50670",
+      "dishName": "酥肉粉丝汤",
+      "quantity": 1.0,
+      "price": 22.00,
+      "orderType": "2",
+      "unit": "份",
+      "orderDetailId": 0
+    }
+  ]
+}
+
+2016-06-14 16:17:45
+{"statusCode":1,"message":"OK","data":283603,"succeed":true}
+
+2016-06-14 16:17:45
+http://api.hme.cn/hpf-open-api/api/crm/micropay.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892265890",
+  "orderNo": "CRM20160614161744289",
+  "channel": 1,
+  "authCode": "3",
+  "mac": "f9f297274e530a15493b6a0c8370e83d"
+}
+
+2016-06-14 16:17:48
+{"statusCode":-1,"message":"请扫描微信支付被扫条码/二维码","data":null,"succeed":false}
+
+2016-06-14 16:17:48
+http://log.hme.cn/hpf-log/v1/put_log??=clientNo=1207&version=1.5.4&shopId=2286&level=ERROR&content={"statusCode":-1,"message":"请扫描微信支付被扫条码/二维码","data":null,"succeed":false}&timestamp=1465892268161&mac=3ca82311810b0857654d24af7a3980e8
+
+2016-06-14 16:17:48
+<html><head><title>Apache Tomcat/6.0.44 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'clientNo' is not present</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'clientNo' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.44</h3></body></html>
+
+2016-06-14 16:17:54
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892274106",
+  "mac": "7d25ae20240a11396bdb0a0cde4ead26",
+  "serialNo": "ZD20160614161754007",
+  "userId": 0,
+  "giveIntegral": 0,
+  "tableId": 84,
+  "tableName": "101周勇",
+  "shopAreaName": "快餐厅-101周勇",
+  "consumeTime": "2016-06-14 16:17:54",
+  "endTime": "2016-06-14 16:17:54",
+  "containOrderNos": "CRM20160614161754007",
+  "mealFee": 0,
+  "serviceFeeRatio": 0.00,
+  "roomFee": 0.0,
+  "serviceFee": 0.00,
+  "nonZero": 0.0,
+  "totalMoney": 22.00,
+  "offLinePayMoney": 0,
+  "isWholeBill": "0",
+  "ratePerson": 1.00,
+  "payState": "0",
+  "detail": [
+    {
+      "dishId": "50670",
+      "dishName": "酥肉粉丝汤",
+      "quantity": 1.0,
+      "price": 22.00,
+      "orderType": "2",
+      "unit": "份",
+      "orderDetailId": 0
+    }
+  ]
+}
+
+2016-06-14 16:17:55
+{"statusCode":1,"message":"OK","data":283604,"succeed":true}
+
+2016-06-14 16:17:55
+http://api.hme.cn/hpf-open-api/api/crm/micropay.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892275532",
+  "orderNo": "CRM20160614161754007",
+  "channel": 1,
+  "authCode": "2",
+  "mac": "7c47db9985457c777650680bf733069e"
+}
+
+2016-06-14 16:17:57
+{"statusCode":-1,"message":"请扫描微信支付被扫条码/二维码","data":null,"succeed":false}
+
+2016-06-14 16:17:57
+http://log.hme.cn/hpf-log/v1/put_log??=clientNo=1207&version=1.5.4&shopId=2286&level=ERROR&content={"statusCode":-1,"message":"请扫描微信支付被扫条码/二维码","data":null,"succeed":false}&timestamp=1465892277830&mac=2fbb67c0130d76ba42177911a50cbe00
+
+2016-06-14 16:17:57
+<html><head><title>Apache Tomcat/6.0.44 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'clientNo' is not present</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'clientNo' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.44</h3></body></html>
+
+2016-06-14 16:18:00
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892280925",
+  "mac": "d0bc3c776306d94ba3e0635dc5e57058",
+  "serialNo": "ZD20160614161800815",
+  "userId": 0,
+  "giveIntegral": 0,
+  "tableId": 84,
+  "tableName": "101周勇",
+  "shopAreaName": "快餐厅-101周勇",
+  "consumeTime": "2016-06-14 16:18:00",
+  "endTime": "2016-06-14 16:18:00",
+  "containOrderNos": "CRM20160614161800815",
+  "mealFee": 0,
+  "serviceFeeRatio": 0.00,
+  "roomFee": 0.0,
+  "serviceFee": 0.00,
+  "nonZero": 0.0,
+  "totalMoney": 22.00,
+  "offLinePayMoney": 0,
+  "isWholeBill": "0",
+  "ratePerson": 1.00,
+  "payState": "0",
+  "detail": [
+    {
+      "dishId": "50670",
+      "dishName": "酥肉粉丝汤",
+      "quantity": 1.0,
+      "price": 22.00,
+      "orderType": "2",
+      "unit": "份",
+      "orderDetailId": 0
+    }
+  ]
+}
+
+2016-06-14 16:18:02
+{"statusCode":1,"message":"OK","data":283605,"succeed":true}
+
+2016-06-14 16:18:02
+http://api.hme.cn/hpf-open-api/api/crm/micropay.api?jsonStr={
+  "clientNo": "1207",
+  "version": "1.5.4",
+  "shopId": "2286",
+  "account": "hmyct",
+  "timestamp": "1465892282408",
+  "orderNo": "CRM20160614161800815",
+  "channel": 1,
+  "authCode": "50",
+  "mac": "58da7aa04fc981188d59ec1f82dd7ed7"
+}
+
+2016-06-14 16:18:04
+{"statusCode":-1,"message":"请扫描微信支付被扫条码/二维码","data":null,"succeed":false}
+
+2016-06-14 16:18:04
+http://log.hme.cn/hpf-log/v1/put_log??=clientNo=1207&version=1.5.4&shopId=2286&level=ERROR&content={"statusCode":-1,"message":"请扫描微信支付被扫条码/二维码","data":null,"succeed":false}&timestamp=1465892284605&mac=c088e23d8eae34bddcab3e2f27ba426a
+
+2016-06-14 16:18:04
+<html><head><title>Apache Tomcat/6.0.44 - Error report</title><style><!--H1 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:22px;} H2 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:16px;} H3 {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;font-size:14px;} BODY {font-family:Tahoma,Arial,sans-serif;color:black;background-color:white;} B {font-family:Tahoma,Arial,sans-serif;color:white;background-color:#525D76;} P {font-family:Tahoma,Arial,sans-serif;background:white;color:black;font-size:12px;}A {color : black;}A.name {color : black;}HR {color : #525D76;}--></style> </head><body><h1>HTTP Status 400 - Required String parameter 'clientNo' is not present</h1><HR size="1" noshade="noshade"><p><b>type</b> Status report</p><p><b>message</b> <u>Required String parameter 'clientNo' is not present</u></p><p><b>description</b> <u>The request sent by the client was syntactically incorrect.</u></p><HR size="1" noshade="noshade"><h3>Apache Tomcat/6.0.44</h3></body></html>
+

@@ -1,0 +1,66 @@
+2015-09-24 18:22:59:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.2.4","shopId":"62","timestamp":"1443118979186","mac":"53e8b5df3a949d0bf8a9d98801dbdc34"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|62|CY20150924901926611007335635|13658354485||62-1443090194351}[CRM]","succeed":true}
+
+2015-09-24 18:22:59:
+{1|62|CY20150924901926611007335635|13658354485||62-1443090194351}
+
+2015-09-24 18:22:59:
+http://api.hme.cn/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.2.4","shopId":"62","orderNo":"CY20150924901926611007335635","account":"sccs","timestamp":"1443118979374","mac":"42b893affd2dbbdcd4b5316a7daf55f6"}
+
+{"data":{"detail":[{"basePoints":0.00,"clientNo":"1007","createTime":"2015-09-24 18:23:12","crmId":"","detailId":26793,"dishId":23680,"dishName":"王老吉","dishState":0,"isDelete":0,"mutifyType":0,"orderId":5791,"price":3.00,"quantity":1.000,"rebatePoints":0.00,"unit":"瓶","userId":35296,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1007","appraiseState":0,"bookedNumber":1,"bookedNumberSecond":0,"cashAmmout":0.00,"cashPayType":0,"consumeState":0,"createTime":"2015-09-24 18:23:12","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"ip":"112.124.127.170","isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","orderId":5791,"orderNo":"CY20150924901926611007335635","orderState":5,"orderType":3,"payType":0,"phone":"13658354485","prepayAmount":3.00,"prepayAmountSecond":0.00,"refundApplyState":0,"shopId":62,"shopLogoUrl":"http://img.hme.cn/res/shop/a/2015/3/1c07f15cac894b3695502b07a1df4b73_3.jpg","shopName":"市场部公用测试账户","shopPhone":"","showState":0,"userId":35296},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2015-09-24 18:24:33:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.2.4","shopId":"62","timestamp":"1443119073332","mac":"87e2a4e401a935d06e4f4be22635fc29"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|7587|CY20150919745749201007961847|62-1443090288499}[CRM]","succeed":true}
+
+2015-09-24 18:24:33:
+{3|62|7587|CY20150919745749201007961847|62-1443090288499}
+
+2015-09-24 18:24:54:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.2.4","shopId":"62","timestamp":"1443119094629","mac":"8ee501b97941d72ad18140474841583b"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{3|62|7587|CY20150919745749201007961847|62-1443090309796}[CRM]","succeed":true}
+
+2015-09-24 18:24:54:
+{3|62|7587|CY20150919745749201007961847|62-1443090309796}
+
+2015-09-24 18:25:12:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.2.4","shopId":"62","timestamp":"1443119112881","mac":"c2b6f5ffb2ae473727de3eccc7107bed"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{4|62|7587|CY20150919745749201007961847|62-1443090328046}[CRM]","succeed":true}
+
+2015-09-24 18:25:13:
+{4|62|7587|CY20150919745749201007961847|62-1443090328046}
+
+2015-09-24 18:26:45:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.2.4","shopId":"62","timestamp":"1443119205589","mac":"4b1b008e7ebcc7e3e5f02afc9da0abc3"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{4|62|7587|CY20150919745749201007961847|62-1443090420744}[CRM]","succeed":true}
+
+2015-09-24 18:26:45:
+{4|62|7587|CY20150919745749201007961847|62-1443090420744}
+
+2015-09-24 18:27:35:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.2.4","shopId":"62","timestamp":"1443119255922","mac":"80b9c44e4620f0e513bd3fe8619085b8"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{4|62|7587|CY20150919745749201007961847|62-1443090471083}[CRM]","succeed":true}
+
+2015-09-24 18:27:36:
+{4|62|7587|CY20150919745749201007961847|62-1443090471083}
+
+2015-09-24 18:35:19:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.2.4","shopId":"62","timestamp":"1443119719240","mac":"153b1ff087c1a6c4d817f76321220d15"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|62|CY20150924909342691007365681|13658354485||62-1443090934410}[CRM]","succeed":true}
+
+2015-09-24 18:35:19:
+{1|62|CY20150924909342691007365681|13658354485||62-1443090934410}
+
+2015-09-24 18:35:19:
+http://api.hme.cn/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.2.4","shopId":"62","orderNo":"CY20150924909342691007365681","account":"sccs","timestamp":"1443119719427","mac":"4cfbb78e2cdeeb49d66c12c7565da03f"}
+
+{"data":{"detail":[{"basePoints":0.00,"clientNo":"1007","createTime":"2015-09-24 18:35:34","crmId":"","detailId":26834,"dishId":26304,"dishName":"服务上线","dishState":0,"isDelete":0,"mutifyType":0,"orderId":5797,"price":30.00,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35296,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心叠彩城21F","apiClientNo":"1007","appraiseState":0,"bookedNumber":1,"bookedNumberSecond":0,"cashAmmout":0.00,"cashPayType":0,"consumeState":0,"createTime":"2015-09-24 18:35:34","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"ip":"112.124.127.170","isLottery":0,"isNeedRoom":0,"location":"106.577454,29.646067","orderId":5797,"orderNo":"CY20150924909342691007365681","orderState":5,"orderType":3,"payType":0,"phone":"13658354485","prepayAmount":30.00,"prepayAmountSecond":0.00,"refundApplyState":0,"shopId":62,"shopLogoUrl":"http://img.hme.cn/res/shop/a/2015/3/1c07f15cac894b3695502b07a1df4b73_3.jpg","shopName":"市场部公用测试账户","shopPhone":"","showState":0,"userId":35296},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+

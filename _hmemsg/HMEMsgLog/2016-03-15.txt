@@ -1,0 +1,29 @@
+2016-03-15 14:36:37:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.3.8","shopId":"62","timestamp":"1458052597683","mac":"ab084b33572dc3298e8de5c20ab0244a"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]7|62|CY20160125026819641007051899|1868085980|62-1458023605500}[CRM]","succeed":true}
+
+2016-03-15 14:38:40:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.3.8","shopId":"62","timestamp":"1458052720495","mac":"7fa7c8ad48adb8678764f411836233b7"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]7|62|CY20160125026819641007051899|1868085980|62-1458023728317}[CRM]","succeed":true}
+
+2016-03-15 14:39:44:
+7|62|CY20160125026819641007051899|1868085980|62-1458023728317}
+
+2016-03-15 14:43:36:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.3.8","shopId":"62","timestamp":"1458053016364","mac":"46d598c43c1e58c4e0410afa99448186"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]7|62|CY20160125026819641007051899|1868085980|62-1458024024183}[CRM]","succeed":true}
+
+2016-03-15 14:43:56:
+7|62|CY20160125026819641007051899|1868085980|62-1458024024183}
+
+2016-03-15 14:44:09:
+http://192.168.0.10/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.3.8","shopId":"62","timestamp":"1458053049233","mac":"4b522f2a4d44d2cdede1527f22d600e3"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{7|62|CY20160125026819641007051899|18680859800|62-1458024057049}[CRM]","succeed":true}
+
+2016-03-15 14:44:15:
+{7|62|CY20160125026819641007051899|18680859800|62-1458024057049}
+

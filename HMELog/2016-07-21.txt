@@ -1,0 +1,246 @@
+2016-07-21 13:00:58:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106058262","mac":"1b861a20b2e05f2b9e04a0be8ab1fadc"}
+
+2016-07-21 13:00:59:
+{"statusCode":1,"message":"OK","data":1469077287207,"succeed":true}
+
+2016-07-21 13:04:06:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106246427","mac":"f682780d4750c77bb42b4a2dacfd04e0"}
+
+2016-07-21 13:04:06:
+{"statusCode":1,"message":"OK","data":1469077474750,"succeed":true}
+
+2016-07-21 13:04:06:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","timestamp":"1469106246679","mac":"70ea2a490aca3552e144f7d506c47ef5","system":""}
+
+2016-07-21 13:04:06:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-07-21 13:04:09:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106249819","mac":"d8a853c0a7598826a858a9d90b7f705b"}
+
+2016-07-21 13:04:09:
+{"statusCode":1,"message":"OK","data":1469077478079,"succeed":true}
+
+2016-07-21 13:04:09:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","timestamp":"1469106249994","mac":"e4b82fc5dc3fcd1290164acdf2555e7b","system":""}
+
+2016-07-21 13:04:10:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-07-21 13:04:51:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106291523","mac":"c2588e79601a2e59bfc9c0de3589b6a2"}
+
+2016-07-21 13:04:51:
+{"statusCode":1,"message":"OK","data":1469077519865,"succeed":true}
+
+2016-07-21 13:04:51:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","timestamp":"1469106291793","mac":"8886d801b242e91ad728cb25d8d65c7d","system":""}
+
+2016-07-21 13:04:51:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-07-21 13:04:55:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106295439","mac":"b06707d71d103f857f29d132cf374636"}
+
+2016-07-21 13:04:55:
+{"statusCode":1,"message":"OK","data":1469077523699,"succeed":true}
+
+2016-07-21 13:06:08:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106368840","mac":"58586080fdd5763073778f6d2a7db181"}
+
+2016-07-21 13:06:08:
+{"statusCode":1,"message":"OK","data":1469077597180,"succeed":true}
+
+2016-07-21 13:06:09:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","timestamp":"1469106369069","mac":"2c25d04b4e12a58433fb80c0a3a1c097","system":""}
+
+2016-07-21 13:06:09:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-07-21 13:09:58:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106598124","mac":"55dce2cd48bf95d9994f676ea4a73657"}
+
+2016-07-21 13:09:58:
+{"statusCode":1,"message":"OK","data":1469077826471,"succeed":true}
+
+2016-07-21 13:09:58:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","timestamp":"1469106598419","mac":"db95d7e10385fa2d1a612f3f932b5802","system":""}
+
+2016-07-21 13:09:58:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-07-21 13:11:46:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106706403","mac":"44761ef223e7841ba5b0c9af6ab58d24"}
+
+2016-07-21 13:11:46:
+{"statusCode":1,"message":"OK","data":1469077934753,"succeed":true}
+
+2016-07-21 13:11:46:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","timestamp":"1469106706659","mac":"2df62ba2c1258cf17e7b71a4159864d6","system":""}
+
+2016-07-21 13:11:46:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-07-21 13:14:25:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106865059","mac":"f7aa97f7ecfa72395ec0b052f5d50b03"}
+
+2016-07-21 13:14:25:
+{"statusCode":1,"message":"OK","data":1469078093417,"succeed":true}
+
+2016-07-21 13:14:25:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","timestamp":"1469106865380","mac":"cf98f5397ffe42232b0c6d48cda0993c","system":""}
+
+2016-07-21 13:14:25:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-07-21 13:16:17:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106977224","mac":"1503fda6ff27add5a079d41b4198b02e"}
+
+2016-07-21 13:16:18:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469106977224","mac":"1503fda6ff27add5a079d41b4198b02e"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:16:54:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107014087","mac":"65fd5c9e060e98ef9efa42678156d024"}
+
+2016-07-21 13:16:55:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107014087","mac":"65fd5c9e060e98ef9efa42678156d024"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:19:34:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469107174341","mac":"65d6a29095a0870c6194e5584625f204","serialNo":"ZD00000257","userId":"86151","giveIntegral":"0","tableId":"10897","tableName":"%56%30%39","shopAreaName":"%E5%A4%A7%E5%8C%85%E6%88%BF%2D%56%30%39","consumeTime":"2016-07-20 21:24:46","endTime":"2016-07-21 13:19:34","containOrderNos":"CRM271120160720212336407","mealFee":"0","serviceFeeRatio":"0","roomFee":"30","serviceFee":"0","nonZero":"-0.2","totalMoney":"860.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"0","detail":[{"dishId":"47112","dishName":"%E9%B2%9C%E6%A6%A8%E8%A5%BF%E7%93%9C%E6%B1%81","quantity":"1.000","price":"22.00","orderType":"2","unit":"%E5%A3%B6","orderDetailId":"0"},{"dishId":"45942","dishName":"%E5%9C%9F%E5%AE%B6%E8%85%8A%E6%8E%92%E9%AA%A8","quantity":"1.000","price":"38.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45957","dishName":"%E7%83%A7%E6%A4%92%E8%8C%84%E5%AD%90","quantity":"1.000","price":"10.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45950","dishName":"%E7%9A%AE%E8%9B%8B%E8%B1%86%E8%85%90","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%B8%AA","orderDetailId":"0"},{"dishId":"46411","dishName":"%E5%87%89%E6%8B%8C%E8%8B%A6%E7%93%9C","quantity":"1.000","price":"12.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48578","dishName":"%E5%B8%A6%E7%9A%AE%E7%89%9B%E8%82%89","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"46057","dishName":"%E6%9D%BF%E6%A0%97%E4%BB%81","quantity":"3.000","price":"15.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48578","dishName":"%E5%B8%A6%E7%9A%AE%E7%89%9B%E8%82%89","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45989","dishName":"%E9%87%91%E4%BD%9B%E5%B1%B1%E6%96%B9%E7%AB%B9%E7%AC%8B","quantity":"1.000","price":"14.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"47112","dishName":"%E9%B2%9C%E6%A6%A8%E8%A5%BF%E7%93%9C%E6%B1%81","quantity":"-1.000","price":"22.00","orderType":"2","unit":"%E5%A3%B6","orderDetailId":"0"},{"dishId":"45958","dishName":"%E9%85%B8%E8%BE%A3%E8%95%A8%E6%A0%B9%E7%B2%89","quantity":"1.000","price":"12.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45945","dishName":"%E5%8D%A4%E7%89%9B%E8%82%89","quantity":"1.000","price":"32.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45955","dishName":"%E5%87%89%E6%8B%8C%E8%B1%87%E8%B1%86","quantity":"1.000","price":"10.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48575","dishName":"%E7%BE%8E%E5%9B%BD%E8%82%A5%E7%89%9B","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"46051","dishName":"%E5%86%9C%E6%9D%91%E5%9C%9F%E9%B8%A1%EF%BC%88%E5%8D%8A%E5%8F%AA%EF%BC%89","quantity":"4.600","price":"58.00","orderType":"2","unit":"%E6%96%A4","orderDetailId":"0"},{"dishId":"46093","dishName":"%E9%87%8D%E5%BA%86%E7%BA%AF%E7%94%9F%E5%95%A4%E9%85%92","quantity":"24.000","price":"12.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"48580","dishName":"%E6%A2%85%E6%9E%97%E5%8D%88%E9%A4%90%E8%82%89","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45991","dishName":"%E9%B2%9C%E5%AB%A9%E7%8C%AA%E8%82%9D","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+2016-07-21 13:19:35:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469107174341","mac":"65d6a29095a0870c6194e5584625f204","serialNo":"ZD00000257","userId":"86151","giveIntegral":"0","tableId":"10897","tableName":"%56%30%39","shopAreaName":"%E5%A4%A7%E5%8C%85%E6%88%BF%2D%56%30%39","consumeTime":"2016-07-20 21:24:46","endTime":"2016-07-21 13:19:34","containOrderNos":"CRM271120160720212336407","mealFee":"0","serviceFeeRatio":"0","roomFee":"30","serviceFee":"0","nonZero":"-0.2","totalMoney":"860.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"0","detail":[{"dishId":"47112","dishName":"%E9%B2%9C%E6%A6%A8%E8%A5%BF%E7%93%9C%E6%B1%81","quantity":"1.000","price":"22.00","orderType":"2","unit":"%E5%A3%B6","orderDetailId":"0"},{"dishId":"45942","dishName":"%E5%9C%9F%E5%AE%B6%E8%85%8A%E6%8E%92%E9%AA%A8","quantity":"1.000","price":"38.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45957","dishName":"%E7%83%A7%E6%A4%92%E8%8C%84%E5%AD%90","quantity":"1.000","price":"10.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45950","dishName":"%E7%9A%AE%E8%9B%8B%E8%B1%86%E8%85%90","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%B8%AA","orderDetailId":"0"},{"dishId":"46411","dishName":"%E5%87%89%E6%8B%8C%E8%8B%A6%E7%93%9C","quantity":"1.000","price":"12.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48578","dishName":"%E5%B8%A6%E7%9A%AE%E7%89%9B%E8%82%89","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"46057","dishName":"%E6%9D%BF%E6%A0%97%E4%BB%81","quantity":"3.000","price":"15.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48578","dishName":"%E5%B8%A6%E7%9A%AE%E7%89%9B%E8%82%89","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45989","dishName":"%E9%87%91%E4%BD%9B%E5%B1%B1%E6%96%B9%E7%AB%B9%E7%AC%8B","quantity":"1.000","price":"14.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"47112","dishName":"%E9%B2%9C%E6%A6%A8%E8%A5%BF%E7%93%9C%E6%B1%81","quantity":"-1.000","price":"22.00","orderType":"2","unit":"%E5%A3%B6","orderDetailId":"0"},{"dishId":"45958","dishName":"%E9%85%B8%E8%BE%A3%E8%95%A8%E6%A0%B9%E7%B2%89","quantity":"1.000","price":"12.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45945","dishName":"%E5%8D%A4%E7%89%9B%E8%82%89","quantity":"1.000","price":"32.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45955","dishName":"%E5%87%89%E6%8B%8C%E8%B1%87%E8%B1%86","quantity":"1.000","price":"10.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48575","dishName":"%E7%BE%8E%E5%9B%BD%E8%82%A5%E7%89%9B","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"46051","dishName":"%E5%86%9C%E6%9D%91%E5%9C%9F%E9%B8%A1%EF%BC%88%E5%8D%8A%E5%8F%AA%EF%BC%89","quantity":"4.600","price":"58.00","orderType":"2","unit":"%E6%96%A4","orderDetailId":"0"},{"dishId":"46093","dishName":"%E9%87%8D%E5%BA%86%E7%BA%AF%E7%94%9F%E5%95%A4%E9%85%92","quantity":"24.000","price":"12.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"48580","dishName":"%E6%A2%85%E6%9E%97%E5%8D%88%E9%A4%90%E8%82%89","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45991","dishName":"%E9%B2%9C%E5%AB%A9%E7%8C%AA%E8%82%9D","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:19:36:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469107176858","mac":"4555538f0346e03e18d1ad22f791a349","orderNo":"CRM271120160720212336407"}
+
+2016-07-21 13:19:37:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469107176858","mac":"4555538f0346e03e18d1ad22f791a349","orderNo":"CRM271120160720212336407"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:21:13:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107273988","mac":"330bca66768396d7a6fadc0934dfca63"}
+
+2016-07-21 13:21:14:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107273988","mac":"330bca66768396d7a6fadc0934dfca63"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:22:47:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107367495","mac":"0df33e7ed9c224f3ba54249ebedbefdf"}
+
+2016-07-21 13:22:48:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107367495","mac":"0df33e7ed9c224f3ba54249ebedbefdf"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:24:26:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107466336","mac":"91cfd6352593b52cdaac1a22c8dee081"}
+
+2016-07-21 13:24:27:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107466336","mac":"91cfd6352593b52cdaac1a22c8dee081"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:28:40:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107720950","mac":"ca6418e77f6c2032415d23b575f9341c"}
+
+2016-07-21 13:28:41:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107720950","mac":"ca6418e77f6c2032415d23b575f9341c"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:29:27:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469107767305","mac":"5965abfd6bd1e543295a43ad396ae52c","orderNo":"CRM271120160720212336407"}
+
+2016-07-21 13:29:28:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469107767305","mac":"5965abfd6bd1e543295a43ad396ae52c","orderNo":"CRM271120160720212336407"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:30:05:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107805110","mac":"7fff9be879c17630ae400d023cdc32a2"}
+
+2016-07-21 13:30:06:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107805110","mac":"7fff9be879c17630ae400d023cdc32a2"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:30:29:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107829161","mac":"d09e36ffe9f83bf9a0071c50a5ff9a4b"}
+
+2016-07-21 13:30:30:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107829161","mac":"d09e36ffe9f83bf9a0071c50a5ff9a4b"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:32:17:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107937132","mac":"6967603005a154f4db82986bdc1f1e48"}
+
+2016-07-21 13:32:18:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469107937132","mac":"6967603005a154f4db82986bdc1f1e48"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:33:42:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469108022841","mac":"fe276363e3d417c5d9aee55c6f3f8104"}
+
+2016-07-21 13:33:44:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469108022841","mac":"fe276363e3d417c5d9aee55c6f3f8104"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:35:32:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469108132006","mac":"fb67ecaa244feff9abafa07a384222f0"}
+
+2016-07-21 13:35:33:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469108132006","mac":"fb67ecaa244feff9abafa07a384222f0"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:35:54:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469108154358","mac":"5d82a9a5c32c17999ea302ee8b9bfba5","orderNo":"CRM271120160720212336407"}
+
+2016-07-21 13:35:55:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469108154358","mac":"5d82a9a5c32c17999ea302ee8b9bfba5","orderNo":"CRM271120160720212336407"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:36:14:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469108174309","mac":"237740da7a6e5b572ce385282d36788e","serialNo":"ZD00000257","userId":"86151","giveIntegral":"0","tableId":"10897","tableName":"%56%30%39","shopAreaName":"%E5%A4%A7%E5%8C%85%E6%88%BF%2D%56%30%39","consumeTime":"2016-07-20 21:24:46","endTime":"2016-07-21 13:36:14","containOrderNos":"CRM271120160720212336407","mealFee":"0","serviceFeeRatio":"0","roomFee":"30","serviceFee":"0","nonZero":"1.8","totalMoney":"858.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"0","detail":[{"dishId":"47112","dishName":"%E9%B2%9C%E6%A6%A8%E8%A5%BF%E7%93%9C%E6%B1%81","quantity":"1.000","price":"22.00","orderType":"2","unit":"%E5%A3%B6","orderDetailId":"0"},{"dishId":"45942","dishName":"%E5%9C%9F%E5%AE%B6%E8%85%8A%E6%8E%92%E9%AA%A8","quantity":"1.000","price":"38.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45957","dishName":"%E7%83%A7%E6%A4%92%E8%8C%84%E5%AD%90","quantity":"1.000","price":"10.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45950","dishName":"%E7%9A%AE%E8%9B%8B%E8%B1%86%E8%85%90","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%B8%AA","orderDetailId":"0"},{"dishId":"46411","dishName":"%E5%87%89%E6%8B%8C%E8%8B%A6%E7%93%9C","quantity":"1.000","price":"12.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48578","dishName":"%E5%B8%A6%E7%9A%AE%E7%89%9B%E8%82%89","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"46057","dishName":"%E6%9D%BF%E6%A0%97%E4%BB%81","quantity":"3.000","price":"15.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48578","dishName":"%E5%B8%A6%E7%9A%AE%E7%89%9B%E8%82%89","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45989","dishName":"%E9%87%91%E4%BD%9B%E5%B1%B1%E6%96%B9%E7%AB%B9%E7%AC%8B","quantity":"1.000","price":"14.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"47112","dishName":"%E9%B2%9C%E6%A6%A8%E8%A5%BF%E7%93%9C%E6%B1%81","quantity":"-1.000","price":"22.00","orderType":"2","unit":"%E5%A3%B6","orderDetailId":"0"},{"dishId":"45958","dishName":"%E9%85%B8%E8%BE%A3%E8%95%A8%E6%A0%B9%E7%B2%89","quantity":"1.000","price":"12.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45945","dishName":"%E5%8D%A4%E7%89%9B%E8%82%89","quantity":"1.000","price":"32.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45955","dishName":"%E5%87%89%E6%8B%8C%E8%B1%87%E8%B1%86","quantity":"1.000","price":"10.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48575","dishName":"%E7%BE%8E%E5%9B%BD%E8%82%A5%E7%89%9B","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"46051","dishName":"%E5%86%9C%E6%9D%91%E5%9C%9F%E9%B8%A1%EF%BC%88%E5%8D%8A%E5%8F%AA%EF%BC%89","quantity":"4.600","price":"58.00","orderType":"2","unit":"%E6%96%A4","orderDetailId":"0"},{"dishId":"46093","dishName":"%E9%87%8D%E5%BA%86%E7%BA%AF%E7%94%9F%E5%95%A4%E9%85%92","quantity":"24.000","price":"12.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"48580","dishName":"%E6%A2%85%E6%9E%97%E5%8D%88%E9%A4%90%E8%82%89","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45991","dishName":"%E9%B2%9C%E5%AB%A9%E7%8C%AA%E8%82%9D","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+2016-07-21 13:36:15:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469108174309","mac":"237740da7a6e5b572ce385282d36788e","serialNo":"ZD00000257","userId":"86151","giveIntegral":"0","tableId":"10897","tableName":"%56%30%39","shopAreaName":"%E5%A4%A7%E5%8C%85%E6%88%BF%2D%56%30%39","consumeTime":"2016-07-20 21:24:46","endTime":"2016-07-21 13:36:14","containOrderNos":"CRM271120160720212336407","mealFee":"0","serviceFeeRatio":"0","roomFee":"30","serviceFee":"0","nonZero":"1.8","totalMoney":"858.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"0","detail":[{"dishId":"47112","dishName":"%E9%B2%9C%E6%A6%A8%E8%A5%BF%E7%93%9C%E6%B1%81","quantity":"1.000","price":"22.00","orderType":"2","unit":"%E5%A3%B6","orderDetailId":"0"},{"dishId":"45942","dishName":"%E5%9C%9F%E5%AE%B6%E8%85%8A%E6%8E%92%E9%AA%A8","quantity":"1.000","price":"38.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45957","dishName":"%E7%83%A7%E6%A4%92%E8%8C%84%E5%AD%90","quantity":"1.000","price":"10.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45950","dishName":"%E7%9A%AE%E8%9B%8B%E8%B1%86%E8%85%90","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%B8%AA","orderDetailId":"0"},{"dishId":"46411","dishName":"%E5%87%89%E6%8B%8C%E8%8B%A6%E7%93%9C","quantity":"1.000","price":"12.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48578","dishName":"%E5%B8%A6%E7%9A%AE%E7%89%9B%E8%82%89","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"46057","dishName":"%E6%9D%BF%E6%A0%97%E4%BB%81","quantity":"3.000","price":"15.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48578","dishName":"%E5%B8%A6%E7%9A%AE%E7%89%9B%E8%82%89","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45989","dishName":"%E9%87%91%E4%BD%9B%E5%B1%B1%E6%96%B9%E7%AB%B9%E7%AC%8B","quantity":"1.000","price":"14.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"47112","dishName":"%E9%B2%9C%E6%A6%A8%E8%A5%BF%E7%93%9C%E6%B1%81","quantity":"-1.000","price":"22.00","orderType":"2","unit":"%E5%A3%B6","orderDetailId":"0"},{"dishId":"45958","dishName":"%E9%85%B8%E8%BE%A3%E8%95%A8%E6%A0%B9%E7%B2%89","quantity":"1.000","price":"12.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45945","dishName":"%E5%8D%A4%E7%89%9B%E8%82%89","quantity":"1.000","price":"32.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45955","dishName":"%E5%87%89%E6%8B%8C%E8%B1%87%E8%B1%86","quantity":"1.000","price":"10.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"48575","dishName":"%E7%BE%8E%E5%9B%BD%E8%82%A5%E7%89%9B","quantity":"1.000","price":"18.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"46051","dishName":"%E5%86%9C%E6%9D%91%E5%9C%9F%E9%B8%A1%EF%BC%88%E5%8D%8A%E5%8F%AA%EF%BC%89","quantity":"4.600","price":"58.00","orderType":"2","unit":"%E6%96%A4","orderDetailId":"0"},{"dishId":"46093","dishName":"%E9%87%8D%E5%BA%86%E7%BA%AF%E7%94%9F%E5%95%A4%E9%85%92","quantity":"24.000","price":"12.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"48580","dishName":"%E6%A2%85%E6%9E%97%E5%8D%88%E9%A4%90%E8%82%89","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"45991","dishName":"%E9%B2%9C%E5%AB%A9%E7%8C%AA%E8%82%9D","quantity":"1.000","price":"16.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:36:17:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469108177438","mac":"15d790bb62e8eab52fb068aa9e45d9ac","orderNo":"CRM271120160720212336407"}
+
+2016-07-21 13:36:18:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.5.9","shopId":"2711","account":"mzysblj","timestamp":"1469108177438","mac":"15d790bb62e8eab52fb068aa9e45d9ac","orderNo":"CRM271120160720212336407"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 13:42:17:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469108537101","mac":"5cb90d331bbdeb526723cc277b0a40c5"}
+
+2016-07-21 13:42:18:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469108537101","mac":"5cb90d331bbdeb526723cc277b0a40c5"}
+
+请求服务器超时，错误代码:-6
+
+2016-07-21 16:42:25:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.5.9","timestamp":"1469119345326","mac":"56ed47cf231a18c4a058df727e2c28c4"}
+
+2016-07-21 16:42:25:
+{"statusCode":1,"message":"OK","data":1469090573812,"succeed":true}
+

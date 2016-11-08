@@ -1,0 +1,1438 @@
+2016-04-20 11:43:36:
+http://api.hme.cn/hpf-open-api/api/crm/shops-table-up.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopsId":"62","account":"sccs","timestamp":"1461152616081","mac":"658a2ebf5502cb22fdc5c19acebcbaa6","shopsTable":[{"shopsId":"62","shopsName":"%E5%B8%82%E5%9C%BA%E9%83%A8%E5%85%AC%E7%94%A8%E6%B5%8B%E8%AF%95%E8%B4%A6%E6%88%B7","id":"8185","isdelete":"0","clientTableId":"002","clientTableName":"%31%30%32%E5%88%98%E9%9B%AA%E5%B3%B0","posName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA","seatnumber":"1","roomFee":"0","statusName":"%E4%BD%BF%E7%94%A8","exclusive":"0","srvRate":"0","isIdle":"1"},{"shopsId":"62","shopsName":"%E5%B8%82%E5%9C%BA%E9%83%A8%E5%85%AC%E7%94%A8%E6%B5%8B%E8%AF%95%E8%B4%A6%E6%88%B7","id":"5045","isdelete":"0","clientTableId":"999","clientTableName":"%38%E5%8F%B7%E6%96%B0%E5%A2%9E%E6%B5%8B%E8%AF%95","posName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA","seatnumber":"8","roomFee":"0","statusName":"%E7%A9%BA%E9%97%B2","exclusive":"0","srvRate":"0","isIdle":"0"}]}
+
+{"statusCode":1,"message":"OK","data":[{"id":8185,"shopsId":62,"shopsName":"市场部公用测试账户","clientTableId":"002","clientTableName":"102刘雪峰","posName":"好觅会场","seatnumber":1,"roomFee":0,"statusName":"使用","exclusive":0,"srvRate":0,"createTime":null,"isDelete":0,"isIdle":1},{"id":5045,"shopsId":62,"shopsName":"市场部公用测试账户","clientTableId":"999","clientTableName":"8号新增测试","posName":"好觅会场","seatnumber":8,"roomFee":0,"statusName":"空闲","exclusive":0,"srvRate":0,"createTime":null,"isDelete":0,"isIdle":0}],"succeed":true}
+
+2016-04-20 11:44:16:
+http://api.hme.cn/hpf-open-api/api/crm/shops-table-up.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopsId":"62","account":"sccs","timestamp":"1461152656013","mac":"e80a79c38c5a145ca6e26a46b7444e0a","shopsTable":[{"shopsId":"62","shopsName":"%E5%B8%82%E5%9C%BA%E9%83%A8%E5%85%AC%E7%94%A8%E6%B5%8B%E8%AF%95%E8%B4%A6%E6%88%B7","id":"5045","isdelete":"0","clientTableId":"999","clientTableName":"%38%E5%8F%B7%E6%96%B0%E5%A2%9E%E6%B5%8B%E8%AF%95","posName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA","seatnumber":"8","roomFee":"0","statusName":"%E4%BD%BF%E7%94%A8","exclusive":"0","srvRate":"0","isIdle":"1"}]}
+
+{"statusCode":1,"message":"OK","data":[{"id":5045,"shopsId":62,"shopsName":"市场部公用测试账户","clientTableId":"999","clientTableName":"8号新增测试","posName":"好觅会场","seatnumber":8,"roomFee":0,"statusName":"使用","exclusive":0,"srvRate":0,"createTime":null,"isDelete":0,"isIdle":1}],"succeed":true}
+
+2016-04-20 11:50:59:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461153058914","mac":"c7c2aa1cd0fa1c04c6dd4d4af5fe8e91","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 11:50:59:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461153058914","mac":"c7c2aa1cd0fa1c04c6dd4d4af5fe8e91","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461153059066&mac=1f15db8c9e29713194136d7215c8b8d7
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 11:50:59:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461153059270","mac":"25ff2ee4c520ed94e6faf7c991c1dad3","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 11:50:59:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461153059270","mac":"25ff2ee4c520ed94e6faf7c991c1dad3","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461153059364&mac=fe3c40e2ac3eeb5236f3c729d17d9415
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:01:00:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461153659969","mac":"d149af8df895d25ef5b407c7089a817c","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:01:00:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461153659969","mac":"d149af8df895d25ef5b407c7089a817c","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461153660144&mac=03cd1fd146412b883c3d4daa3ad8e1f2
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:01:00:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461153660267","mac":"fe1715e30748283fe30e818eb780d0a4","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:01:00:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461153660267","mac":"fe1715e30748283fe30e818eb780d0a4","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461153660366&mac=76d335648fb22c706038a0783ec75ef0
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:03:15:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461153794913","mac":"db3d4f8188f531218bd5b68487510381"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 12:11:01:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461154261732","mac":"3dc4a4eeb805aadadb44e8044fde7515","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:11:02:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461154261732","mac":"3dc4a4eeb805aadadb44e8044fde7515","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461154261909&mac=4b5c2add05a0b0444894df3b090f23f9
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:11:02:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461154262026","mac":"873aa3834e7ab6f7ae4f47a83e80dd48","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:11:02:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461154262026","mac":"873aa3834e7ab6f7ae4f47a83e80dd48","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461154262125&mac=9d826298490520f358b3fc1856cd499b
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:21:02:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461154862720","mac":"3375cafdbf9506271d825a20d02b709f","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:21:03:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461154862720","mac":"3375cafdbf9506271d825a20d02b709f","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461154862875&mac=5e66bcdcc76a66a44d2aa12bea34641a
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:21:03:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461154863186","mac":"4b2812f29c0f6d6fa0253b880a924a9f","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:21:03:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461154863186","mac":"4b2812f29c0f6d6fa0253b880a924a9f","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461154863314&mac=b599c8da5da871d672646fd83b9dabe2
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:31:04:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461155463995","mac":"8f39e497785aa834f3acd9a01968826a","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:31:04:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461155463995","mac":"8f39e497785aa834f3acd9a01968826a","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461155464153&mac=36bf12badc6d1f5cbb98accc962233f2
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:31:04:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461155464409","mac":"a57826d014007140d44c6ec8eec7831e","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:31:04:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461155464409","mac":"a57826d014007140d44c6ec8eec7831e","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461155464545&mac=340a0cf4014f02d6e06bb3c4741dc8ca
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:33:16:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461155596766","mac":"9d1357f3eb6414fdefa0c00910afecd3"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 12:41:04:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461156064731","mac":"9d7aa878e905e663f9e6d8788dc3532e","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:41:05:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461156064731","mac":"9d7aa878e905e663f9e6d8788dc3532e","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461156064908&mac=2c48ce61d9aa5a9fd1c187926ca6c010
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:41:05:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461156065047","mac":"85d447700cf66e846c15c7214416c6b6","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:41:05:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461156065047","mac":"85d447700cf66e846c15c7214416c6b6","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461156065179&mac=e5904b1b40969f65ec14e25c5a844133
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:51:05:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461156665736","mac":"25f3bdefafd0f4eb8eb08f6cc72ac973","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:51:06:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461156665736","mac":"25f3bdefafd0f4eb8eb08f6cc72ac973","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461156665901&mac=76032e06d6ae3fe3577dc416810462d8
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 12:51:06:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461156666038","mac":"77e06e4a4e51bccd77344291a11a71b8","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 12:51:06:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461156666038","mac":"77e06e4a4e51bccd77344291a11a71b8","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461156666159&mac=9f20f510139062c8d8c6c85af55a7b8c
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:01:06:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461157266721","mac":"125585b78b506e994050d243095d3b4b","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:01:07:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461157266721","mac":"125585b78b506e994050d243095d3b4b","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461157266879&mac=9f983bc9e4594d7316d244049ce676cb
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:01:07:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461157267148","mac":"56dbe0201a76f81b4ebb0069476780ce","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:01:07:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461157267148","mac":"56dbe0201a76f81b4ebb0069476780ce","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461157267238&mac=00cacb2c8d81703d38720ec5f4153ced
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:03:17:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461157397694","mac":"b63db4978dd1ffa43ca9a315f2cca804"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 13:11:07:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461157867726","mac":"4a86a32f918c3e10dc7c0746ac29c06f","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:11:08:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461157867726","mac":"4a86a32f918c3e10dc7c0746ac29c06f","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461157867903&mac=2712c572addd17a6462a69962f23869c
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:11:08:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461157868178","mac":"509258cfd7465efed13c4fd160b6de6c","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:11:08:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461157868178","mac":"509258cfd7465efed13c4fd160b6de6c","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461157868271&mac=6d67be16bf2d4dac241c4ce25ec7a7a3
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:21:08:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461158468736","mac":"e6e6f4b11c5a8ed5d4395d7d92437902","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:21:09:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461158468736","mac":"e6e6f4b11c5a8ed5d4395d7d92437902","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461158468902&mac=5d7cd84fdad37abe585bb881abfdeb3c
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:21:09:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461158469037","mac":"41afe76158f1e530e4d66f1174110a31","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:21:09:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461158469037","mac":"41afe76158f1e530e4d66f1174110a31","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461158469135&mac=e0f5f18ebd0e41d00ecfa70c7d69de26
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:31:09:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461159069718","mac":"50b1e09a3a825cf893373883b8636446","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:31:09:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461159069718","mac":"50b1e09a3a825cf893373883b8636446","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461159069892&mac=658f64031a1f38c7ae00cf4452302c38
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:31:10:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461159070025","mac":"9b07aba399ea8fa2c1900d0065f2669a","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:31:10:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461159070025","mac":"9b07aba399ea8fa2c1900d0065f2669a","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461159070133&mac=92e49132a17bacf18f2998c2df381b47
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:33:18:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461159198726","mac":"11a6c40ae4b2f583f4540d7601ac04c5"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 13:41:10:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461159670729","mac":"c0f2c5233fd5b715773573ab6ad02a47","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:41:11:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461159670729","mac":"c0f2c5233fd5b715773573ab6ad02a47","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461159670900&mac=db514986f80114e9e3f1289006526f5f
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:41:11:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461159671191","mac":"53699e775d5a4bfd9d9c3a8eaa407ca9","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:41:11:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461159671191","mac":"53699e775d5a4bfd9d9c3a8eaa407ca9","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461159671301&mac=0add82953862a86289060d11033ba320
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:51:11:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461160271717","mac":"b958de97d20aa32c1d07b467513caaaf","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:51:12:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461160271717","mac":"b958de97d20aa32c1d07b467513caaaf","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461160271882&mac=713af70a7a023c703f84eb6f704b656e
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 13:51:12:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461160272104","mac":"dcaa9baeb8af9eda5e4d9ff025ab97bf","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 13:51:12:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461160272104","mac":"dcaa9baeb8af9eda5e4d9ff025ab97bf","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461160272238&mac=cdb20610a93a8e1982ff6fee8219dfab
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:01:12:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461160872721","mac":"68c9469e72f2e25d9b3cc31cc06b3dfd","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:01:12:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461160872721","mac":"68c9469e72f2e25d9b3cc31cc06b3dfd","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461160872877&mac=3726f0f4d74adf012bae31fba64d695d
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:01:13:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461160873012","mac":"948ef8eee1ef865193bcb8fac05794ee","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:01:13:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461160873012","mac":"948ef8eee1ef865193bcb8fac05794ee","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461160873125&mac=e0c4200358f69c3da8c6f60f2275079d
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:03:19:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461160999693","mac":"ed4c6199ea7abc8316adc0b7012930ff"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 14:11:13:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461161473736","mac":"5ef33a46ef5cd85172c68809d77af7bf","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:11:14:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461161473736","mac":"5ef33a46ef5cd85172c68809d77af7bf","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461161473919&mac=88e7c08c560213d0a7dc583ed995feda
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:11:14:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461161474062","mac":"57a742f41bbd960976c7334f73d23fe0","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:11:14:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461161474062","mac":"57a742f41bbd960976c7334f73d23fe0","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461161474188&mac=d43427c29bf1b3da7fd319f69e2b0fdf
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:21:15:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461162074912","mac":"2386a69a5f8e3de5510c4bf66c4b0e31","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:21:15:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461162074912","mac":"2386a69a5f8e3de5510c4bf66c4b0e31","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461162075086&mac=a7699ad6c82763ebc10206af88c184af
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:21:15:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461162075338","mac":"3cf5dd84f2d02da4226526d3eda73b09","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:21:15:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461162075338","mac":"3cf5dd84f2d02da4226526d3eda73b09","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461162075451&mac=f69a56160d27e23215466bcef3bb42eb
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:31:16:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461162675864","mac":"78b5f0e101d88ac7f6941763c385515d","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:31:16:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461162675864","mac":"78b5f0e101d88ac7f6941763c385515d","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461162676027&mac=b81369f99e94a7f07542cd15da70b2c6
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:31:16:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461162676265","mac":"d1a1c5a12ed9d4fad498ef7cb3f761c7","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:31:16:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461162676265","mac":"d1a1c5a12ed9d4fad498ef7cb3f761c7","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461162676437&mac=38132ba3f1ea7340650e26c09dd83d6f
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:33:21:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461162800865","mac":"691f3f15c33aeb61900607c98035389a"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 14:41:17:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461163276890","mac":"cd67a55e1c7014254b13bc2fdb0c6769","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:41:17:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461163276890","mac":"cd67a55e1c7014254b13bc2fdb0c6769","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461163277044&mac=962168d4f12416eddb7daea03327f461
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:41:17:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461163277186","mac":"1bacd37b3deb3651ec6545aafcba9476","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:41:17:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461163277186","mac":"1bacd37b3deb3651ec6545aafcba9476","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461163277307&mac=32793415769d628ab74d3fdd03b99a49
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:51:18:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461163877922","mac":"d1b3c1ec7dc6d71ee031749054ce0db7","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:51:18:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461163877922","mac":"d1b3c1ec7dc6d71ee031749054ce0db7","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461163878060&mac=c49892f71c27aa98e42f47e62574bef0
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 14:51:18:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461163878184","mac":"ef7e0d490262bdc219f7b29483da3dcc","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 14:51:18:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461163878184","mac":"ef7e0d490262bdc219f7b29483da3dcc","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461163878306&mac=c430f92fea535187fd48ba4596f082b2
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:01:24:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461164483892","mac":"a74731d541f81d7ddcb33002d8e548f4","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:01:24:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461164483892","mac":"a74731d541f81d7ddcb33002d8e548f4","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461164484063&mac=fb2b10eae05e1f907b88989c68d60ef0
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:01:24:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461164484335","mac":"72c73b533d8ca87a06bcb5db1c04de3c","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:01:24:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461164484335","mac":"72c73b533d8ca87a06bcb5db1c04de3c","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461164484470&mac=960f2fc3322cea299f899cf1ef3ba8ee
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:03:27:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461164606855","mac":"1a1cdd8c03393cdbce457330f04ee134"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 15:11:25:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461165084887","mac":"b2aaa8ffa10ac3468929275a0ca330aa","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:11:25:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461165084887","mac":"b2aaa8ffa10ac3468929275a0ca330aa","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461165085071&mac=e58f2e2cc86aaffa3bc9b387a029d919
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:11:25:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461165085296","mac":"9b2d303ccd0026b6f92a61735bd761b7","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:11:25:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461165085296","mac":"9b2d303ccd0026b6f92a61735bd761b7","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461165085416&mac=5f195d66dfa558c5d3e6500a0cf2058a
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:21:26:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461165685899","mac":"c655e586c1f72ada2af9b6f677a46d65","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:21:26:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461165685899","mac":"c655e586c1f72ada2af9b6f677a46d65","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461165686055&mac=a46abfab33a10d767b71616c3e9543fd
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:21:26:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461165686181","mac":"06ce90a2a009739ac0cffe26c437f21c","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:21:26:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461165686181","mac":"06ce90a2a009739ac0cffe26c437f21c","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461165686290&mac=c94dba73e25ab32f1b0d1b9a739eac5c
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:31:27:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461166286904","mac":"7d9dea19c4153e650df294497760e43e","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:31:27:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461166286904","mac":"7d9dea19c4153e650df294497760e43e","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461166287082&mac=c0fc9d0bde83efa30d2d696fb9cfd43e
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:31:27:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461166287221","mac":"2366c7352013bc9c87c0e0f206f3542c","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:31:27:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461166287221","mac":"2366c7352013bc9c87c0e0f206f3542c","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461166287351&mac=ef65c5298e1e471f3c67b1ba754c7207
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:33:28:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461166407853","mac":"f89aa52c9045b3f07eb740bd60e31eee"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 15:41:28:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461166888275","mac":"2a9bc96e64ddef84bfb1ca5fb090c89d","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:41:28:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461166888275","mac":"2a9bc96e64ddef84bfb1ca5fb090c89d","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461166888444&mac=01c20dc4d17a738268d47feea899fdc8
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:41:28:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461166888767","mac":"f98aef271192e8554f0f5408a0a965f0","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:41:29:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461166888767","mac":"f98aef271192e8554f0f5408a0a965f0","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461166888915&mac=914041d769a1cee94df1585a6e2f21d9
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:51:29:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461167489289","mac":"fcc2d6f75c2d23573290244c357830fe","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:51:29:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461167489289","mac":"fcc2d6f75c2d23573290244c357830fe","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461167489449&mac=ef84ca5d552fd81cca60ae592a9f0cfe
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 15:51:29:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461167489666","mac":"a434c2d169c891389d93283a1b5710ff","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 15:51:29:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461167489666","mac":"a434c2d169c891389d93283a1b5710ff","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461167489791&mac=6f79bb2b238bc164b89f27e7630337b9
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:01:30:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461168090284","mac":"c9e39c83834a7e43dd20ca390eaaa8ac","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:01:30:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461168090284","mac":"c9e39c83834a7e43dd20ca390eaaa8ac","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461168090432&mac=277f83d4335424580e4bdae61c84ed20
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:01:30:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461168090551","mac":"e13efc372ef6e9dce57d59963f7101f6","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:01:30:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461168090551","mac":"e13efc372ef6e9dce57d59963f7101f6","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461168090644&mac=9f26c8fef78d16b41de123bfeed85ba2
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:03:29:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461168209249","mac":"48b8363e4f05f6e5403390dd57e9b025"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 16:11:31:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461168691283","mac":"64f4cbcfe7ae73b29fc8f060c7d446f4","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:11:31:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461168691283","mac":"64f4cbcfe7ae73b29fc8f060c7d446f4","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461168691442&mac=0c3c44d009998283e8eb612295ec8143
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:11:31:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461168691563","mac":"acf754d7358a4128e58284511c225f9f","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:11:31:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461168691563","mac":"acf754d7358a4128e58284511c225f9f","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461168691678&mac=f3478cc892ee66e4a97ee455b7bfa6d0
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:21:32:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461169292251","mac":"23ef1da16890f413cb390e9c9e0eec6b","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:21:32:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461169292251","mac":"23ef1da16890f413cb390e9c9e0eec6b","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461169292413&mac=ed721644f4da1c94fdc2b64b996c38bc
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:21:32:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461169292731","mac":"a6e46e3932144c2430c74bbd1ba9ce16","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:21:32:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461169292731","mac":"a6e46e3932144c2430c74bbd1ba9ce16","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461169292846&mac=2e6bf52f02b5fd95d945548874c41718
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:31:33:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461169893265","mac":"09cdccd8bff75ad0fcd2b32ab5f07df9","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:31:33:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461169893265","mac":"09cdccd8bff75ad0fcd2b32ab5f07df9","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461169893451&mac=1f1609742aa426dd49bcee824c092ff7
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:31:33:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461169893660","mac":"68526b970124f767cf3fed70f2a54dcc","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:31:33:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461169893660","mac":"68526b970124f767cf3fed70f2a54dcc","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461169893767&mac=42b76dd6d116df35e4e9f871de877a8d
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:33:30:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461170010250","mac":"be317742d25cf092a01efcacdf0fc4c7"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 16:41:34:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461170494298","mac":"e45cf421314677ff52177135dc61f2c2","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:41:34:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461170494298","mac":"e45cf421314677ff52177135dc61f2c2","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461170494473&mac=75781c38ae59e25978704c7cffc9de79
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:41:34:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461170494600","mac":"d9bf95528a32eb4b6d7953262fb3dbf1","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:41:34:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461170494600","mac":"d9bf95528a32eb4b6d7953262fb3dbf1","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461170494712&mac=8acf4534b63fda9d7fcfb73a1c163953
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:51:35:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461171095281","mac":"e708bc114a047312b169245ba85ea3db","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:51:35:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461171095281","mac":"e708bc114a047312b169245ba85ea3db","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461171095421&mac=047bdb663ab0d0ff99e914a4c144c5d1
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 16:51:35:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461171095539","mac":"35ab75d850d25a74f2c14a0ebf2588c7","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 16:51:35:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461171095539","mac":"35ab75d850d25a74f2c14a0ebf2588c7","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461171095633&mac=84b4196a8ff1d4fb86979738a3fd6a18
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:01:36:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461171696288","mac":"03d3c57f887ea5b0a4078b869604ad92","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:01:36:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461171696288","mac":"03d3c57f887ea5b0a4078b869604ad92","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461171696469&mac=fafe0f1dcb61faac8ad0c59fc42157bb
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:01:36:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461171696771","mac":"d335ac5a40a5229ad70a6461b43f8e98","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:01:37:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461171696771","mac":"d335ac5a40a5229ad70a6461b43f8e98","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461171696882&mac=13fc26c7971e05e158b5be8cbfaeedfb
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:03:31:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461171811246","mac":"ee95344c989e6fc84308a4892440c112"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 17:11:37:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461172297288","mac":"09fe62f4bdfa53cf47f4fc711c5b9a9d","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:11:37:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461172297288","mac":"09fe62f4bdfa53cf47f4fc711c5b9a9d","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461172297476&mac=a34827fd250b63063722f1f24c40fbeb
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:11:37:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461172297720","mac":"0e6c5675a8e30ce81131b57bada6d86e","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:11:37:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461172297720","mac":"0e6c5675a8e30ce81131b57bada6d86e","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461172297817&mac=ec54662dacc92087ea669544c8119865
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:21:38:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461172898260","mac":"b80d50cfb11fd228b6821a49e80e1f11","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:21:38:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461172898260","mac":"b80d50cfb11fd228b6821a49e80e1f11","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461172898409&mac=045bbc954ba46ba15312404f04346fd5
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:21:38:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461172898528","mac":"368a1680027a014d8e2399f5f580d988","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:21:38:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461172898528","mac":"368a1680027a014d8e2399f5f580d988","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461172898623&mac=6df82ce45b032a851b196e21449fd098
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:31:39:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461173499290","mac":"b949ea6e5377417107b74fc2251ee31e","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:31:39:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461173499290","mac":"b949ea6e5377417107b74fc2251ee31e","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461173499477&mac=cd11182b840238d1d66712d653d293da
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:31:39:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461173499618","mac":"65e60f428c4c43ac2ea6ac471014989a","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:31:39:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461173499618","mac":"65e60f428c4c43ac2ea6ac471014989a","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461173499758&mac=2bae8264a8e82835a333ca73af4db4db
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:33:32:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","isAll":"0","account":"sccs","timestamp":"1461173612250","mac":"abd41b56d7270404058e19a9750a1754"}
+
+{"data":[],"message":"OK","statusCode":1,"succeed":true}
+
+2016-04-20 17:41:40:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461174100248","mac":"f41d7b17474c95253ffa1eddd1f411bc","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:41:40:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461174100248","mac":"f41d7b17474c95253ffa1eddd1f411bc","serialNo":"ZD00000564","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%33%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%33%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:05:38","endTime":"2015-07-21 15:36:08","containOrderNos":"CRM20150721153609428","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"-1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"},{"dishId":"30058","dishName":"%E6%B5%8B%E8%AF%95%E5%95%86%E5%93%81","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461174100389&mac=cc085a75e29dcda838e83e2ab32c0dcf
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-04-20 17:41:40:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461174100646","mac":"8116a5e91b0a698cbda8bd22f589d6fd","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}
+
+2016-04-20 17:41:40:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.4.3&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.4.3","shopId":"62","account":"sccs","timestamp":"1461174100646","mac":"8116a5e91b0a698cbda8bd22f589d6fd","serialNo":"ZD00000565","userId":"","giveIntegral":"0","tableId":"","tableName":"%36%30%32%E5%8F%B7%E6%A1%8C","shopAreaName":"%E5%A5%BD%E8%A7%85%E4%BC%9A%E5%9C%BA%2D%36%30%32%E5%8F%B7%E6%A1%8C","consumeTime":"2015-07-20 18:06:42","endTime":"2015-07-20 18:07:55","containOrderNos":"CRM20150720180755861","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"-50.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"-1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"},{"dishId":"173","dishName":"%E6%83%85%E4%BE%A3%E5%A5%97%E9%A4%90","quantity":"1.000","price":"100.00","orderType":"2","unit":"%E7%93%B6","orderDetailId":"0"}]}
+
+{"statusCode":3,"message":"餐台Id为空","data":null,"succeed":false}&shopId=62&timestamp=1461174100737&mac=136514eefab22cff1941842b153c239a
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+

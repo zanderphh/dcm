@@ -1,0 +1,211 @@
+2016-05-21 21:51:01:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463867461289","mac":"fd1f8fc39d27d9960ceac7126adf900d"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|2286|CY20160521386912371003796452|13658354485|偷心猫|2286-1463838720512}[CRM]","succeed":true}
+
+2016-05-21 21:51:01:
+{1|2286|CY20160521386912371003796452|13658354485|偷心猫|2286-1463838720512}
+
+2016-05-21 21:51:01:
+http://api.hme.cn/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","orderNo":"CY20160521386912371003796452","account":"hmyct","timestamp":"1463867461466","mac":"3bcdd066f23bbe26dc88af0bae0d84c1"}
+
+{"data":{"detail":[{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 21:51:31","crmId":"","detailId":196330,"dishDesc":"","dishId":16068,"dishName":"1分商品","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21921,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 21:51:31","crmId":"","detailId":196331,"dishDesc":"","dishId":26342,"dishName":"油碟","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21921,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"位","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 21:51:31","crmId":"","detailId":196332,"dishDesc":"","dishId":28863,"dishName":"锅底（红汤）","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21921,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"锅","userId":35296,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心","apiClientNo":"1003","appraiseState":0,"bookedNumber":3,"bookedNumberSecond":0,"bookedTime":"2016-05-21 10:00:00","cashAmmout":0.00,"cashPayType":0,"consumeState":0,"contact":"偷心猫","contactPhone":"13658354485","createTime":"2016-05-21 21:51:31","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.30,"ip":"183.228.25.90","isLottery":0,"isNeedRoom":0,"location":"106.57655,29.643643","orderId":21921,"orderNo":"CY20160521386912371003796452","orderState":6,"orderType":1,"payBackTime":"2016-05-21 21:51:59","payFlowNo":"PY20160521227513461003214347","payTimes":1,"payType":1,"paymentTypeDesc":"积分支付:0.30;","peopleNumber":1,"phone":"13658354485","prepayAmount":0.03,"prepayAmountSecond":0.00,"refundApplyState":0,"shopId":2286,"shopLogoUrl":"http://img.hme.cn/res/shop/a/2015/2/97636b76de5a4e07b79155daf43f8ce7_3.jpg","shopName":"好觅e餐厅","shopPhone":"02367039599","showState":0,"userId":35296},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-21 21:51:31:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463867491291","mac":"936941318c5e25fa0c823d627dfc8e2a"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{7|2286|CY20160521386912371003796452|13658354485|2286-1463838750514}[CRM]","succeed":true}
+
+2016-05-21 21:51:31:
+{7|2286|CY20160521386912371003796452|13658354485|2286-1463838750514}
+
+2016-05-21 21:58:05:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463867885289","mac":"bf60352df2c7d4e753edfee0ed7a0081"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|2286|CY20160521391254781003903789|13658354485|偷心猫|2286-1463839144518}[CRM]","succeed":true}
+
+2016-05-21 21:58:05:
+{1|2286|CY20160521391254781003903789|13658354485|偷心猫|2286-1463839144518}
+
+2016-05-21 21:58:05:
+http://api.hme.cn/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","orderNo":"CY20160521391254781003903789","account":"hmyct","timestamp":"1463867885434","mac":"0fb763d63f6b250c720a393c16660a22"}
+
+{"data":{"detail":[{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 21:58:45","crmId":"","detailId":196350,"dishDesc":"","dishId":16068,"dishName":"1分商品","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21925,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 21:58:45","crmId":"","detailId":196351,"dishDesc":"","dishId":26342,"dishName":"油碟","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21925,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"位","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 21:58:45","crmId":"","detailId":196352,"dishDesc":"","dishId":28863,"dishName":"锅底（红汤）","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21925,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"锅","userId":35296,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心","apiClientNo":"1003","appraiseState":0,"bookedNumber":3,"bookedNumberSecond":0,"bookedTime":"2016-05-21 10:30:00","cashAmmout":0.00,"cashPayType":0,"consumeState":0,"contact":"偷心猫","contactPhone":"13658354485","createTime":"2016-05-21 21:58:45","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.30,"ip":"183.228.25.90","isLottery":0,"isNeedRoom":0,"location":"106.57655,29.643643","orderId":21925,"orderNo":"CY20160521391254781003903789","orderState":6,"orderType":1,"payBackTime":"2016-05-21 21:59:04","payFlowNo":"PY20160521218744821003686688","payTimes":1,"payType":1,"paymentTypeDesc":"积分支付:0.30;","peopleNumber":1,"phone":"13658354485","prepayAmount":0.03,"prepayAmountSecond":0.00,"refundApplyState":0,"shopId":2286,"shopLogoUrl":"http://img.hme.cn/res/shop/a/2015/2/97636b76de5a4e07b79155daf43f8ce7_3.jpg","shopName":"好觅e餐厅","shopPhone":"02367039599","showState":0,"userId":35296},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-21 21:58:40:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463867920289","mac":"7dcb70898a8f713cb2c30d13becac7bc"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{7|2286|CY20160521391254781003903789|13658354485|2286-1463839179520}[CRM]","succeed":true}
+
+2016-05-21 21:58:40:
+{7|2286|CY20160521391254781003903789|13658354485|2286-1463839179520}
+
+2016-05-21 21:59:50:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463867990289","mac":"c909c85e34c9062d644c5971812c400e"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|2286|CY20160521392394341003871090|13658354485|偷心猫|2286-1463839249517}[CRM]","succeed":true}
+
+2016-05-21 21:59:50:
+{1|2286|CY20160521392394341003871090|13658354485|偷心猫|2286-1463839249517}
+
+2016-05-21 21:59:50:
+http://api.hme.cn/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","orderNo":"CY20160521392394341003871090","account":"hmyct","timestamp":"1463867990460","mac":"6517b690763d704fd5debac74dcae6ec"}
+
+{"data":{"detail":[{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:00:39","crmId":"","detailId":196367,"dishDesc":"","dishId":16068,"dishName":"1分商品","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21927,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:00:39","crmId":"","detailId":196368,"dishDesc":"","dishId":26342,"dishName":"油碟","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21927,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"位","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:00:39","crmId":"","detailId":196369,"dishDesc":"","dishId":29138,"dishName":"锅底（鸳鸯）","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21927,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"锅","userId":35296,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心","apiClientNo":"1003","appraiseState":0,"bookedNumber":3,"bookedNumberSecond":0,"bookedTime":"2016-05-21 10:30:00","cashAmmout":0.00,"cashPayType":0,"consumeState":0,"contact":"偷心猫","contactPhone":"13658354485","createTime":"2016-05-21 22:00:39","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.30,"ip":"183.228.25.90","isLottery":0,"isNeedRoom":0,"location":"106.57655,29.643643","orderId":21927,"orderNo":"CY20160521392394341003871090","orderState":6,"orderType":1,"payBackTime":"2016-05-21 22:00:48","payFlowNo":"PY20160521957975501003129466","payTimes":1,"payType":1,"paymentTypeDesc":"积分支付:0.30;","peopleNumber":1,"phone":"13658354485","prepayAmount":0.03,"prepayAmountSecond":0.00,"refundApplyState":0,"shopId":2286,"shopLogoUrl":"http://img.hme.cn/res/shop/a/2015/2/97636b76de5a4e07b79155daf43f8ce7_3.jpg","shopName":"好觅e餐厅","shopPhone":"02367039599","showState":0,"userId":35296},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-21 22:00:18:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463868018288","mac":"a3c0c49ec4178290fb47dee9404d68ff"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{7|2286|CY20160521392394341003871090|13658354485|2286-1463839277516}[CRM]","succeed":true}
+
+2016-05-21 22:00:18:
+{7|2286|CY20160521392394341003871090|13658354485|2286-1463839277516}
+
+2016-05-21 22:01:54:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463868114290","mac":"6fbac82ab7cbe110afdc1c7dee16f017"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|2286|CY20160521393648781003865976|13658354485|偷心猫|2286-1463839373518}[CRM]","succeed":true}
+
+2016-05-21 22:01:54:
+{1|2286|CY20160521393648781003865976|13658354485|偷心猫|2286-1463839373518}
+
+2016-05-21 22:01:54:
+http://api.hme.cn/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","orderNo":"CY20160521393648781003865976","account":"hmyct","timestamp":"1463868114449","mac":"d57dc05bb29b2f021b9c79972664e3d7"}
+
+{"data":{"detail":[{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:02:44","crmId":"","detailId":196391,"dishDesc":"","dishId":16068,"dishName":"1分商品","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21930,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:02:44","crmId":"","detailId":196392,"dishDesc":"","dishId":26342,"dishName":"油碟","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21930,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"位","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:02:44","crmId":"","detailId":196393,"dishDesc":"","dishId":29138,"dishName":"锅底（鸳鸯）","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21930,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"锅","userId":35296,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心","apiClientNo":"1003","appraiseState":0,"bookedNumber":3,"bookedNumberSecond":0,"bookedTime":"2016-05-21 11:30:00","cashAmmout":0.00,"cashPayType":0,"consumeState":0,"contact":"偷心猫","contactPhone":"13658354485","createTime":"2016-05-21 22:02:44","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.30,"ip":"183.228.25.90","isLottery":0,"isNeedRoom":0,"location":"106.57655,29.643643","orderId":21930,"orderNo":"CY20160521393648781003865976","orderState":6,"orderType":1,"payBackTime":"2016-05-21 22:02:53","payFlowNo":"PY20160521057794561003446259","payTimes":1,"payType":1,"paymentTypeDesc":"积分支付:0.30;","peopleNumber":1,"phone":"13658354485","prepayAmount":0.03,"prepayAmountSecond":0.00,"refundApplyState":0,"shopId":2286,"shopLogoUrl":"http://img.hme.cn/res/shop/a/2015/2/97636b76de5a4e07b79155daf43f8ce7_3.jpg","shopName":"好觅e餐厅","shopPhone":"02367039599","showState":0,"userId":35296},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-21 22:02:27:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463868147292","mac":"1e9de7846546cdc3211f7066dcdadb5a"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{7|2286|CY20160521393648781003865976|13658354485|2286-1463839406520}[CRM]","succeed":true}
+
+2016-05-21 22:02:27:
+{7|2286|CY20160521393648781003865976|13658354485|2286-1463839406520}
+
+2016-05-21 22:10:52:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463868652293","mac":"4f25d11f3214757db14b5449579fa60e"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|2286|CY20160521399005251003366205|13658354485|偷心猫|2286-1463839911524}[CRM]","succeed":true}
+
+2016-05-21 22:10:52:
+{1|2286|CY20160521399005251003366205|13658354485|偷心猫|2286-1463839911524}
+
+2016-05-21 22:10:52:
+http://api.hme.cn/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","orderNo":"CY20160521399005251003366205","account":"hmyct","timestamp":"1463868652436","mac":"fbb55763060362a5190420b1908f3c24"}
+
+{"data":{"detail":[{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:11:40","crmId":"","detailId":196430,"dishDesc":"","dishId":16068,"dishName":"1分商品","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21935,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:11:40","crmId":"","detailId":196431,"dishDesc":"","dishId":26342,"dishName":"油碟","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21935,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"位","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:11:40","crmId":"","detailId":196432,"dishDesc":"","dishId":28863,"dishName":"锅底（红汤）","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21935,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"锅","userId":35296,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心","apiClientNo":"1003","appraiseState":0,"bookedNumber":3,"bookedNumberSecond":0,"bookedTime":"2016-05-21 11:00:00","cashAmmout":0.00,"cashPayType":0,"consumeState":0,"contact":"偷心猫","contactPhone":"13658354485","createTime":"2016-05-21 22:11:40","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.30,"ip":"183.228.25.90","isLottery":0,"isNeedRoom":0,"location":"106.57655,29.643643","orderId":21935,"orderNo":"CY20160521399005251003366205","orderState":6,"orderType":1,"payBackTime":"2016-05-21 22:11:50","payFlowNo":"PY20160521677636871003408979","payTimes":1,"payType":1,"paymentTypeDesc":"积分支付:0.30;","peopleNumber":1,"phone":"13658354485","prepayAmount":0.03,"prepayAmountSecond":0.00,"refundApplyState":0,"shopId":2286,"shopLogoUrl":"http://img.hme.cn/res/shop/a/2015/2/97636b76de5a4e07b79155daf43f8ce7_3.jpg","shopName":"好觅e餐厅","shopPhone":"02367039599","showState":0,"userId":35296},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-21 22:14:06:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463868846461","mac":"df36e9255afb8defdfab32e30c087231"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|2286|CY20160521400254291003280230|13658354485|偷心猫|2286-1463840105692}[CRM]","succeed":true}
+
+2016-05-21 22:14:06:
+{1|2286|CY20160521400254291003280230|13658354485|偷心猫|2286-1463840105692}
+
+2016-05-21 22:14:06:
+http://api.hme.cn/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","orderNo":"CY20160521400254291003280230","account":"hmyct","timestamp":"1463868846620","mac":"3ff35dadaaa20bdc988fece6653e0345"}
+
+{"data":{"detail":[{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:13:45","crmId":"","detailId":196460,"dishDesc":"","dishId":16068,"dishName":"1分商品","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21937,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"份","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:13:45","crmId":"","detailId":196461,"dishDesc":"","dishId":26342,"dishName":"油碟","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21937,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"位","userId":35296,"ydQuantity":0},{"basePoints":0.01,"clientNo":"1003","createTime":"2016-05-21 22:13:45","crmId":"","detailId":196462,"dishDesc":"","dishId":28863,"dishName":"锅底（红汤）","dishState":0,"doWay":"","isDelete":0,"mutifyType":0,"orderId":21937,"price":0.01,"quantity":1.000,"rebatePoints":0.00,"unit":"锅","userId":35296,"ydQuantity":0}],"orderInfo":{"address":"渝北区 汽博中心","apiClientNo":"1003","appraiseState":0,"bookedNumber":3,"bookedNumberSecond":0,"bookedTime":"2016-05-21 11:30:00","cashAmmout":0.03,"cashPayType":2,"consumeState":0,"contact":"偷心猫","contactPhone":"13658354485","createTime":"2016-05-21 22:13:45","enablePaymentType":"1,2,3","endTime":0,"inteAmmount":0.00,"ip":"183.228.25.90","isLottery":0,"isNeedRoom":0,"location":"106.57655,29.643643","orderId":21937,"orderNo":"CY20160521400254291003280230","orderState":6,"orderType":1,"payBackTime":"2016-05-21 22:15:05","payFlowNo":"PY20160521143963501003554441","payTimes":1,"payType":2,"paymentTypeDesc":"现金支付:0.03;","peopleNumber":1,"phone":"13658354485","prepayAmount":0.03,"prepayAmountSecond":0.00,"refundApplyState":0,"shopId":2286,"shopLogoUrl":"http://img.hme.cn/res/shop/a/2015/2/97636b76de5a4e07b79155daf43f8ce7_3.jpg","shopName":"好觅e餐厅","shopPhone":"02367039599","showState":0,"userId":35296},"userRebateRatio":1},"message":"OK","statusCode":1,"succeed":true}
+
+2016-05-21 22:14:31:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463868871464","mac":"5f2097c728cee797937c99dc99b9e111"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{7|2286|CY20160521400254291003280230|13658354485|2286-1463840130699}[CRM]","succeed":true}
+
+2016-05-21 22:14:31:
+{7|2286|CY20160521400254291003280230|13658354485|2286-1463840130699}
+
+2016-05-22 11:00:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-05-22 11:00:42:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-05-22 11:00:47:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2016-05-22 15:02:52:
+请求服务器数据失败，错误代码:-6
+
+2016-05-22 17:17:23:
+Account 不能为空
+
+2016-05-22 17:17:24:
+Account 不能为空
+
+2016-05-22 17:17:25:
+Account 不能为空
+
+2016-05-22 17:17:26:
+Account 不能为空
+
+2016-05-22 17:17:27:
+Account 不能为空
+
+2016-05-22 17:17:28:
+Account 不能为空
+
+2016-05-22 17:17:29:
+Account 不能为空
+
+2016-05-22 17:17:30:
+Account 不能为空
+
+2016-05-22 17:17:31:
+Account 不能为空
+
+2016-05-22 17:17:32:
+Account 不能为空
+
+2016-05-22 17:17:33:
+Account 不能为空
+
+2016-05-22 17:17:34:
+Account 不能为空
+
+2016-05-22 17:17:35:
+Account 不能为空
+
+2016-05-22 17:17:36:
+Account 不能为空
+
+2016-05-22 17:17:37:
+Account 不能为空
+
+2016-05-22 23:03:09:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463958189498","mac":"cfef0707884c2adcb998c5e56bb99270"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-05-22 23:03:10:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.5.2&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.5.2","shopId":"2286","timestamp":"1463958189498","mac":"cfef0707884c2adcb998c5e56bb99270"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=2286&timestamp=1463958189676&mac=066aa51a5b46e0a3187f9ba5e2c23586
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+

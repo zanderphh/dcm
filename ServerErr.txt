@@ -1,0 +1,398 @@
+2015-05-06 14:02:02:
+Exectue the sql drop table infosc; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-05-06 14:02:02:
+Exectue the sql drop table infoclients; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-06 14:02:02:
+Exectue the sql CREATE TABLE infosc (id integer NOT NULL DEFAULT 1, dt1 integer, dt2 integer, dt3 integer, dt4 integer, dt5 integer, dt6 integer, dt7 integer,dt8 integer,primary key(id)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-06 14:02:02:
+Exectue the sql CREATE TABLE infoclients (code char(50)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-06 14:02:02:
+Exectue the sql CREATE TABLE ll_outprint (now_time timestamp NOT NULL DEFAULT now(*), computer_name char(30) DEFAULT NULL, curorder_id varchar(18) NOT NULL DEFAULT NULL, expensetype char(10) DEFAULT NULL, pos_name varchar(50) NOT NULL DEFAULT NULL, pos_print varchar(80) DEFAULT NULL, table_name char(20) NOT NULL DEFAULT NULL, table_id varchar(10) NOT NULL DEFAULT NULL, operator_name char(20) NOT NULL DEFAULT NULL, now_using char(1) NOT NULL DEFAULT 0, person_number char(10) DEFAULT NULL, printflag char(1) DEFAULT '0', lb_id char(2) DEFAULT NULL) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-06 14:02:02:
+Exectue the sql Alter table ll_outprint add extra_info varchar(30) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-06 14:02:02:
+Exectue the sql Insert Into infosc(id,dt1,dt2,dt3,dt4,dt5,dt6,dt7,dt8)values(1,1,1,0,1,1,0,0,1); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-06 15:12:38:
+Exectue the sql  UPDATE license Set company = '重庆浩品峰电子商务有限公司',softname = '好觅点餐餐饮软件', tel = '023-67039599' ,fax = '', email = 'server@hme.cn', http = 'server@hme.cn', addr = '重庆北部新区金童路9号叠彩城写字楼H2幢21F'; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-05-06 15:12:38:
+error on: set option blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-06 15:12:38:
+error on: set option public.blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-06 15:12:38:
+error on: set option blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-06 15:12:38:
+error on: set option public.blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 14:41:31:
+Exectue the sql drop table infosc; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-05-07 14:41:31:
+Exectue the sql drop table infoclients; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 14:41:31:
+Exectue the sql CREATE TABLE infosc (id integer NOT NULL DEFAULT 1, dt1 integer, dt2 integer, dt3 integer, dt4 integer, dt5 integer, dt6 integer, dt7 integer,dt8 integer,primary key(id)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 14:41:31:
+Exectue the sql CREATE TABLE infoclients (code char(50)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 14:41:31:
+Exectue the sql CREATE TABLE ll_outprint (now_time timestamp NOT NULL DEFAULT now(*), computer_name char(30) DEFAULT NULL, curorder_id varchar(18) NOT NULL DEFAULT NULL, expensetype char(10) DEFAULT NULL, pos_name varchar(50) NOT NULL DEFAULT NULL, pos_print varchar(80) DEFAULT NULL, table_name char(20) NOT NULL DEFAULT NULL, table_id varchar(10) NOT NULL DEFAULT NULL, operator_name char(20) NOT NULL DEFAULT NULL, now_using char(1) NOT NULL DEFAULT 0, person_number char(10) DEFAULT NULL, printflag char(1) DEFAULT '0', lb_id char(2) DEFAULT NULL) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 14:41:31:
+Exectue the sql Alter table ll_outprint add extra_info varchar(30) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 14:41:31:
+Exectue the sql Insert Into infosc(id,dt1,dt2,dt3,dt4,dt5,dt6,dt7,dt8)values(1,1,1,0,1,1,0,0,1); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 16:00:55:
+Exectue the sql drop table infosc; faild!SQLSTATE = S0002
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Table 'infosc' not found
+
+2015-05-07 17:16:13:
+Exectue the sql drop table infosc; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-05-07 17:16:13:
+Exectue the sql drop table infoclients; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 17:16:13:
+Exectue the sql CREATE TABLE infosc (id integer NOT NULL DEFAULT 1, dt1 integer, dt2 integer, dt3 integer, dt4 integer, dt5 integer, dt6 integer, dt7 integer,dt8 integer,primary key(id)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 17:16:13:
+Exectue the sql CREATE TABLE infoclients (code char(50)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 17:16:13:
+Exectue the sql CREATE TABLE ll_outprint (now_time timestamp NOT NULL DEFAULT now(*), computer_name char(30) DEFAULT NULL, curorder_id varchar(18) NOT NULL DEFAULT NULL, expensetype char(10) DEFAULT NULL, pos_name varchar(50) NOT NULL DEFAULT NULL, pos_print varchar(80) DEFAULT NULL, table_name char(20) NOT NULL DEFAULT NULL, table_id varchar(10) NOT NULL DEFAULT NULL, operator_name char(20) NOT NULL DEFAULT NULL, now_using char(1) NOT NULL DEFAULT 0, person_number char(10) DEFAULT NULL, printflag char(1) DEFAULT '0', lb_id char(2) DEFAULT NULL) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 17:16:13:
+Exectue the sql Alter table ll_outprint add extra_info varchar(30) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-07 17:16:13:
+Exectue the sql Insert Into infosc(id,dt1,dt2,dt3,dt4,dt5,dt6,dt7,dt8)values(1,1,1,0,1,1,0,0,1); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql drop table infosc; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-05-12 15:39:16:
+Exectue the sql drop table infoclients; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql CREATE TABLE infosc (id integer NOT NULL DEFAULT 1, dt1 integer, dt2 integer, dt3 integer, dt4 integer, dt5 integer, dt6 integer, dt7 integer,dt8 integer,primary key(id)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql CREATE TABLE infoclients (code char(50)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql CREATE TABLE ll_outprint (now_time timestamp NOT NULL DEFAULT now(*), computer_name char(30) DEFAULT NULL, curorder_id varchar(18) NOT NULL DEFAULT NULL, expensetype char(10) DEFAULT NULL, pos_name varchar(50) NOT NULL DEFAULT NULL, pos_print varchar(80) DEFAULT NULL, table_name char(20) NOT NULL DEFAULT NULL, table_id varchar(10) NOT NULL DEFAULT NULL, operator_name char(20) NOT NULL DEFAULT NULL, now_using char(1) NOT NULL DEFAULT 0, person_number char(10) DEFAULT NULL, printflag char(1) DEFAULT '0', lb_id char(2) DEFAULT NULL) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql Alter table ll_outprint add extra_info varchar(30) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql Insert Into infosc(id,dt1,dt2,dt3,dt4,dt5,dt6,dt7,dt8)values(1,1,1,0,1,1,0,0,1); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_ClientNo','1207'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_APIAddr','http://api.hme.cn/hpf-open-api/'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_APIPort','80'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-12 15:39:16:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_Key','db2191f6c0fb520a6b08810591cea7f4'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-13 10:30:26:
+SQLSTATE = S0002
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Table 'infosc' not found
+
+2015-05-14 09:34:05:
+Exectue the sql  UPDATE license Set company = '重庆浩品峰电子商务有限公司',softname = '好觅点餐餐饮软件', tel = '023-67039599' ,fax = '', email = 'server@hme.cn', http = 'server@hme.cn', addr = '重庆北部新区金童路9号叠彩城写字楼H2幢21F'; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-05-14 09:34:05:
+error on: set option blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-14 09:34:05:
+error on: set option public.blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-14 09:34:05:
+error on: set option blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-14 09:34:05:
+error on: set option public.blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-20 10:41:04:
+SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-20 10:41:04:
+SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql drop table infosc; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-05-25 10:10:49:
+Exectue the sql drop table infoclients; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql CREATE TABLE infosc (id integer NOT NULL DEFAULT 1, dt1 integer, dt2 integer, dt3 integer, dt4 integer, dt5 integer, dt6 integer, dt7 integer,dt8 integer,primary key(id)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql CREATE TABLE infoclients (code char(50)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql CREATE TABLE ll_outprint (now_time timestamp NOT NULL DEFAULT now(*), computer_name char(30) DEFAULT NULL, curorder_id varchar(18) NOT NULL DEFAULT NULL, expensetype char(10) DEFAULT NULL, pos_name varchar(50) NOT NULL DEFAULT NULL, pos_print varchar(80) DEFAULT NULL, table_name char(20) NOT NULL DEFAULT NULL, table_id varchar(10) NOT NULL DEFAULT NULL, operator_name char(20) NOT NULL DEFAULT NULL, now_using char(1) NOT NULL DEFAULT 0, person_number char(10) DEFAULT NULL, printflag char(1) DEFAULT '0', lb_id char(2) DEFAULT NULL) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql Alter table ll_outprint add extra_info varchar(30) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql Insert Into infosc(id,dt1,dt2,dt3,dt4,dt5,dt6,dt7,dt8)values(1,1,1,0,1,1,0,0,1); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_ClientNo','1207'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_APIAddr','http://api.hme.cn/hpf-open-api/'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_APIPort','80'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-25 10:10:49:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_Key','db2191f6c0fb520a6b08810591cea7f4'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-28 16:58:16:
+Exectue the sql  insert into ll_parameter (par_name,par_val)values('server_mac',''); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-28 16:58:16:
+Exectue the sql  delete from ll_parameter Where par_name = '服务器计算机名' ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-28 16:58:16:
+Exectue the sql  insert into ll_parameter (par_name,par_val)values('服务器计算机名','lichan-pc'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-28 16:58:16:
+Exectue the sql  UPDATE license Set company = '重庆浩品峰电子商务有限公司',softname = '好觅点餐餐饮软件', tel = '023-67039599' ,fax = '', email = 'server@hme.cn', http = 'server@hme.cn', addr = '重庆北部新区金童路9号叠彩城写字楼H2幢21F'; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-28 16:58:16:
+error on: set option blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-28 16:58:16:
+error on: set option public.blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-28 16:58:16:
+error on: set option blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-05-28 16:58:16:
+error on: set option public.blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql drop table infosc; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2015-06-04 14:42:41:
+Exectue the sql drop table infoclients; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql CREATE TABLE infosc (id integer NOT NULL DEFAULT 1, dt1 integer, dt2 integer, dt3 integer, dt4 integer, dt5 integer, dt6 integer, dt7 integer,dt8 integer,primary key(id)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql CREATE TABLE infoclients (code char(50)) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql CREATE TABLE ll_outprint (now_time timestamp NOT NULL DEFAULT now(*), computer_name char(30) DEFAULT NULL, curorder_id varchar(18) NOT NULL DEFAULT NULL, expensetype char(10) DEFAULT NULL, pos_name varchar(50) NOT NULL DEFAULT NULL, pos_print varchar(80) DEFAULT NULL, table_name char(20) NOT NULL DEFAULT NULL, table_id varchar(10) NOT NULL DEFAULT NULL, operator_name char(20) NOT NULL DEFAULT NULL, now_using char(1) NOT NULL DEFAULT 0, person_number char(10) DEFAULT NULL, printflag char(1) DEFAULT '0', lb_id char(2) DEFAULT NULL) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql Alter table ll_outprint add extra_info varchar(30) ; faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql Insert Into infosc(id,dt1,dt2,dt3,dt4,dt5,dt6,dt7,dt8)values(1,1,1,0,1,1,0,0,1); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_ClientNo','1207'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_APIAddr','http://192.168.0.10/hpf-open-api/'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_APIPort','8005'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql insert into uoption (opt_id,note) values ('HME_Key','db2191f6c0fb520a6b08810591cea7f4'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-06-04 14:42:41:
+Exectue the sql insert into uoption (opt_id,note) values ('Hme_checkNet','8.8.8.8'); faild!SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2015-09-11 15:02:51:
+数据存储语法出错:SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+select top 100 hisorder_id from hisorder where hme_id = '' or hme_id is null order by hisorder_id
+
+2015-09-25 10:23:03:
+Exectue the sql drop table infosc; faild!SQLSTATE = S0002
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Table 'infosc' not found
+
+2015-10-16 17:27:38:
+SQLSTATE = S0002
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Table 'infosc' not found
+
+2016-03-07 14:59:13:
+SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-03-07 14:59:14:
+SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-04-01 09:30:58:
+SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2016-04-01 09:30:58:
+SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-06-14 18:10:30:
+Exectue the sql  UPDATE license Set company = '重庆浩品峰电子商务有限公司',softname = '点餐猫软件', tel = '023-67039599' ,fax = '', email = 'server@hme.cn', http = 'server@hme.cn', addr = '重庆北部新区金童路9号叠彩城写字楼H2幢21F'; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2016-06-14 18:10:30:
+error on: set option blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-06-14 18:10:30:
+error on: set option public.blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-06-14 18:10:30:
+error on: set option blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-06-14 18:10:30:
+error on: set option public.blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-07-01 11:30:55:
+Exectue the sql  UPDATE license Set company = '重庆浩品峰电子商务有限公司',softname = '点餐猫软件', tel = '023-67039599' ,fax = '', email = 'server@hme.cn', http = 'server@hme.cn', addr = '重庆北部新区金童路9号叠彩城写字楼H2幢21F'; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2016-07-01 11:30:55:
+error on: set option blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-07-01 11:30:55:
+error on: set option public.blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-07-01 11:30:55:
+error on: set option blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-07-01 11:30:55:
+error on: set option public.blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-11-08 10:12:20:
+Exectue the sql  UPDATE license Set company = '重庆浩品峰电子商务有限公司',softname = '点餐猫软件', tel = '023-67039599' ,fax = '', email = 'server@hme.cn', http = 'server@hme.cn', addr = '重庆北部新区金童路9号叠彩城写字楼H2幢21F'; faild!SQLSTATE = 08S01
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Communication error
+
+2016-11-08 10:12:20:
+error on: set option blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-11-08 10:12:20:
+error on: set option public.blocking = 'On' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-11-08 10:12:20:
+error on: set option blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+
+2016-11-08 10:12:20:
+error on: set option public.blocking_timeout = '0' SQLSTATE = S1000
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Connection was terminated
+

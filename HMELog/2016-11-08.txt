@@ -1,0 +1,42 @@
+2016-11-08 10:11:16:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.0","timestamp":"1478599876666","mac":"442da4f6751f21982f8c9807ad3040c0"}
+
+2016-11-08 10:11:16:
+{"statusCode":1,"message":"OK","data":1478571198726,"succeed":true}
+
+2016-11-08 10:11:16:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.0","shopId":"62","timestamp":"1478599876866","mac":"686526dc48069a5c06f406eeaec03acb","system":""}
+
+2016-11-08 10:11:16:
+{"statusCode":1,"message":"OK","data":{"title":"CRM","version":"1.6.1","comment":"<p>1、【修复】少部分商家偶尔出现金额不平结不了账的小BUG</p><p>2、【增加】预定单接待后商家可以取销就餐中订单功能，非接待的订单只能用户取消</p>","downloadUrl":"http://img.hme.cn/res/appsoft/2016/09/56537c972eaf433da550ec2e9f7e92ea.zip","isUpgrade":1,"checkCode":null},"succeed":true}
+
+2016-11-08 10:11:52:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.0","timestamp":"1478599912923","mac":"97cf3dcd27976afc0035dcd3ec55fa3c"}
+
+2016-11-08 10:11:52:
+{"statusCode":1,"message":"OK","data":1478571234884,"succeed":true}
+
+2016-11-08 10:11:53:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.0","shopId":"62","timestamp":"1478599913038","mac":"0ab219f3b24cf0d86457472efbe731cd","system":""}
+
+2016-11-08 10:11:53:
+{"statusCode":1,"message":"OK","data":{"title":"CRM","version":"1.6.1","comment":"<p>1、【修复】少部分商家偶尔出现金额不平结不了账的小BUG</p><p>2、【增加】预定单接待后商家可以取销就餐中订单功能，非接待的订单只能用户取消</p>","downloadUrl":"http://img.hme.cn/res/appsoft/2016/09/56537c972eaf433da550ec2e9f7e92ea.zip","isUpgrade":1,"checkCode":null},"succeed":true}
+
+2016-11-08 10:29:53:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1478600993350","mac":"fc6e36fca8dfc33d346b1859cc213cd6"}
+
+2016-11-08 10:29:53:
+{"statusCode":1,"message":"OK","data":1478572315404,"succeed":true}
+
+2016-11-08 10:29:53:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1478600993544","mac":"cc03f3586ac6918c5482de5c71a6f4c4","system":""}
+
+2016-11-08 10:29:53:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-11-08 10:29:58:
+http://api.hme.cn/hpf-open-api/api/crm/user-login.api?jsonStr={"clientNo":"1207","timestamp":"1478600998378","mac":"7941862d1576e8641541bcb526f5ffe8","version":"1.6.1","account":"sccs","password":"123456","shopId":"62","macAddr":"5C-F9-DD-63-27-E1"}
+
+2016-11-08 10:29:58:
+{"statusCode":3,"message":"您使用的授权店铺已经绑定MAC地址，请重新输入或电话联系400-992-9339解除绑定！","data":null,"succeed":false}
+
