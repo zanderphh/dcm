@@ -40,3 +40,15 @@ http://api.hme.cn/hpf-open-api/api/crm/user-login.api?jsonStr={"clientNo":"1207"
 2016-11-08 10:29:58:
 {"statusCode":3,"message":"您使用的授权店铺已经绑定MAC地址，请重新输入或电话联系400-992-9339解除绑定！","data":null,"succeed":false}
 
+2016-11-08 13:57:12:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1478613432707","mac":"1675200339fa999ce4e5fded275a7a53"}
+
+2016-11-08 13:57:13:
+{"statusCode":1,"message":"OK","data":1478584754962,"succeed":true}
+
+2016-11-08 13:57:13:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1478613433076","mac":"9e0515c9cb7f6414977538e30fd05304","system":""}
+
+2016-11-08 13:57:13:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
