@@ -71,6 +71,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Lib\Attrs.cs" />
+    <Compile Include="Lib\ControlMoveHelper.cs" />
     <Compile Include="Lib\DataExportl.cs" />
     <Compile Include="Lib\EntityTool.cs" />
     <Compile Include="Lib\EventCommand.cs" />

@@ -172,6 +172,12 @@ namespace Lib
             }
             return false;
         }
+        /// <summary>
+        /// 通过属性名称获取依懒属性并进行验证
+        /// </summary>
+        /// <param name="fe"></param>
+        /// <param name="propertyName"></param>
+        /// <returns></returns>
         public static bool ValidBindingExpression(this FrameworkElement fe, string propertyName)
         {
             PropertyDescriptorCollection properties = TypeDescriptor.GetProperties(fe);

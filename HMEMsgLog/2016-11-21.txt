@@ -1,0 +1,158 @@
+2016-11-21 11:40:06:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479728406575","mac":"72384d2aae182aec542e204b20e54c3e"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{5|62|25673|CRM6220161121113838080|||62-1479699755677}[CRM]","succeed":true}
+
+2016-11-21 11:40:06:
+{5|62|25673|CRM6220161121113838080|||62-1479699755677}
+
+2016-11-21 11:40:06:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1479728406769","mac":"a5eef7efe4b2d80c66218229fb5a8048","orderNo":"CRM6220161121113838080"}
+
+{"statusCode":1,"message":"OK","data":{"shopId":62,"shopName":"市场部公用测试账户","serialId":1523021,"serialNo":"ZD00000231","endTime":"2016-11-21 11:39:38","totalMoney":0.01,"orderPayMoney":0.00,"onlinePayMoney":0.01,"offLinePayMoney":0.00,"payState":1},"succeed":true}
+
+2016-11-21 14:40:55:
+请求服务器数据失败，错误代码:-6
+
+2016-11-21 16:17:51:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745071498","mac":"67bbef710e3f20c96bf5d28a699bdeb5"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-11-21 16:17:51:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745071498","mac":"67bbef710e3f20c96bf5d28a699bdeb5"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1479745071633&mac=df43ea5cccc39655afb2e858d9443f31
+
+OK
+
+2016-11-21 16:17:52:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745072477","mac":"f977d9b8adaf1cd8ccb62725cca5d0da"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-11-21 16:17:52:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745072477","mac":"f977d9b8adaf1cd8ccb62725cca5d0da"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1479745072561&mac=1c388c86fcdb5eafc2cc1f35e036aaa0
+
+OK
+
+2016-11-21 16:17:53:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745073478","mac":"fb91a7a8ffc5194af487621a1bcba290"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-11-21 16:17:53:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745073478","mac":"fb91a7a8ffc5194af487621a1bcba290"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1479745073560&mac=d9e7f5664c4b60d367ca65aebdbf58d4
+
+OK
+
+2016-11-21 16:17:54:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745074488","mac":"394686b2c8358291bc47123e64de0cd0"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-11-21 16:17:54:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745074488","mac":"394686b2c8358291bc47123e64de0cd0"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1479745074554&mac=60892ee759fee8d93e20bbce5d43daa0
+
+OK
+
+2016-11-21 16:17:55:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745075478","mac":"e26cca3bab45cadad9b1cf9e668d3110"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2016-11-21 16:17:55:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479745075478","mac":"e26cca3bab45cadad9b1cf9e668d3110"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1479745075542&mac=9105005b9070548da6b084e006acb25a
+
+OK
+
+2016-11-21 18:05:01:
+请求服务器数据失败，错误代码:-6
+
+2016-11-21 18:14:06:
+请求服务器数据失败，错误代码:-6
+
+2016-11-21 18:15:48:
+请求服务器数据失败，错误代码:-6
+
+2016-11-22 17:15:33:
+请求服务器数据失败，错误代码:-6
+

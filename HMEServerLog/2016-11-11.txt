@@ -1,0 +1,10 @@
+2016-11-11 10:48:30:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1478861309283","mac":"33547ceee611c2eaa54787cca9b1cbac"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-11 11:18:31:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1478863110516","mac":"fe406cc7712ca425ecb5e5b89d9ea243"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+

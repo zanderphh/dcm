@@ -13,7 +13,7 @@ namespace Lib
     {
         public object Sender { get; set; }
         public TEventArgsType EventArgs { get; set; }
-        public object CommandArgument { get; set; } 
+        public object CommandArgument { get; set; }
     }
     public class EventCommand : MapEventToCommandBase<EventArgs>
     {
@@ -31,7 +31,7 @@ namespace Lib
 
         private static void OnCommandParameterPropertyChanged(DependencyObject d, DependencyPropertyChangedEventArgs e)
         {
-            var invokeCommand = d as EventCommand;
+            var invokeCommand = d as MapEventToCommandBase<TEventArgsType>;
             if (invokeCommand != null)
             {
                 invokeCommand.SetValue(CommandParameterProperty, e.NewValue);
@@ -40,7 +40,7 @@ namespace Lib
 
         private static void OnCommandPropertyChanged(DependencyObject d, DependencyPropertyChangedEventArgs e)
         {
-            var invokeCommand = d as EventCommand;
+            var invokeCommand = d as MapEventToCommandBase<TEventArgsType>;
             if (invokeCommand != null)
             {
                 invokeCommand.SetValue(CommandProperty, e.NewValue);

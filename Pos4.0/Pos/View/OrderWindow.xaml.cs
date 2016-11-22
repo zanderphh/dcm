@@ -33,7 +33,7 @@ namespace Pos.View
             {
                 dishTypeListBox.SelectedIndex = 0;
             }
-        }
+    }
         protected override void Window_Unloaded(object sender, RoutedEventArgs e)
         {
             base.Window_Unloaded(sender, e);

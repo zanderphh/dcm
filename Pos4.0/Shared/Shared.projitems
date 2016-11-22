@@ -242,4 +242,42 @@
       <Generator>PublicResXFileCodeGenerator</Generator>
     </EmbeddedResource>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="$(MSBuildThisFileDirectory)Assets\Button.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\Calendar.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\CheckBox.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ComboBox.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ContextMenu.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\Converters.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\DataGrid.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\DatePicker.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\GridSplitter.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\Hyperlink.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\Label.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ListBox.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ListView.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\MenuItem.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ModernProgressRingStyles.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ModernUI.Dark.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ModernUI.Light.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ModernUI.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\PasswordBox.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ProgressBar.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\RadioButton.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ScrollBar.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\Slider.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\TextBlock.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\TextBox.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\ToolTip.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Assets\TreeView.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\BBCodeBlock.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\Generic.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\ModernButton.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\ModernFrame.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\ModernMenu.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\ModernProgressRing.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\ModernTab.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\ModernToggleButton.xaml" />
+    <None Include="$(MSBuildThisFileDirectory)Themes\TransitioningContentControl.xaml" />
+  </ItemGroup>
 </Project>

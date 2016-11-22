@@ -17,4 +17,3 @@ D:\工作\dinner_HME\Pos4.0\Utils\bin\Debug\Newtonsoft.Json.xml
 D:\工作\dinner_HME\Pos4.0\Utils\bin\Debug\System.Windows.Interactivity.xml
 D:\工作\dinner_HME\Pos4.0\Utils\obj\Debug\Utils.dll
 D:\工作\dinner_HME\Pos4.0\Utils\obj\Debug\Utils.pdb
-D:\工作\dinner_HME\Pos4.0\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache

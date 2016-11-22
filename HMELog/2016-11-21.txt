@@ -1,0 +1,24 @@
+2016-11-21 11:38:28:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1479728308752","mac":"eefb58ea70c5ea4802276a8c8b501d8e"}
+
+2016-11-21 11:38:29:
+{"statusCode":1,"message":"OK","data":1479699658064,"succeed":true}
+
+2016-11-21 11:38:29:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1479728309122","mac":"3c805fccd24d0ff6fbc43c8b3778ab2e","system":""}
+
+2016-11-21 11:38:29:
+{"statusCode":22,"message":"ÎÞÉý¼¶°æ±¾","data":null,"succeed":false}
+
+2016-11-21 11:38:49:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1479728329421","mac":"d1181cb6499b651deb1281160376afb4","serialNo":"ZD00000231","userId":"","giveIntegral":"0","tableId":"25673","tableName":"%30%31%30","peopleNumber":"0","shopAreaName":"%E5%A4%A7%E5%8E%85%2D%30%31%30","consumeTime":"2016-11-21 11:38:45","endTime":"2016-11-21 11:38:49","containOrderNos":"CRM6220161121113838080","mealFee":"0","serviceFeeRatio":"0","roomFee":"50","serviceFee":"0","nonZero":"0","totalMoney":"50.01","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"0","detail":[{"dishId":"34728","dishName":"%E7%89%9B%E6%B2%B9%E7%BA%A2%E6%B1%A4%33","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%B8%AA","orderDetailId":"0"}]}
+
+2016-11-21 11:38:49:
+{"statusCode":1,"message":"OK","data":1523020,"succeed":true}
+
+2016-11-21 11:39:38:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1479728378575","mac":"d3731f20140665d50d8ac5c8d6798302","serialNo":"ZD00000231","userId":"","giveIntegral":"0","tableId":"25673","tableName":"%30%31%30","peopleNumber":"0","shopAreaName":"%E5%A4%A7%E5%8E%85%2D%30%31%30","consumeTime":"2016-11-21 11:38:45","endTime":"2016-11-21 11:39:38","containOrderNos":"CRM6220161121113838080","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.01","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"0","detail":[{"dishId":"34728","dishName":"%E7%89%9B%E6%B2%B9%E7%BA%A2%E6%B1%A4%33","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%B8%AA","orderDetailId":"0"}]}
+
+2016-11-21 11:39:38:
+{"statusCode":1,"message":"OK","data":1523021,"succeed":true}
+
