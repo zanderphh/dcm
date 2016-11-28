@@ -18,17 +18,19 @@ using System.Windows.Media;
 using System.Windows.Threading;
 
 namespace Lib
-{/// <summary>
-/// UI操作工具类
-/// </summary>
+{
+    /// <summary>
+    /// UI操作工具类
+    /// </summary>
     public static class UITool
-    {/// <summary>
-     /// 获取控件模板子无素
-     /// </summary>
-     /// <typeparam name="T"></typeparam>
-     /// <param name="obj"></param>
-     /// <param name="name"></param>
-     /// <returns></returns>
+    {
+        /// <summary>
+        /// 获取控件模板子无素
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="obj"></param>
+        /// <param name="name"></param>
+        /// <returns></returns>
         public static T ControlTemplateFindElement<T>(Control obj, string name)
         {
             return (T)obj.Template.FindName(name, obj);
@@ -301,7 +303,7 @@ namespace Lib
         /// <param name="json"></param>
         /// <param name="key"></param>
         /// <returns></returns>
-        public static string ParseValue(string jsonStr,string key)
+        public static string ParseValue(string jsonStr, string key)
         {
             try
             {

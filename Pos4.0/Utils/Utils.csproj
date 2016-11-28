@@ -73,10 +73,12 @@
     <Compile Include="Lib\Attrs.cs" />
     <Compile Include="Lib\ControlMoveHelper.cs" />
     <Compile Include="Lib\DataExportl.cs" />
+    <Compile Include="Lib\DragDropExtension.cs" />
     <Compile Include="Lib\EntityTool.cs" />
     <Compile Include="Lib\EventCommand.cs" />
     <Compile Include="Lib\ExcelHelper.cs" />
     <Compile Include="Lib\ExtendMethod.cs" />
+    <Compile Include="Lib\ListBoxExtiontion.cs" />
     <Compile Include="Lib\MySqlTool.cs" />
     <Compile Include="Lib\OdbcTool.cs" />
     <Compile Include="Lib\Internet.cs" />

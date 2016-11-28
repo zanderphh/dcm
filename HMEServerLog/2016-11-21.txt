@@ -313,3 +313,723 @@ http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"
 
 {"statusCode":1,"message":"OK","data":[],"succeed":true}
 
+2016-11-22 17:40:03:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479836402478","mac":"594a22f2f3821dd94971ab67a3a04005"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 18:10:04:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479838203430","mac":"6d6964afea6747b9aefe17f2ac1de031"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 18:40:05:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479840004448","mac":"689096820046079c35ff7ba01902bd25"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 19:10:06:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479841805443","mac":"494075fe803d3c0c5816d14ce2bf3115"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 19:40:07:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479843606440","mac":"e862c2d97489d1b712f26a9b52f364a6"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 20:10:08:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479845407449","mac":"d5ac6252fb1ee0464db37a34815a3ace"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 20:40:09:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479847208432","mac":"86dce95a22f620f11e48349bcb65d389"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 21:10:10:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479849009425","mac":"e7e08d6698610ce9530a2345e1bc4478"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 21:40:11:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479850810449","mac":"9ba8d6a7a2d1ca73a64416686fd3e9b0"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 22:10:12:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479852611446","mac":"91e28509d1a42ac33e3f4c8475fca8ea"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 22:40:13:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479854412442","mac":"8b81a6969c2195e2be614c73eba857db"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 23:10:14:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479856213449","mac":"9fafee6d6fbdd9e08aec71515d28d891"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-22 23:40:15:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479858014441","mac":"a253e2558c291dc6da0c6a3d03a2bcbf"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 00:10:17:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479859816211","mac":"a93b76535f57773a6aaaf42cb5404184"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 00:40:18:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479861617211","mac":"1d73d128dfbdc8cc19bc1b4975e33ce0"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 01:10:19:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479863418209","mac":"f75f207046b658c57b1abb3820ff6d15"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 01:40:20:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479865219211","mac":"f7510db67c04bba5224ccfd60be788be"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 02:10:21:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479867020211","mac":"02b4413a926ebd18e0d7e881451b92f0"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 02:40:22:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479868821219","mac":"033535fe605dae7a241e7d206be029f0"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 03:10:23:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479870622211","mac":"8fcbb32cffeeeb3de144f9f821d13e28"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 03:40:24:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479872423211","mac":"db743d05852f208941999455daf1ef97"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 04:10:25:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479874224205","mac":"592e7946ae362cf10c39e6a29ae26a28"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 04:40:26:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479876025208","mac":"35fc908823f56433e69e23c1bd7859dd"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 05:10:27:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479877826214","mac":"6f7c5702c00c98c3809f2796df195fa1"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 05:40:28:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479879627209","mac":"4b063fbf2da1ad302cb33b83ca94fb34"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 06:10:29:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479881428191","mac":"d77679247e8274b98a173ffd9a9e587d"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 06:40:30:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479883229215","mac":"fb48574fa8f918262aaa7fec141f554c"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 07:10:31:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479885030192","mac":"8a61267a3bce1e2b26b1298ffb460897"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 07:40:32:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479886831208","mac":"68e1e5e3fcbee6b7d68254456c036924"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 08:10:33:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479888632213","mac":"5c100dcf631accb398d012da4d00984f"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 08:40:34:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479890433220","mac":"593320e795c113d478e7b7e74f62820a"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 09:10:35:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479892234208","mac":"083b8aac9ce3d74887d8b680fa589037"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 09:40:36:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479894035209","mac":"3094772e1c8b4229531209ef441dbe42"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 10:10:38:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479895837037","mac":"67e9c155c7d68a099ddb7236c2f098eb"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 10:40:39:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479897638608","mac":"9322f5e048a8eac4d3b86a66ffaa67f1"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 11:10:40:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479899439619","mac":"56f2a19fc497318f9ad280c35db49196"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 11:40:41:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479901240617","mac":"99b869a6005bc64642f2e2d28736e27e"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 12:10:42:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479903041624","mac":"1518aaa19297952f9efb08f7cf9c0dc1"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 12:40:43:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479904842619","mac":"60550907ed5ebc3d484bbad43b819262"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 13:10:45:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479906644275","mac":"57933f43351ca84db9d05475f078e113"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 13:40:46:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479908445206","mac":"914b2e7faa5c46231184ae752693850b"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 14:10:47:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479910246337","mac":"4219eb915ee995c7bf61aaffb9452ed9"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 14:40:48:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479912047266","mac":"4b1d379d02d043712ecb40630e140696"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 15:10:54:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479913853283","mac":"10c66ebaf8f03972224277ef8d2670df"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 15:40:55:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479915654291","mac":"210c3dbe65570b67b7eaf816472c1ef9"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 16:10:56:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479917455269","mac":"f11b217b1ba4049389b5222df87139ad"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 16:40:57:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479919256268","mac":"707d27f723edb89ef57f613cde015ec6"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 17:10:58:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479921057695","mac":"4e779ba31b83a72f4dff1e239cfc6960"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 17:40:59:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479922858673","mac":"aaa5c7b329c9fce8832235f95d979efa"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 18:11:01:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479924660194","mac":"3d30b68510ddcfcd4495956fe7b7b68a"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 18:41:02:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479926461130","mac":"c4348954de609e575989cbbc68ecbea9"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 19:11:03:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479928262129","mac":"8cabe457e70f900b66aeedd1abd092f5"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 19:41:04:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479930063130","mac":"1ae516f575cf4efa8e4745aaf965597e"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 20:11:05:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479931864272","mac":"ec5ca0323f61dc9f5e6ada7c579907f5"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 20:41:06:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479933665273","mac":"59ae85a55c71b4e5b2adb5543fd7732e"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 21:11:07:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479935466271","mac":"1beb18b7576c0c9c9b70a5629b575f3e"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 21:41:08:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479937267270","mac":"50a8f7901d449c97d2a73f394fa4f71d"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 22:11:09:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479939068275","mac":"df80e45706fedf13643709d8c748c290"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 22:41:10:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479940869252","mac":"55a21eaa15eab2055dfcf5796908dcc1"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 23:11:11:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479942670273","mac":"9cc7f91ddc24a2f6bae830a42cd1b912"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-23 23:41:12:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479944471275","mac":"286ee0919a5a626d3785dc92c21ee858"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 00:11:13:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479946272282","mac":"86a9e75b6b7eeab45ea1dbf374ee7b7f"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 00:41:14:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479948073276","mac":"aa1e9db4d8b762fda8c2a75d0275f5c2"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 01:11:15:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479949874261","mac":"5e0a33c90e39e56fb04fc8b6d2b8a806"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 01:41:16:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479951675260","mac":"cfb0886e1f222c84af5348bbf5989f45"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 02:11:17:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479953476273","mac":"4d095fd5ca7bbdd1bedb5d5aff4dd6ac"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 02:41:18:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479955277275","mac":"913aa25593114c25535b7afab552fc0b"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 03:11:19:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479957078272","mac":"ed7f9bd636ee8da9f21bb5648eaa0b06"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 03:41:20:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479958879283","mac":"6c643838d639ea60e8c350bbc9853427"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 04:11:21:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479960680270","mac":"35923bfa508d225da8c287c25c7a23e7"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 04:41:22:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479962481276","mac":"af950ad0f7c82a4521a0755fcf83d82b"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 05:11:23:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479964282270","mac":"4bdf13634a5b0657743048b03c54632d"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 05:41:24:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479966083271","mac":"507c70e2b0cec6902098c1432fc8fb8f"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 06:11:25:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479967884273","mac":"f827e26c26390a72c697fdda698d3676"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 06:41:26:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479969685276","mac":"9f049d0602626081cbaf23cdad0ff7ea"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 07:11:27:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479971486259","mac":"3340562521e20fd865f2229ed69fcd16"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 07:41:28:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479973287276","mac":"447e5e53368c32dcccc466ef0b614b4a"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 08:11:29:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479975088268","mac":"5871535c275717f908881253ee7c9922"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 08:41:30:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479976889274","mac":"180f723f5689cc3eeb5b57d6fdbb20ed"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 09:11:31:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479978690276","mac":"9ee0ca19ea8855db88cb39d23bb38bfa"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 09:41:32:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479980491271","mac":"16bffe9adb32c471f91be560c56a2103"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 10:11:33:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479982292493","mac":"577e540b191e70bbe1a68949a4c3db0d"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 10:41:34:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479984093490","mac":"5fd5f462681385aa087437eec20caccd"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 11:11:36:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479985895143","mac":"a133c905afdf4c605b79c4fad8455372"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 11:41:38:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479987697635","mac":"2dc30a0311a6b4e49b8aba6d91f12991"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 12:11:40:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479989499758","mac":"5f831cb4f7e7d47f163d1ace490dfbde"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 12:41:41:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479991300783","mac":"94414dfa1e64cb0e23d698f7b65446c2"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 13:11:42:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479993101775","mac":"789515770066c53b429e6c6405560a7c"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 13:41:44:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479994903402","mac":"090ba188ce0655dea026a8fdfea09886"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 14:11:45:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479996704396","mac":"643f7af12d1507943bbbd2c3efc3cc9a"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 14:41:46:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1479998505400","mac":"b9129feb82dce108eb9bbc0447355b33"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 15:12:01:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480000319370","mac":"4d96d09d5c30f21ce2da238b0492dcc6"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 15:42:01:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480002120376","mac":"9e0664154573b5fba263b5059cc5d1cb"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 16:12:02:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480003921635","mac":"844cef384d1a3722b1e6ea6895f561bb"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 16:42:04:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480005723111","mac":"1baf43907d01d9ed59af07b09455d941"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 17:12:05:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480007524512","mac":"b2fb8a91ed30616a1f3fcbe8b321fd34"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 17:42:06:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480009325545","mac":"12e5741d54de69d4af8ab513d1574095"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 18:12:07:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480011126627","mac":"44e52577a41482563b5791d01696a1b5"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 18:42:08:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480012927623","mac":"1b470569de8739648df55c829067bf28"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 19:12:09:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480014728625","mac":"9fd3679a4ef63e0508c0ce404a48b694"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 19:42:10:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480016529623","mac":"82e18c1291ef84b9a4d07297ad92f6fb"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 20:12:11:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480018330622","mac":"f163e80e0a73b6ac6c236dae858e6e58"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 20:42:12:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480020131602","mac":"3d1c45f3f35df66d374853052d84217f"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 21:12:13:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480021932601","mac":"30b8abd3cb96fd23637c3955d63f972b"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 21:42:14:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480023733625","mac":"15d97ec1e3ec17a07981ef7a749a717d"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 22:12:15:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480025534599","mac":"aa947b8411e825f6a002d262d4f54e2c"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 22:42:16:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480027335619","mac":"c55079040fb84fa6cf34b79473235aa3"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 23:12:17:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480029136599","mac":"657a408cd95a02888d1c750c847a6368"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-24 23:42:18:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480030937602","mac":"9804be28dfadfec6a84e80a9fa2286bd"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 00:12:19:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480032738621","mac":"6f13cf9b40c0e65563058dcec5a2afa7"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 00:42:20:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480034539634","mac":"e0553a318529393c0204995c5e8e3142"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 01:12:21:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480036340622","mac":"1a849b95ad49e8f36c2f49ea79cc3a6a"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 01:42:22:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480038141622","mac":"4166b2cd94594355ab637dfd2490d96d"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 02:12:23:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480039942603","mac":"9f6a53b0596ef49fe9b28d50a922a600"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 02:42:24:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480041743621","mac":"804771b11d29cdc861d64b25f1f8f56c"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 03:12:25:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480043544609","mac":"dd2ec3c787fb3d41b8d4e18ef157c3c9"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 03:42:26:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480045345603","mac":"728a3238794ea5f424d2ec7ee518e4fc"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 04:12:27:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480047146597","mac":"825d55c8996196eaae512701563889d9"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 04:42:28:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480048947598","mac":"a06628ce2eea008bbeb8d18d24f5f0c0"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 05:12:29:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480050748601","mac":"f17b04bc20ce93fbd4573bfbac8b4c7a"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 05:42:30:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480052549627","mac":"e024f0fe7f680ae63ee5eed2bda8a667"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 06:12:31:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480054350623","mac":"aacc684b319f5cda31183798f9687703"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 06:42:32:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480056151619","mac":"9e06fb3cdd966e82184b654abacbbadc"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 07:12:33:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480057952645","mac":"5c5b004dcbe8f354664401de2c9ab4ff"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 07:42:34:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480059753626","mac":"d26b12dd2adac471e93a77d5b17b3943"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 08:12:35:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480061554624","mac":"a41ff6a3632d5b8a4e6f6b92e2a317a4"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 08:42:36:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480063355625","mac":"264629a4dda34f80024136c814a5ff43"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 09:12:37:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480065156601","mac":"e11bbab6ed350912d15cf5e8d97608a5"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 09:42:38:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480066957620","mac":"0efbb8e9a8f2ea9c918852e98f4edca2"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 10:12:40:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480068759538","mac":"1fb1ab650d8262f32e345f2f24e53480"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 10:42:42:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480070561128","mac":"faa7a2be2466baac4315e8487ed75e8b"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 11:12:43:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480072362126","mac":"9086abadcc0fe7a7ffccdd7e37287786"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 11:42:44:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480074163455","mac":"8935b00998106bd9f69c0d1c183ca4e9"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 12:12:45:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480075964450","mac":"3fcad607d31dc858a07ffaf4e551e6a6"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 12:42:46:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480077765454","mac":"e4220de3ebebd33811398a5e803d99c5"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 13:12:47:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480079566436","mac":"37f2dc1e69cbbd20e058bb2f6772eeed"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 13:42:49:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480081368117","mac":"587e009708de47a274fd324337811759"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 14:12:50:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480083169617","mac":"eee87daf614b346d0881e2ebe50ab53b"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 14:42:52:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480084970989","mac":"a2627ccc34568cee7a02c8253eeed69a"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 15:13:09:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480086788466","mac":"fb6bcbd1c029464d0876aaee4c3756c1"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 15:43:10:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480088589470","mac":"8aeb7928e6f8c016a48cc209e6d6ec61"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 16:13:12:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480090390912","mac":"efb7a60e6c179be08d07f5a757810364"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 16:43:13:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480092192199","mac":"5560d60f9e017a0d9a3d65c465e03e8e"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
+2016-11-25 17:13:14:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1480093993180","mac":"f9af73026ae708f8267dbc618d9904e8"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+
