@@ -1,0 +1,33 @@
+2016-12-29 16:02:24:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1483027344230","mac":"cb72a3f2e5a9b85ab5d63d86f10c78e7"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{4|62|7584|CY20151021074693291003947945|62-1482998545809}[CRM]","succeed":true}
+
+2016-12-29 16:02:24:
+{4|62|7584|CY20151021074693291003947945|62-1482998545809}
+
+2016-12-29 16:04:06:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1483027443138","mac":"ab61af8abec38fed0a1fa0867c999c16"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{5|62|8976|CRM6220161229160229686|||62-1482998647661}[CRM]","succeed":true}
+
+2016-12-29 16:04:06:
+{5|62|8976|CRM6220161229160229686|||62-1482998647661}
+
+2016-12-29 16:04:06:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1483027446367","mac":"f0b6944ed53eaac0156fc0cab6646ce2","orderNo":"CRM6220161229160229686"}
+
+{"statusCode":1,"message":"OK","data":{"shopId":62,"shopName":"市场部公用测试账户","serialId":1743597,"serialNo":"ZD00000237","endTime":"2016-12-29 16:02:47","totalMoney":3.00,"orderPayMoney":0.00,"onlinePayMoney":3.00,"offLinePayMoney":0.00,"payState":1},"succeed":true}
+
+2016-12-29 16:33:56:
+请求服务器数据失败，错误代码:-6
+
+2016-12-30 00:16:02:
+请求服务器数据失败，错误代码:-6
+
+2016-12-30 10:17:26:
+请求服务器数据失败，错误代码:-6
+
+2017-01-02 13:02:18:
+请求服务器数据失败，错误代码:-6
+

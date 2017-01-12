@@ -1,0 +1,8 @@
+2016-12-16 11:01:09:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1481886069612","mac":"229cadf10c9ea7c1cd6a13add031989c"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{7|62|CY20161212161668481003046951|null|62-1481857269756}[CRM]","succeed":true}
+
+2016-12-16 11:01:09:
+{7|62|CY20161212161668481003046951|null|62-1481857269756}
+

@@ -11,6 +11,7 @@ using System.Windows;
 using Pos.BL.Http;
 using Newtonsoft.Json.Linq;
 using System.Windows.Input;
+using Utils.Lib;
 
 namespace Pos.ViewModel
 {
@@ -30,11 +31,11 @@ namespace Pos.ViewModel
                         var element = e.OriginalSource as UIElement;
                         Login(element);
                     },
-                    p =>string.IsNullOrEmpty(OperatorId) == false
+                    p => string.IsNullOrEmpty(OperatorId) == false
                 ));
             }
         }
-               
+
 
         public RelayCommand<object> LoginCommand { get; set; }
         /// <summary>
@@ -68,7 +69,7 @@ namespace Pos.ViewModel
             get { return _operatorID; }
             set
             {
-                Set("OperatorId",ref _operatorID, value, true);
+                Set("OperatorId", ref _operatorID, value, true);
                 this.ValidateProperty("OperatorId");
                 LoginCommand.RaiseCanExecuteChanged();
             }
@@ -80,7 +81,7 @@ namespace Pos.ViewModel
             get { return _operatorPwd; }
             set
             {
-                Set("OperatorPwd",ref _operatorPwd, value, true);
+                Set(() => OperatorPwd, ref _operatorPwd, value, true);
                 this.ValidateProperty("OperatorPwd");
             }
         }

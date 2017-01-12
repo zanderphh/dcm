@@ -1,7 +1,7 @@
-2016-11-21 11:38:41.962:INFO:oejs.Server:jetty-8.1.18.v20150929
-2016-11-21 11:38:42.172:INFO:oejw.WebInfConfiguration:Extract jar:file:/D:/工作/dinner_HME/jungle.war!/ to C:\Users\Cheng\AppData\Local\Temp\jetty-0.0.0.0-5757-jungle.war-_-any-\webapp
-2016-11-21 11:38:43.133:INFO:oejw.StandardDescriptorProcessor:NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
-2016-11-21 11:38:44.092:INFO:/:Initializing Spring root WebApplicationContext
-2016-11-21 11:38:51.147:INFO:/:Initializing Spring FrameworkServlet 'action-servlet'
-2016-11-21 11:38:51.639:INFO:/:Initializing Spring FrameworkServlet 'json-servlet'
-2016-11-21 11:38:51.786:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:5757
+2017-01-12 10:13:07.966:INFO:oejs.Server:jetty-8.1.18.v20150929
+2017-01-12 10:13:08.212:INFO:oejw.WebInfConfiguration:Extract jar:file:/D:/工作/dinner_HME/jungle.war!/ to C:\Users\Cheng\AppData\Local\Temp\jetty-0.0.0.0-5757-jungle.war-_-any-\webapp
+2017-01-12 10:13:09.583:INFO:oejw.StandardDescriptorProcessor:NO JSP Support for /, did not find org.apache.jasper.servlet.JspServlet
+2017-01-12 10:13:10.449:INFO:/:Initializing Spring root WebApplicationContext
+2017-01-12 10:13:16.372:INFO:/:Initializing Spring FrameworkServlet 'action-servlet'
+2017-01-12 10:13:16.835:INFO:/:Initializing Spring FrameworkServlet 'json-servlet'
+2017-01-12 10:13:17.003:INFO:oejs.AbstractConnector:Started SelectChannelConnector@0.0.0.0:5757

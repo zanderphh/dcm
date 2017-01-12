@@ -1,0 +1,54 @@
+2016-12-29 16:02:22:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1483027342233","mac":"7e39812f8cbee83a36e8c4fde8ef9dd4"}
+
+2016-12-29 16:02:22:
+{"statusCode":1,"message":"OK","data":1482998543838,"succeed":true}
+
+2016-12-29 16:02:22:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1483027342487","mac":"8ac0556030342145f7bdcca4b00aa1b5","system":""}
+
+2016-12-29 16:02:22:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-29 16:02:47:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1483027367218","mac":"d53daa0f563a23f27a68c7b6262dd308","serialNo":"ZD00000237","userId":"","giveIntegral":"0","tableId":"8976","tableName":"%E4%BA%8C%E5%8F%B7%E6%A1%8C","peopleNumber":"0","shopAreaName":"%E5%A4%A7%E5%8E%85%2D%E4%BA%8C%E5%8F%B7%E6%A1%8C","consumeTime":"2016-12-29 16:02:42","endTime":"2016-12-29 16:02:47","containOrderNos":"CRM6220161229160229686","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"3.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"0","detail":[{"dishId":"30122","dishName":"%E7%83%AD%E6%8B%8C%E7%A9%BA%E5%BF%83%E8%8F%9C","quantity":"1.000","price":"3.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+2016-12-29 16:02:47:
+{"statusCode":1,"message":"OK","data":1743597,"succeed":true}
+
+2016-12-29 16:04:29:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1483027469154","mac":"81f3e7450acfbf4ca6834eb2de1d7ff4"}
+
+2016-12-29 16:04:29:
+{"statusCode":1,"message":"OK","data":1482998670726,"succeed":true}
+
+2016-12-29 16:04:29:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1483027469368","mac":"026427bbb51611ea989f4c5d3518d2d4","system":""}
+
+2016-12-29 16:04:29:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-29 16:04:38:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1483027478027","mac":"960dcb8548691a34c24b1e023ed32a46","orderNo":"CRM6220161229160229686"}
+
+2016-12-29 16:04:38:
+{"statusCode":1,"message":"OK","data":{"shopId":62,"shopName":"市场部公用测试账户","serialId":1743597,"serialNo":"ZD00000237","endTime":"2016-12-29 16:02:47","totalMoney":3.00,"orderPayMoney":0.00,"onlinePayMoney":3.00,"offLinePayMoney":0.00,"payState":1},"succeed":true}
+
+2016-12-29 16:04:42:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1483027482089","mac":"fd869fbcb84dd021ee265b641ca78f7c","serialNo":"ZD00000237","userId":"","giveIntegral":"0","tableId":"8976","tableName":"%E4%BA%8C%E5%8F%B7%E6%A1%8C","peopleNumber":"0","shopAreaName":"%E5%A4%A7%E5%8E%85%2D%E4%BA%8C%E5%8F%B7%E6%A1%8C","consumeTime":"2016-12-29 16:02:42","endTime":"2016-12-29 16:04:42","containOrderNos":"CRM6220161229160229686","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"3.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"0","detail":[{"dishId":"30122","dishName":"%E7%83%AD%E6%8B%8C%E7%A9%BA%E5%BF%83%E8%8F%9C","quantity":"1.000","price":"3.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+2016-12-29 16:04:42:
+{"statusCode":1,"message":"OK","data":1743597,"succeed":true}
+
+2016-12-29 16:04:42:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1483027482219","mac":"9d5c3c60b1ee642ed2dac9c9187a023f","orderNo":"CRM6220161229160229686"}
+
+2016-12-29 16:04:42:
+{"statusCode":1,"message":"OK","data":{"shopId":62,"shopName":"市场部公用测试账户","serialId":1743597,"serialNo":"ZD00000237","endTime":"2016-12-29 16:02:47","totalMoney":3.00,"orderPayMoney":0.00,"onlinePayMoney":3.00,"offLinePayMoney":0.00,"payState":1},"succeed":true}
+
+2016-12-29 16:04:44:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1483027484585","mac":"f6dcda9f4f3ccbf0de7d2b936909057f","serialNo":"ZD00000237","userId":"0","giveIntegral":"0","tableId":"8976","tableName":"%E4%BA%8C%E5%8F%B7%E6%A1%8C","peopleNumber":"0","shopAreaName":"%E5%A4%A7%E5%8E%85%2D%E4%BA%8C%E5%8F%B7%E6%A1%8C","consumeTime":"2016-12-29 16:02:42","endTime":"2016-12-29 16:04:43","containOrderNos":"CRM6220161229160229686","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"3.00","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"1","detail":[{"dishId":"30122","dishName":"%E7%83%AD%E6%8B%8C%E7%A9%BA%E5%BF%83%E8%8F%9C","quantity":"1.000","price":"3.00","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+2016-12-29 16:04:45:
+{"statusCode":1,"message":"OK","data":1743602,"succeed":true}
+

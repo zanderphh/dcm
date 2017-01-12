@@ -1,0 +1,71 @@
+2016-12-09 11:57:28:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1481284648367","mac":"402c5f571ce4cda4e7200d7ab220af04"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{5|62|9015|CRM6220161209115658102|||62-1481256036227}[CRM]","succeed":true}
+
+2016-12-09 11:57:28:
+{5|62|9015|CRM6220161209115658102|||62-1481256036227}
+
+2016-12-09 11:57:28:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1481284648697","mac":"69c679e8bcf3b12cc0e286c35d1cda95","orderNo":"CRM6220161209115658102"}
+
+{"statusCode":1,"message":"OK","data":{"shopId":62,"shopName":"市场部公用测试账户","serialId":1630387,"serialNo":"ZD00000234","endTime":"2016-12-09 11:57:12","totalMoney":0.01,"orderPayMoney":0.00,"onlinePayMoney":0.01,"offLinePayMoney":0.00,"payState":1},"succeed":true}
+
+2016-12-09 14:57:35:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:36:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:37:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:38:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:39:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:40:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:41:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:42:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:43:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:44:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:45:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:46:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 14:57:47:
+请求服务器数据失败，错误代码:-6
+
+2016-12-09 16:28:40:
+请求服务器数据失败，错误代码:-6
+
+2016-12-11 13:50:46:
+请求服务器数据失败，错误代码:-6
+
+2016-12-12 12:13:00:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1481544780608","mac":"a07058341dc70344b33e1693544ae749"}
+
+{"statusCode":1,"message":"OK","data":"[CRM]{1|62|CY20161212161668481003046951|13658354485|r|62-1481516173465}[CRM]","succeed":true}
+
+2016-12-12 12:13:00:
+{1|62|CY20161212161668481003046951|13658354485|r|62-1481516173465}
+
+2016-12-12 12:13:00:
+http://api.hme.cn/hpf-open-api/api/crm/get-order-detail.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","orderNo":"CY20161212161668481003046951","account":"sccs","timestamp":"1481544780876","mac":"1ed52c0ccccd821ebc7426bd59047fbd"}
+
+{"statusCode":1,"message":"OK","data":{"orderInfo":{"orderId":345780,"shopId":62,"userId":65402,"serialId":null,"orderNo":"CY20161212161668481003046951","orderType":1,"bookedTime":"2016-12-15 11:00:00","phone":null,"shopName":"市场部公用测试账户","tableId":null,"shopAreaName":null,"shopPhone":"","shopLogoUrl":"http://img.hme.cn/res/shop/a/2015/3/1c07f15cac894b3695502b07a1df4b73_3.jpg","location":"83.63236,0.923393","peopleNumber":1,"contact":"r","contactPhone":"13658354485","isNeedRoom":0,"comment":null,"bookedNumber":2,"prepayAmount":82.00,"orderState":6,"confirmTime":null,"consumeState":0,"appraiseState":0,"enablePaymentType":"1,2,3","isLottery":0,"payFlowNo":"PY20161212569215981003493432","payBackTime":"2016-12-12 12:16:12","paymentTypeDesc":"免密积分支付:820.00;","refundApplyState":0,"showState":0,"invoiceTitle":null,"rebateSerialNo":null,"ip":"223.104.25.231","apiClientNo":"1003","createTime":"2016-12-12 12:16:06","address":"渝北区 汽博中心叠彩城21F","endTime":0,"cashAmmout":0.00,"inteAmmount":820.00,"payType":1,"cashPayType":0,"bookedNumberSecond":0,"prepayAmountSecond":0.00,"openTime":null,"payTimes":1,"rebateStatus":null,"rebateAmount":null},"detail":[{"detailId":3528515,"dishId":34860,"orderId":345780,"dishName":"餐位费","quantity":1.000,"cancleQuantity":null,"price":2.00,"rebatePoints":0.00,"basePoints":0.00,"createTime":"2016-12-12 12:16:06","isDelete":0,"userId":65402,"dishImgUrl":null,"dishState":0,"mutifyType":0,"clientNo":"1003","crmId":"","unit":"位","nickname":null,"phone":null,"headImg":null,"doWay":"","dishDesc":"","ydQuantity":0},{"detailId":3528516,"dishId":34897,"orderId":345780,"dishName":"山城啤酒","quantity":8.000,"cancleQuantity":null,"price":10.00,"rebatePoints":0.00,"basePoints":0.00,"createTime":"2016-12-12 12:16:06","isDelete":0,"userId":65402,"dishImgUrl":null,"dishState":0,"mutifyType":0,"clientNo":"1003","crmId":"","unit":"瓶","nickname":null,"phone":null,"headImg":null,"doWay":"","dishDesc":"","ydQuantity":0}],"userRebateRatio":1},"succeed":true}
+

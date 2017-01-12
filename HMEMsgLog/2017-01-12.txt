@@ -1,0 +1,461 @@
+2017-01-12 10:44:29:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:44:39:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217869412","mac":"dfd2255c7843ef656e38e9aaec9237e0"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:44:39:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217869412","mac":"dfd2255c7843ef656e38e9aaec9237e0"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484217879353&mac=8a28ee1347442fe1561a661159fb0cb1
+
+OK
+
+2017-01-12 10:44:48:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217879492","mac":"a6dc0802187ef015527a6d3bd02717e7"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:44:48:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217879492","mac":"a6dc0802187ef015527a6d3bd02717e7"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484217888480&mac=05e9e3c801e5167de49d41645f9e712a
+
+OK
+
+2017-01-12 10:45:07:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217888566","mac":"e9a46cb57c614824424a6b72fd577302"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:45:07:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217888566","mac":"e9a46cb57c614824424a6b72fd577302"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484217907487&mac=7e12a52fa670dcb442624b5251e259a1
+
+OK
+
+2017-01-12 10:45:39:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:46:11:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:46:43:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:47:15:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:47:29:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218035927","mac":"5a4da50984caa94e8669d07c71e63a03"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:47:29:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218035927","mac":"5a4da50984caa94e8669d07c71e63a03"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484218049536&mac=b68ffd4fcca3049c412229b997599baa
+
+OK
+
+2017-01-12 10:47:46:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218049670","mac":"f8885fb859de38b467804b2168cd36f9"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:47:46:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218049670","mac":"f8885fb859de38b467804b2168cd36f9"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484218066921&mac=81eed077b0fc5e14555ee11b3798997d
+
+OK
+
+2017-01-12 10:48:19:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:48:51:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:49:23:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:49:58:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:50:30:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:51:02:
+请求服务器数据失败，错误代码:-6
+
+2017-01-12 10:51:02:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218262541","mac":"83181cc13bb05c2b428a6efdc6012179"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:51:02:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218262541","mac":"83181cc13bb05c2b428a6efdc6012179"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484218262657&mac=908e6b484f185550a0fe004cb1c13512
+
+OK
+
+2017-01-12 10:51:03:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218263443","mac":"e50a86c39e75d49fc077e5f78b9877e4"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:51:03:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218263443","mac":"e50a86c39e75d49fc077e5f78b9877e4"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484218263511&mac=a4bf614027ad488062d999c0f257d7b3
+
+OK
+
+2017-01-12 10:51:04:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218264442","mac":"c3808c2adb249560d818fd9bd7d266fc"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:51:04:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218264442","mac":"c3808c2adb249560d818fd9bd7d266fc"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484218264511&mac=7e9c5d8531525ac8495d4ffcfddc8c70
+
+OK
+
+2017-01-12 10:51:05:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218265456","mac":"2eae6fedd2940f0b3dd451878a7f3481"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:51:05:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218265456","mac":"2eae6fedd2940f0b3dd451878a7f3481"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484218265520&mac=308ab7ddb6a84492f9e74ce3421ca704
+
+OK
+
+2017-01-12 10:51:06:
+http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218266437","mac":"aef99a0bc944a1aa50e3f76d6ee31743"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:51:06:
+http://log.hme.cn/hpf-log/v1/put_log?clientNo=1207&version=1.6.1&level=ERROR&content=http://api.hme.cn/hpf-open-api/api/msg/shop.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218266437","mac":"aef99a0bc944a1aa50e3f76d6ee31743"}
+
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+&shopId=62&timestamp=1484218266498&mac=82d698c61fb2318d12f651ae61bf3450
+
+OK
+
+2017-01-12 11:02:36:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:02:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:02:46:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:02:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:02:56:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:01:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:11:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:21:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:26:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:36:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:46:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:03:56:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:01:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:11:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:16:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:21:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:26:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:31:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:36:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:41:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:46:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:51:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:04:56:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:01:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:06:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:12:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:17:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:22:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:27:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:32:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:37:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:42:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:47:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:52:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:05:57:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+
+2017-01-12 11:06:02:
+hmeMsg提示, 无法连接到指定的数据库!SQLSTATE = 08001
+[Sybase][ODBC Driver][Adaptive Server Anywhere]Database server not found
+

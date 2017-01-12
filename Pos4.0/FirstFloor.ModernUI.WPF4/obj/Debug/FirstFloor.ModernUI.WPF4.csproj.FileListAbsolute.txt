@@ -65,3 +65,4 @@ D:\工作\dinner_HME\Pos4.0\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.Modern
 D:\工作\dinner_HME\Pos4.0\FirstFloor.ModernUI.WPF4\obj\Debug\pl\FirstFloor.ModernUI.resources.dll
 D:\工作\dinner_HME\Pos4.0\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.dll
 D:\工作\dinner_HME\Pos4.0\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.pdb
+D:\工作\dinner_HME\Pos4.0\FirstFloor.ModernUI.WPF4\obj\Debug\FirstFloor.ModernUI.WPF4.csprojResolveAssemblyReference.cache

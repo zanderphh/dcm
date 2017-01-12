@@ -80,6 +80,7 @@
     <Compile Include="Lib\ExtendMethod.cs" />
     <Compile Include="Lib\ListBoxExtiontion.cs" />
     <Compile Include="Lib\MySqlTool.cs" />
+    <Compile Include="Lib\NotificationExtensions.cs" />
     <Compile Include="Lib\OdbcTool.cs" />
     <Compile Include="Lib\Internet.cs" />
     <Compile Include="Lib\Test.cs" />

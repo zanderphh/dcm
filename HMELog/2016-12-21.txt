@@ -1,0 +1,120 @@
+2016-12-21 14:48:54:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482331734517","mac":"4edc6240c294cffc2bfa2abe827b4c06"}
+
+2016-12-21 14:48:54:
+{"statusCode":1,"message":"OK","data":1482302936349,"succeed":true}
+
+2016-12-21 14:48:54:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482331734740","mac":"132a88c49e7ff102dadc9478ac5d0f77","system":""}
+
+2016-12-21 14:48:54:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-21 14:53:25:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482332005693","mac":"3a6c4148e7a02177c01520e684c0e5da"}
+
+2016-12-21 14:53:25:
+{"statusCode":1,"message":"OK","data":1482303207513,"succeed":true}
+
+2016-12-21 14:53:25:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482332005929","mac":"fccfa7c0fe0076da1b49d8853983d6f6","system":""}
+
+2016-12-21 14:53:26:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-21 15:13:25:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482333205126","mac":"5e4b5f6b2f9ffdbf2a9dfff72a26a39a"}
+
+2016-12-21 15:13:25:
+{"statusCode":1,"message":"OK","data":1482304406958,"succeed":true}
+
+2016-12-21 15:13:25:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482333205407","mac":"345c0e9eb49a4077674f56939e1a1247","system":""}
+
+2016-12-21 15:13:25:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-21 15:16:54:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482333414203","mac":"00a4031c0c50c4334f6bbea8e619e7e7"}
+
+2016-12-21 15:16:54:
+{"statusCode":1,"message":"OK","data":1482304616027,"succeed":true}
+
+2016-12-21 15:16:54:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482333414482","mac":"47d797feb63eee4c9b43f18ab3846f92","system":""}
+
+2016-12-21 15:16:54:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-21 15:26:27:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482333987611","mac":"e1de1bb1f89bac70fc6ca72e07697f0e"}
+
+2016-12-21 15:26:27:
+{"statusCode":1,"message":"OK","data":1482305202848,"succeed":true}
+
+2016-12-21 15:26:27:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482333987826","mac":"21667ac9f2e0fd23edd24e38002c456c","system":""}
+
+2016-12-21 15:26:27:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-21 15:26:58:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482334018731","mac":"0016ef4e7667fcf23456165accb6d865"}
+
+2016-12-21 15:26:58:
+{"statusCode":1,"message":"OK","data":1482305233948,"succeed":true}
+
+2016-12-21 15:26:58:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482334018968","mac":"291724362de34e637e4b4ed60d2ba739","system":""}
+
+2016-12-21 15:26:59:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-21 15:27:11:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482334031172","mac":"588c5d2ccd7fd152659fbcc57000b0aa"}
+
+2016-12-21 15:27:11:
+{"statusCode":1,"message":"OK","data":1482305246398,"succeed":true}
+
+2016-12-21 15:27:11:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482334031357","mac":"51f4eac5d860124c8fde6e54dd2a7f70","system":""}
+
+2016-12-21 15:27:11:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-21 15:27:40:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482334060087","mac":"e5b3b54f56f69f917ae3ad3866aab561"}
+
+2016-12-21 15:27:40:
+{"statusCode":1,"message":"OK","data":1482305275313,"succeed":true}
+
+2016-12-21 15:27:40:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482334060288","mac":"9a2e17c56974e98097ba48652e8c8291","system":""}
+
+2016-12-21 15:27:40:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-21 15:31:12:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482334272414","mac":"fb883094b4322c5272d1b5c868a45ae3"}
+
+2016-12-21 15:31:12:
+{"statusCode":1,"message":"OK","data":1482305487678,"succeed":true}
+
+2016-12-21 15:31:12:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482334272699","mac":"bee502149e284cea359420dfaded8759","system":""}
+
+2016-12-21 15:31:12:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-21 15:42:17:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1482334937863","mac":"c363c74b514aa57f7491c0e34b6b1ec0"}
+
+2016-12-21 15:42:18:
+{"statusCode":1,"message":"OK","data":1482306153103,"succeed":true}
+
+2016-12-21 15:42:18:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1482334938111","mac":"9f82dbe46eb0d605f6c98b1b91056fbd","system":""}
+
+2016-12-21 15:42:18:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+

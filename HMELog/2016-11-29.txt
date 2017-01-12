@@ -1,0 +1,12 @@
+2016-11-29 10:50:30:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1480416630663","mac":"c188f67f37bd4a8aa309ce66fbcb91e0"}
+
+2016-11-29 10:50:31:
+{"statusCode":1,"message":"OK","data":1480387983943,"succeed":true}
+
+2016-11-29 10:50:31:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1480416631438","mac":"30bfc59dc1bd324f86190d631031bbac","system":""}
+
+2016-11-29 10:50:31:
+{"statusCode":22,"message":"ÎÞÉý¼¶°æ±¾","data":null,"succeed":false}
+

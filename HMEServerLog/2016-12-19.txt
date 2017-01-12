@@ -1,0 +1,5 @@
+2016-12-19 14:10:13:
+http://api.hme.cn/hpf-open-api/api/crm/get-not-consume-order-list.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","isAll":"0","account":"sccs","timestamp":"1482156612522","mac":"36242c021b53e39463be233fd8ff5f5d"}
+
+{"statusCode":1,"message":"OK","data":[],"succeed":true}
+

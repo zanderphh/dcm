@@ -1,0 +1,36 @@
+2016-12-09 11:55:36:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1481284536051","mac":"bdbb83223002f89b578ffb83d11bb324"}
+
+2016-12-09 11:55:36:
+{"statusCode":1,"message":"OK","data":1481255924068,"succeed":true}
+
+2016-12-09 11:55:36:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1481284536451","mac":"e392cc76ae0fe13b1a74af759da06549","system":""}
+
+2016-12-09 11:55:36:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2016-12-09 11:57:12:
+http://api.hme.cn/hpf-open-api/api/crm/submit-consume-serial.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1481284632445","mac":"0b52f6beb8ef13a3c2083dd830f6c7a7","serialNo":"ZD00000234","userId":"","giveIntegral":"0","tableId":"9015","tableName":"%30%39","peopleNumber":"0","shopAreaName":"%E5%A4%A7%E5%8E%85%2D%30%39","consumeTime":"2016-12-09 11:57:09","endTime":"2016-12-09 11:57:12","containOrderNos":"CRM6220161209115658102","mealFee":"0","serviceFeeRatio":"0","roomFee":"0","serviceFee":"0","nonZero":"0","totalMoney":"0.01","offLinePayMoney":"0","isWholeBill":"0","ratePerson":"1.00","payState":"0","detail":[{"dishId":"30121","dishName":"%E6%90%93%E6%A4%92%E5%8D%97%E7%93%9C%E4%B8%9D","quantity":"1.000","price":"0.01","orderType":"2","unit":"%E4%BB%BD","orderDetailId":"0"}]}
+
+2016-12-09 11:57:12:
+{"statusCode":1,"message":"OK","data":1630387,"succeed":true}
+
+2016-12-09 11:57:30:
+http://api.hme.cn/hpf-open-api/api/crm/get-consume-pay-info.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","account":"sccs","timestamp":"1481284650597","mac":"b67779c1607d558dadada0054bcc3515","orderNo":"CRM6220161209115658102"}
+
+2016-12-09 11:57:30:
+{"statusCode":1,"message":"OK","data":{"shopId":62,"shopName":"市场部公用测试账户","serialId":1630387,"serialNo":"ZD00000234","endTime":"2016-12-09 11:57:12","totalMoney":0.01,"orderPayMoney":0.00,"onlinePayMoney":0.01,"offLinePayMoney":0.00,"payState":1},"succeed":true}
+
+2016-12-09 16:51:04:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1481302264541","mac":"0f48980040a03625208213c35fa1e6a9"}
+
+2016-12-09 16:51:04:
+{"statusCode":1,"message":"OK","data":1481273656387,"succeed":true}
+
+2016-12-09 16:51:04:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1481302264866","mac":"ccf4c35f0b99a04225af6ab920bf7940","system":""}
+
+2016-12-09 16:51:04:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+

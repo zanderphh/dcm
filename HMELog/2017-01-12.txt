@@ -1,0 +1,101 @@
+2017-01-12 10:33:19:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1484217199596","mac":"a12983ca7b87a73f527de71cd69a19d5"}
+
+2017-01-12 10:33:19:
+{"statusCode":1,"message":"OK","data":1484188400928,"succeed":true}
+
+2017-01-12 10:33:19:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217199909","mac":"d3860e005b030488df906da1fdba3d21","system":""}
+
+2017-01-12 10:33:19:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2017-01-12 10:35:20:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1484217320450","mac":"44de3d476c0329ae26f6d9c44a4eaa79"}
+
+2017-01-12 10:35:20:
+{"statusCode":1,"message":"OK","data":1484188521726,"succeed":true}
+
+2017-01-12 10:35:20:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217320607","mac":"2795149e947063e20228bbe112a5c5cf","system":""}
+
+2017-01-12 10:35:20:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2017-01-12 10:40:11:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1484217611018","mac":"545255b94e32d35c88d86298ab5a699d"}
+
+2017-01-12 10:40:11:
+{"statusCode":1,"message":"OK","data":1484188812778,"succeed":true}
+
+2017-01-12 10:40:11:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217611686","mac":"e1f841ce87676976fc2531a0b8746011","system":""}
+
+2017-01-12 10:40:11:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2017-01-12 10:40:14:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1484217614083","mac":"629ae8bc752e2cd587e983c1a3e43a6a"}
+
+2017-01-12 10:40:14:
+{"statusCode":1,"message":"OK","data":1484188815321,"succeed":true}
+
+2017-01-12 10:40:14:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484217614194","mac":"aa5816c54bada7a6e9ec48ddf656a7d8","system":""}
+
+2017-01-12 10:40:14:
+{"statusCode":22,"message":"无升级版本","data":null,"succeed":false}
+
+2017-01-12 10:45:39:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1484217939633","mac":"ac1d3f8095e7076c18490a8388ebeade"}
+
+2017-01-12 10:46:05:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1484217965416","mac":"771090602179c7c3859d1152be199e1b"}
+
+2017-01-12 10:46:32:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1484217992755","mac":"0b3a7af364be6922b9a0d0d427799298"}
+
+2017-01-12 10:46:51:
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:46:52:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218012099","mac":"630904f392f1011849d882da28fb70d0","system":""}
+
+2017-01-12 10:47:08:
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:49:37:
+http://api.hme.cn/hpf-open-api/api/common/get-current-time.api?jsonStr={"clientNo":"1207","version":"1.6.1","timestamp":"1484218177845","mac":"f22d75c79fa3a89b1a5dcadc363d4f3f"}
+
+2017-01-12 10:49:50:
+<html>
+<head><title>502 Bad Gateway</title></head>
+<body bgcolor="white">
+<center><h1>502 Bad Gateway</h1></center>
+<hr><center>nginx/1.7.9</center>
+</body>
+</html>
+
+
+2017-01-12 10:49:50:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218190818","mac":"54185f517358c33676463c34deaf996a","system":""}
+
+2017-01-12 10:51:06:
+http://api.hme.cn/hpf-open-api/api/crm/upgrade-check.api?jsonStr={"clientNo":"1207","version":"1.6.1","shopId":"62","timestamp":"1484218190818","mac":"54185f517358c33676463c34deaf996a","system":""}
+
+请求服务器超时，错误代码:-6
+

@@ -91,7 +91,7 @@ namespace Lib
 
     public static class ValidationExtension
     {
-        public static string ValidateProperty(this ValidationViewModelBase dp, string propertyName)
+        public static string ValidateProperty(this ValidationViewModelBase dp,string propertyName)
         {
             if (string.IsNullOrEmpty(propertyName))
                 return string.Empty;
